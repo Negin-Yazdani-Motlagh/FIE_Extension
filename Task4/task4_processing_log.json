@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-01-06T14:57:59.005729",
+  "total_postings": 148047,
+  "postings_with_text": 142839,
+  "domain_detection": {
+    "Communication Skills": {
+      "postings_with_domain": 80714,
+      "percentage": 54.51917296534209,
+      "total_matches": 269746,
+      "avg_matches_per_posting": 1.822029490634731
+    },
+    "Collaboration And Team Dynamics": {
+      "postings_with_domain": 123697,
+      "percentage": 83.55252048336001,
+      "total_matches": 542564,
+      "avg_matches_per_posting": 3.6648091484461016
+    },
+    "Problem-Solving And Critical Thinking": {
+      "postings_with_domain": 93010,
+      "percentage": 62.82464352536694,
+      "total_matches": 268044,
+      "avg_matches_per_posting": 1.8105331415023607
+    },
+    "Work Ethic And Professionalism": {
+      "postings_with_domain": 110277,
+      "percentage": 74.48783156700237,
+      "total_matches": 382275,
+      "avg_matches_per_posting": 2.5821191918782547
+    },
+    "Time Management And Organizational Skills": {
+      "postings_with_domain": 81411,
+      "percentage": 54.98996940160895,
+      "total_matches": 174733,
+      "avg_matches_per_posting": 1.1802535681236364
+    },
+    "Emotional Intelligence (Eq)": {
+      "postings_with_domain": 13675,
+      "percentage": 9.236931514991861,
+      "total_matches": 14999,
+      "avg_matches_per_posting": 0.10131242105547562
+    },
+    "Adaptability & Continuous Learning": {
+      "postings_with_domain": 55454,
+      "percentage": 37.45702378298784,
+      "total_matches": 93445,
+      "avg_matches_per_posting": 0.6311846913480179
+    },
+    "Creativity And Inovation": {
+      "postings_with_domain": 57128,
+      "percentage": 38.58774578343364,
+      "total_matches": 102963,
+      "avg_matches_per_posting": 0.6954750856147034
+    }
+  }
+}
