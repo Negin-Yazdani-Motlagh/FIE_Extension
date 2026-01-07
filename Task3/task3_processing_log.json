@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-01-06T10:29:57.021769",
+  "total_unique_skills": 108493,
+  "mapped_soft_skills": 56898,
+  "unmapped_skills": 51595,
+  "coverage_percentage": 60.81379561895884,
+  "domains": {
+    "Communication Skills": 15978,
+    "Collaboration And Team Dynamics": 6147,
+    "Emotional Intelligence (Eq)": 1288,
+    "Time Management And Organizational Skills": 6793,
+    "Work Ethic And Professionalism": 5645,
+    "Creativity And Inovation": 915,
+    "Customer Service And Client Management": 3881,
+    "Problem-Solving And Critical Thinking": 9743,
+    "Adaptability & Continuous Learning": 4706,
+    "Decision-Making And Judgment": 1802
+  },
+  "domains_unmapped": 51595,
+  "note": "Mapping updated using dictionary from Excel. Coverage report not regenerated."
+}
