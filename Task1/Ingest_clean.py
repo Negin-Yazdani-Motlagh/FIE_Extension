@@ -1,7 +1,3 @@
-"""
-Task 1: Ingest and clean LinkedIn 2024 data
-Goal: Build a clean joined table keyed by job_link
-"""
 
 import pandas as pd
 import os
@@ -9,8 +5,6 @@ import sys
 from pathlib import Path
 from datetime import datetime
 import json
-
-# Try to import optional libraries
 try:
     import pyarrow as pa
     import pyarrow.parquet as pq
