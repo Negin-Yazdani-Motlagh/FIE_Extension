@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-01-04T22:38:47.190101",
+  "initial_records": 1335261,
+  "final_records": 148047,
+  "records_removed": 1187214,
+  "removal_percentage": 88.91250474626308,
+  "job_family_counts": {
+    "Other": 112445,
+    "SWE": 18782,
+    "Security": 7312,
+    "Data Science": 4898,
+    "ML/AI": 2595,
+    "Product": 2015
+  },
+  "job_family_percentages": {
+    "Other": 75.95,
+    "SWE": 12.69,
+    "Security": 4.94,
+    "Data Science": 3.31,
+    "ML/AI": 1.75,
+    "Product": 1.36
+  },
+  "columns": [
+    "job_link",
+    "job_title",
+    "company",
+    "location",
+    "job_level",
+    "job_type",
+    "first_seen",
+    "skills_list",
+    "job_text",
+    "title_normalized",
+    "matches_inclusion",
+    "matches_exclusion",
+    "job_family"
+  ],
+  "memory_usage_mb": 1502.4304733276367
+}
