@@ -1,0 +1,484 @@
+{
+  "timestamp": "2026-01-06T18:50:30.683966",
+  "total_postings": 148047,
+  "overall": {
+    "Adaptability & Continuous Learning": {
+      "both": 12765,
+      "tag_only": 2195,
+      "text_only": 42689,
+      "neither": 90398,
+      "agreement_rate": 69.68260079569326,
+      "both_percentage": 8.622261849277594,
+      "tag_only_percentage": 1.4826372705964996,
+      "text_only_percentage": 28.83476193371024
+    },
+    "Collaboration And Team Dynamics": {
+      "both": 36269,
+      "tag_only": 1684,
+      "text_only": 87428,
+      "neither": 22666,
+      "agreement_rate": 39.80830411963768,
+      "both_percentage": 24.498301215154648,
+      "tag_only_percentage": 1.1374766121569502,
+      "text_only_percentage": 59.054219268205365
+    },
+    "Communication Skills": {
+      "both": 44773,
+      "tag_only": 8746,
+      "text_only": 35941,
+      "neither": 58587,
+      "agreement_rate": 69.81566664640283,
+      "both_percentage": 30.242423014313026,
+      "tag_only_percentage": 5.907583402568103,
+      "text_only_percentage": 24.276749951029064
+    },
+    "Creativity And Inovation": {
+      "both": 4296,
+      "tag_only": 281,
+      "text_only": 52832,
+      "neither": 90638,
+      "agreement_rate": 64.12423081859139,
+      "both_percentage": 2.901781191108229,
+      "tag_only_percentage": 0.18980458908319656,
+      "text_only_percentage": 35.68596459232541
+    },
+    "Emotional Intelligence (Eq)": {
+      "both": 6242,
+      "tag_only": 3434,
+      "text_only": 7433,
+      "neither": 130938,
+      "agreement_rate": 92.65976345349787,
+      "both_percentage": 4.216228630097199,
+      "tag_only_percentage": 2.3195336616074624,
+      "text_only_percentage": 5.0207028848946615
+    },
+    "Problem-Solving And Critical Thinking": {
+      "both": 21082,
+      "tag_only": 2798,
+      "text_only": 71928,
+      "neither": 52239,
+      "agreement_rate": 49.52548852729201,
+      "both_percentage": 14.240072409437543,
+      "tag_only_percentage": 1.8899403567785906,
+      "text_only_percentage": 48.5845711159294
+    },
+    "Time Management And Organizational Skills": {
+      "both": 7463,
+      "tag_only": 746,
+      "text_only": 73948,
+      "neither": 65890,
+      "agreement_rate": 49.54710328476767,
+      "both_percentage": 5.040966720028099,
+      "tag_only_percentage": 0.5038940336514756,
+      "text_only_percentage": 49.94900268158085
+    },
+    "Work Ethic And Professionalism": {
+      "both": 14912,
+      "tag_only": 241,
+      "text_only": 95365,
+      "neither": 37529,
+      "agreement_rate": 35.42185927441961,
+      "both_percentage": 10.072476983660595,
+      "tag_only_percentage": 0.1627861422386134,
+      "text_only_percentage": 64.41535458334178
+    }
+  },
+  "by_job_family": {
+    "Other": {
+      "Adaptability & Continuous Learning": {
+        "both": 7948,
+        "tag_only": 1562,
+        "text_only": 30672,
+        "neither": 72263,
+        "agreement_rate": 71.3335408421895,
+        "total_postings": 112445
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 28508,
+        "tag_only": 1317,
+        "text_only": 65832,
+        "neither": 16788,
+        "agreement_rate": 40.282804926853125,
+        "total_postings": 112445
+      },
+      "Communication Skills": {
+        "both": 36243,
+        "tag_only": 6809,
+        "text_only": 27636,
+        "neither": 41757,
+        "agreement_rate": 69.36724620925786,
+        "total_postings": 112445
+      },
+      "Creativity And Inovation": {
+        "both": 3404,
+        "tag_only": 169,
+        "text_only": 39013,
+        "neither": 69859,
+        "agreement_rate": 65.15451998754946,
+        "total_postings": 112445
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 5192,
+        "tag_only": 2917,
+        "text_only": 5801,
+        "neither": 98535,
+        "agreement_rate": 92.24687625061141,
+        "total_postings": 112445
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 16922,
+        "tag_only": 2240,
+        "text_only": 54835,
+        "neither": 38448,
+        "agreement_rate": 49.241851571879586,
+        "total_postings": 112445
+      },
+      "Time Management And Organizational Skills": {
+        "both": 6314,
+        "tag_only": 640,
+        "text_only": 56751,
+        "neither": 48740,
+        "agreement_rate": 48.96082529236516,
+        "total_postings": 112445
+      },
+      "Work Ethic And Professionalism": {
+        "both": 13011,
+        "tag_only": 205,
+        "text_only": 73314,
+        "neither": 25915,
+        "agreement_rate": 34.617813153097075,
+        "total_postings": 112445
+      }
+    },
+    "SWE": {
+      "Adaptability & Continuous Learning": {
+        "both": 3245,
+        "tag_only": 363,
+        "text_only": 6682,
+        "neither": 8492,
+        "agreement_rate": 62.49068256841657,
+        "total_postings": 18782
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 4196,
+        "tag_only": 203,
+        "text_only": 10747,
+        "neither": 3636,
+        "agreement_rate": 41.69949952081781,
+        "total_postings": 18782
+      },
+      "Communication Skills": {
+        "both": 3905,
+        "tag_only": 1039,
+        "text_only": 4153,
+        "neither": 9685,
+        "agreement_rate": 72.35651155361516,
+        "total_postings": 18782
+      },
+      "Creativity And Inovation": {
+        "both": 455,
+        "tag_only": 62,
+        "text_only": 7048,
+        "neither": 11217,
+        "agreement_rate": 62.14460653817485,
+        "total_postings": 18782
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 413,
+        "tag_only": 176,
+        "text_only": 751,
+        "neither": 17442,
+        "agreement_rate": 95.06442338409114,
+        "total_postings": 18782
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 2460,
+        "tag_only": 378,
+        "text_only": 7492,
+        "neither": 8452,
+        "agreement_rate": 58.098179107656264,
+        "total_postings": 18782
+      },
+      "Time Management And Organizational Skills": {
+        "both": 493,
+        "tag_only": 47,
+        "text_only": 8132,
+        "neither": 10110,
+        "agreement_rate": 56.45298690235332,
+        "total_postings": 18782
+      },
+      "Work Ethic And Professionalism": {
+        "both": 1029,
+        "tag_only": 20,
+        "text_only": 10750,
+        "neither": 6983,
+        "agreement_rate": 42.65786391225642,
+        "total_postings": 18782
+      }
+    },
+    "ML/AI": {
+      "Adaptability & Continuous Learning": {
+        "both": 228,
+        "tag_only": 65,
+        "text_only": 763,
+        "neither": 1539,
+        "agreement_rate": 68.09248554913296,
+        "total_postings": 2595
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 547,
+        "tag_only": 17,
+        "text_only": 1599,
+        "neither": 432,
+        "agreement_rate": 37.726396917148364,
+        "total_postings": 2595
+      },
+      "Communication Skills": {
+        "both": 588,
+        "tag_only": 172,
+        "text_only": 551,
+        "neither": 1284,
+        "agreement_rate": 72.13872832369943,
+        "total_postings": 2595
+      },
+      "Creativity And Inovation": {
+        "both": 65,
+        "tag_only": 13,
+        "text_only": 1374,
+        "neither": 1143,
+        "agreement_rate": 46.55105973025048,
+        "total_postings": 2595
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 55,
+        "tag_only": 12,
+        "text_only": 179,
+        "neither": 2349,
+        "agreement_rate": 92.63969171483623,
+        "total_postings": 2595
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 157,
+        "tag_only": 29,
+        "text_only": 1349,
+        "neither": 1060,
+        "agreement_rate": 46.897880539499035,
+        "total_postings": 2595
+      },
+      "Time Management And Organizational Skills": {
+        "both": 56,
+        "tag_only": 6,
+        "text_only": 1418,
+        "neither": 1115,
+        "agreement_rate": 45.1252408477842,
+        "total_postings": 2595
+      },
+      "Work Ethic And Professionalism": {
+        "both": 71,
+        "tag_only": 2,
+        "text_only": 1839,
+        "neither": 683,
+        "agreement_rate": 29.05587668593449,
+        "total_postings": 2595
+      }
+    },
+    "Security": {
+      "Adaptability & Continuous Learning": {
+        "both": 540,
+        "tag_only": 66,
+        "text_only": 2448,
+        "neither": 4258,
+        "agreement_rate": 65.61816192560175,
+        "total_postings": 7312
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 1159,
+        "tag_only": 53,
+        "text_only": 5143,
+        "neither": 957,
+        "agreement_rate": 28.938730853391686,
+        "total_postings": 7312
+      },
+      "Communication Skills": {
+        "both": 1549,
+        "tag_only": 231,
+        "text_only": 2255,
+        "neither": 3277,
+        "agreement_rate": 66.00109409190372,
+        "total_postings": 7312
+      },
+      "Creativity And Inovation": {
+        "both": 107,
+        "tag_only": 11,
+        "text_only": 2797,
+        "neither": 4397,
+        "agreement_rate": 61.59737417943107,
+        "total_postings": 7312
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 310,
+        "tag_only": 132,
+        "text_only": 381,
+        "neither": 6489,
+        "agreement_rate": 92.98413566739606,
+        "total_postings": 7312
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 824,
+        "tag_only": 67,
+        "text_only": 4232,
+        "neither": 2189,
+        "agreement_rate": 41.2062363238512,
+        "total_postings": 7312
+      },
+      "Time Management And Organizational Skills": {
+        "both": 232,
+        "tag_only": 14,
+        "text_only": 3882,
+        "neither": 3184,
+        "agreement_rate": 46.71772428884026,
+        "total_postings": 7312
+      },
+      "Work Ethic And Professionalism": {
+        "both": 267,
+        "tag_only": 4,
+        "text_only": 4735,
+        "neither": 2306,
+        "agreement_rate": 35.18873085339169,
+        "total_postings": 7312
+      }
+    },
+    "Data Science": {
+      "Adaptability & Continuous Learning": {
+        "both": 536,
+        "tag_only": 83,
+        "text_only": 1568,
+        "neither": 2711,
+        "agreement_rate": 66.29236423029809,
+        "total_postings": 4898
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 1151,
+        "tag_only": 52,
+        "text_only": 3070,
+        "neither": 625,
+        "agreement_rate": 36.25969783585137,
+        "total_postings": 4898
+      },
+      "Communication Skills": {
+        "both": 1737,
+        "tag_only": 280,
+        "text_only": 954,
+        "neither": 1927,
+        "agreement_rate": 74.80604328297264,
+        "total_postings": 4898
+      },
+      "Creativity And Inovation": {
+        "both": 127,
+        "tag_only": 12,
+        "text_only": 1734,
+        "neither": 3025,
+        "agreement_rate": 64.3527970600245,
+        "total_postings": 4898
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 145,
+        "tag_only": 105,
+        "text_only": 198,
+        "neither": 4450,
+        "agreement_rate": 93.81380155165374,
+        "total_postings": 4898
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 583,
+        "tag_only": 36,
+        "text_only": 3274,
+        "neither": 1005,
+        "agreement_rate": 32.421396488362596,
+        "total_postings": 4898
+      },
+      "Time Management And Organizational Skills": {
+        "both": 263,
+        "tag_only": 20,
+        "text_only": 2788,
+        "neither": 1827,
+        "agreement_rate": 42.67047774601878,
+        "total_postings": 4898
+      },
+      "Work Ethic And Professionalism": {
+        "both": 245,
+        "tag_only": 7,
+        "text_only": 3428,
+        "neither": 1218,
+        "agreement_rate": 29.86933442221315,
+        "total_postings": 4898
+      }
+    },
+    "Product": {
+      "Adaptability & Continuous Learning": {
+        "both": 268,
+        "tag_only": 56,
+        "text_only": 556,
+        "neither": 1135,
+        "agreement_rate": 69.62779156327544,
+        "total_postings": 2015
+      },
+      "Collaboration And Team Dynamics": {
+        "both": 708,
+        "tag_only": 42,
+        "text_only": 1037,
+        "neither": 228,
+        "agreement_rate": 46.45161290322581,
+        "total_postings": 2015
+      },
+      "Communication Skills": {
+        "both": 751,
+        "tag_only": 215,
+        "text_only": 392,
+        "neither": 657,
+        "agreement_rate": 69.87593052109182,
+        "total_postings": 2015
+      },
+      "Creativity And Inovation": {
+        "both": 138,
+        "tag_only": 14,
+        "text_only": 866,
+        "neither": 997,
+        "agreement_rate": 56.32754342431762,
+        "total_postings": 2015
+      },
+      "Emotional Intelligence (Eq)": {
+        "both": 127,
+        "tag_only": 92,
+        "text_only": 123,
+        "neither": 1673,
+        "agreement_rate": 89.33002481389578,
+        "total_postings": 2015
+      },
+      "Problem-Solving And Critical Thinking": {
+        "both": 136,
+        "tag_only": 48,
+        "text_only": 746,
+        "neither": 1085,
+        "agreement_rate": 60.5955334987593,
+        "total_postings": 2015
+      },
+      "Time Management And Organizational Skills": {
+        "both": 105,
+        "tag_only": 19,
+        "text_only": 977,
+        "neither": 914,
+        "agreement_rate": 50.57071960297767,
+        "total_postings": 2015
+      },
+      "Work Ethic And Professionalism": {
+        "both": 289,
+        "tag_only": 3,
+        "text_only": 1299,
+        "neither": 424,
+        "agreement_rate": 35.38461538461539,
+        "total_postings": 2015
+      }
+    }
+  }
+}
