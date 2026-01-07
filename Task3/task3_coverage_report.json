@@ -1,0 +1,517 @@
+{
+  "timestamp": "2026-01-05T18:40:53.779238",
+  "total_postings": 148047,
+  "postings_with_soft_skills": 90033,
+  "coverage_percentage": 60.81379561895884,
+  "soft_skill_domains": {
+    "Teamwork": 31806,
+    "Attention to Detail": 24985,
+    "Communication": 42842,
+    "Leadership": 20883,
+    "Work Ethic": 4946,
+    "Creativity": 5263,
+    "Adaptability": 17017,
+    "Time Management": 46895,
+    "Problem-solving": 44696,
+    "Emotional Intelligence": 10272
+  },
+  "top_tags_by_domain": {
+    "Communication": [
+      {
+        "linkedin_skill": "communication",
+        "frequency": 26755
+      },
+      {
+        "linkedin_skill": "written communication",
+        "frequency": 5865
+      },
+      {
+        "linkedin_skill": "verbal communication",
+        "frequency": 4798
+      },
+      {
+        "linkedin_skill": "stakeholder management",
+        "frequency": 1850
+      },
+      {
+        "linkedin_skill": "presentation",
+        "frequency": 1275
+      },
+      {
+        "linkedin_skill": "public speaking",
+        "frequency": 788
+      },
+      {
+        "linkedin_skill": "client communication",
+        "frequency": 519
+      },
+      {
+        "linkedin_skill": "interpersonal communication",
+        "frequency": 460
+      },
+      {
+        "linkedin_skill": "listening",
+        "frequency": 177
+      },
+      {
+        "linkedin_skill": "interpersonal",
+        "frequency": 110
+      }
+    ],
+    "Teamwork": [
+      {
+        "linkedin_skill": "teamwork",
+        "frequency": 17827
+      },
+      {
+        "linkedin_skill": "collaboration",
+        "frequency": 10774
+      },
+      {
+        "linkedin_skill": "team player",
+        "frequency": 2036
+      },
+      {
+        "linkedin_skill": "team building",
+        "frequency": 631
+      },
+      {
+        "linkedin_skill": "collaborative work",
+        "frequency": 228
+      },
+      {
+        "linkedin_skill": "collaborative",
+        "frequency": 213
+      },
+      {
+        "linkedin_skill": "cooperation",
+        "frequency": 82
+      },
+      {
+        "linkedin_skill": "cross-functional",
+        "frequency": 9
+      },
+      {
+        "linkedin_skill": "working with others",
+        "frequency": 6
+      }
+    ],
+    "Leadership": [
+      {
+        "linkedin_skill": "leadership",
+        "frequency": 10696
+      },
+      {
+        "linkedin_skill": "mentoring",
+        "frequency": 5595
+      },
+      {
+        "linkedin_skill": "supervision",
+        "frequency": 1298
+      },
+      {
+        "linkedin_skill": "coaching",
+        "frequency": 1126
+      },
+      {
+        "linkedin_skill": "management",
+        "frequency": 1002
+      },
+      {
+        "linkedin_skill": "people management",
+        "frequency": 700
+      },
+      {
+        "linkedin_skill": "influence",
+        "frequency": 246
+      },
+      {
+        "linkedin_skill": "mentor",
+        "frequency": 78
+      },
+      {
+        "linkedin_skill": "empower",
+        "frequency": 58
+      },
+      {
+        "linkedin_skill": "leading",
+        "frequency": 52
+      }
+    ],
+    "Problem-solving": [
+      {
+        "linkedin_skill": "problem-solving",
+        "frequency": 15624
+      },
+      {
+        "linkedin_skill": "troubleshooting",
+        "frequency": 14940
+      },
+      {
+        "linkedin_skill": "critical thinking",
+        "frequency": 4133
+      },
+      {
+        "linkedin_skill": "debugging",
+        "frequency": 2504
+      },
+      {
+        "linkedin_skill": "analysis",
+        "frequency": 2474
+      },
+      {
+        "linkedin_skill": "decision-making",
+        "frequency": 2102
+      },
+      {
+        "linkedin_skill": "analytical thinking",
+        "frequency": 2061
+      },
+      {
+        "linkedin_skill": "analytical",
+        "frequency": 457
+      },
+      {
+        "linkedin_skill": "judgment",
+        "frequency": 238
+      },
+      {
+        "linkedin_skill": "reasoning",
+        "frequency": 148
+      }
+    ],
+    "Adaptability": [
+      {
+        "linkedin_skill": "agile",
+        "frequency": 7174
+      },
+      {
+        "linkedin_skill": "adaptability",
+        "frequency": 3723
+      },
+      {
+        "linkedin_skill": "change management",
+        "frequency": 2826
+      },
+      {
+        "linkedin_skill": "flexibility",
+        "frequency": 2585
+      },
+      {
+        "linkedin_skill": "resilience",
+        "frequency": 394
+      },
+      {
+        "linkedin_skill": "flexible",
+        "frequency": 190
+      },
+      {
+        "linkedin_skill": "adaptable",
+        "frequency": 86
+      },
+      {
+        "linkedin_skill": "resilient",
+        "frequency": 29
+      },
+      {
+        "linkedin_skill": "versatile",
+        "frequency": 7
+      },
+      {
+        "linkedin_skill": "embrace change",
+        "frequency": 2
+      }
+    ],
+    "Creativity": [
+      {
+        "linkedin_skill": "innovation",
+        "frequency": 3143
+      },
+      {
+        "linkedin_skill": "creativity",
+        "frequency": 1816
+      },
+      {
+        "linkedin_skill": "creative",
+        "frequency": 103
+      },
+      {
+        "linkedin_skill": "ideation",
+        "frequency": 100
+      },
+      {
+        "linkedin_skill": "innovative",
+        "frequency": 85
+      },
+      {
+        "linkedin_skill": "imagination",
+        "frequency": 8
+      },
+      {
+        "linkedin_skill": "innovate",
+        "frequency": 4
+      },
+      {
+        "linkedin_skill": "original thinking",
+        "frequency": 3
+      },
+      {
+        "linkedin_skill": "think outside the box",
+        "frequency": 1
+      }
+    ],
+    "Time Management": [
+      {
+        "linkedin_skill": "project management",
+        "frequency": 29456
+      },
+      {
+        "linkedin_skill": "time-management",
+        "frequency": 8164
+      },
+      {
+        "linkedin_skill": "organization",
+        "frequency": 2754
+      },
+      {
+        "linkedin_skill": "planning",
+        "frequency": 2699
+      },
+      {
+        "linkedin_skill": "prioritization",
+        "frequency": 2695
+      },
+      {
+        "linkedin_skill": "efficiency",
+        "frequency": 616
+      },
+      {
+        "linkedin_skill": "task management",
+        "frequency": 374
+      },
+      {
+        "linkedin_skill": "organizational",
+        "frequency": 94
+      },
+      {
+        "linkedin_skill": "efficient",
+        "frequency": 26
+      },
+      {
+        "linkedin_skill": "prioritize",
+        "frequency": 8
+      }
+    ],
+    "Work Ethic": [
+      {
+        "linkedin_skill": "initiative",
+        "frequency": 1932
+      },
+      {
+        "linkedin_skill": "reliability",
+        "frequency": 1548
+      },
+      {
+        "linkedin_skill": "work-ethic",
+        "frequency": 462
+      },
+      {
+        "linkedin_skill": "proactive",
+        "frequency": 316
+      },
+      {
+        "linkedin_skill": "commitment",
+        "frequency": 232
+      },
+      {
+        "linkedin_skill": "responsibility",
+        "frequency": 186
+      },
+      {
+        "linkedin_skill": "reliable",
+        "frequency": 55
+      },
+      {
+        "linkedin_skill": "dedication",
+        "frequency": 52
+      },
+      {
+        "linkedin_skill": "diligence",
+        "frequency": 41
+      },
+      {
+        "linkedin_skill": "hardworking",
+        "frequency": 40
+      }
+    ],
+    "Emotional Intelligence": [
+      {
+        "linkedin_skill": "interpersonal skills",
+        "frequency": 7660
+      },
+      {
+        "linkedin_skill": "conflict resolution",
+        "frequency": 999
+      },
+      {
+        "linkedin_skill": "relationship building",
+        "frequency": 867
+      },
+      {
+        "linkedin_skill": "empathy",
+        "frequency": 260
+      },
+      {
+        "linkedin_skill": "diplomacy",
+        "frequency": 169
+      },
+      {
+        "linkedin_skill": "emotional-intelligence",
+        "frequency": 138
+      },
+      {
+        "linkedin_skill": "people skills",
+        "frequency": 134
+      },
+      {
+        "linkedin_skill": "social skills",
+        "frequency": 33
+      },
+      {
+        "linkedin_skill": "empathetic",
+        "frequency": 8
+      },
+      {
+        "linkedin_skill": "self awareness",
+        "frequency": 4
+      }
+    ],
+    "Attention to Detail": [
+      {
+        "linkedin_skill": "attention-to-detail",
+        "frequency": 11271
+      },
+      {
+        "linkedin_skill": "quality assurance",
+        "frequency": 5734
+      },
+      {
+        "linkedin_skill": "quality control",
+        "frequency": 5041
+      },
+      {
+        "linkedin_skill": "accuracy",
+        "frequency": 1281
+      },
+      {
+        "linkedin_skill": "quality",
+        "frequency": 1068
+      },
+      {
+        "linkedin_skill": "detail-oriented",
+        "frequency": 378
+      },
+      {
+        "linkedin_skill": "precision",
+        "frequency": 145
+      },
+      {
+        "linkedin_skill": "thoroughness",
+        "frequency": 42
+      },
+      {
+        "linkedin_skill": "meticulous",
+        "frequency": 11
+      },
+      {
+        "linkedin_skill": "accurate",
+        "frequency": 8
+      }
+    ]
+  },
+  "top_unmapped_tags": [
+    {
+      "linkedin_skill": "communication skills",
+      "frequency": 20293
+    },
+    {
+      "linkedin_skill": "python",
+      "frequency": 19204
+    },
+    {
+      "linkedin_skill": "data analysis",
+      "frequency": 17208
+    },
+    {
+      "linkedin_skill": "sql",
+      "frequency": 14414
+    },
+    {
+      "linkedin_skill": "problemsolving",
+      "frequency": 12013
+    },
+    {
+      "linkedin_skill": "electrical engineering",
+      "frequency": 11177
+    },
+    {
+      "linkedin_skill": "analytical skills",
+      "frequency": 10801
+    },
+    {
+      "linkedin_skill": "java",
+      "frequency": 10700
+    },
+    {
+      "linkedin_skill": "autocad",
+      "frequency": 9937
+    },
+    {
+      "linkedin_skill": "bachelor's degree",
+      "frequency": 9683
+    },
+    {
+      "linkedin_skill": "aws",
+      "frequency": 9492
+    },
+    {
+      "linkedin_skill": "mechanical engineering",
+      "frequency": 9479
+    },
+    {
+      "linkedin_skill": "engineering",
+      "frequency": 8799
+    },
+    {
+      "linkedin_skill": "civil engineering",
+      "frequency": 8332
+    },
+    {
+      "linkedin_skill": "computer science",
+      "frequency": 7217
+    },
+    {
+      "linkedin_skill": "software development",
+      "frequency": 7187
+    },
+    {
+      "linkedin_skill": "javascript",
+      "frequency": 7163
+    },
+    {
+      "linkedin_skill": "microsoft office suite",
+      "frequency": 6764
+    },
+    {
+      "linkedin_skill": "microsoft office",
+      "frequency": 6681
+    },
+    {
+      "linkedin_skill": "software engineering",
+      "frequency": 6227
+    }
+  ],
+  "total_unique_skills": 600716,
+  "mapped_skills": 121,
+  "unmapped_skills": 600595
+}
