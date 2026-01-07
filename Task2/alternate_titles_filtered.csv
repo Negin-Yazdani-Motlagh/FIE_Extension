@@ -1,0 +1,1981 @@
+O*NET-SOC Code,Title,Alternate Title,Short Title,Source(s)
+15-1211.00,Computer Systems Analysts,Applications Analyst,,"02,04,10"
+15-1211.00,Computer Systems Analysts,Applications Systems Analyst,,08
+15-1211.00,Computer Systems Analysts,Automatic Data Processing Planner (ADP Planner),ADP Planner,08
+15-1211.00,Computer Systems Analysts,Business Systems Analyst,,"02,04,06,07,10"
+15-1211.00,Computer Systems Analysts,Computer Analyst,,"02,04,06,07"
+15-1211.00,Computer Systems Analysts,Computer Architect,,09
+15-1211.00,Computer Systems Analysts,Computer Consultant,,04
+15-1211.00,Computer Systems Analysts,Computer Equipment Analyst,,01
+15-1211.00,Computer Systems Analysts,Computer Methods Analyst,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Computer Systems Analyst,,"02,04"
+15-1211.00,Computer Systems Analysts,Computer Systems Consultant,,"02,04"
+15-1211.00,Computer Systems Analysts,Computer Systems Design Analyst,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Computer Systems Designer,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Computer Systems Specialist,,01
+15-1211.00,Computer Systems Analysts,Configuration Analyst,,10
+15-1211.00,Computer Systems Analysts,Cross Enterprise Integrator,,08
+15-1211.00,Computer Systems Analysts,Cyber Defense Infrastructure Support Specialist,,01
+15-1211.00,Computer Systems Analysts,Data Processing Consultant,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Data Processing Systems Analyst,,"02,04,06,07"
+15-1211.00,Computer Systems Analysts,Data Processing Systems Consultant,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Data Processing Systems Project Planner,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Database Analyst,,"04,07"
+15-1211.00,Computer Systems Analysts,Database Design Analyst,,"04,07"
+15-1211.00,Computer Systems Analysts,Digital Computer Systems Analyst,,"04,06,07"
+15-1211.00,Computer Systems Analysts,EDI Analyst (Electronic Data Exchange Analyst),EDI Analyst,01
+15-1211.00,Computer Systems Analysts,Electronic Transactions Implementer,,01
+15-1211.00,Computer Systems Analysts,Engineering Systems Analyst,,"04,06,07"
+15-1211.00,Computer Systems Analysts,ERP Consultant (Enterprise Resource Planning Consultant),ERP Consultant,01
+15-1211.00,Computer Systems Analysts,ERP Specialist (Enterprise Resource Planning Specialist),ERP Specialist,01
+15-1211.00,Computer Systems Analysts,Functional Analyst,,08
+15-1211.00,Computer Systems Analysts,Health Systems Analyst,,"04,06"
+15-1211.00,Computer Systems Analysts,Implementation Consultant,,10
+15-1211.00,Computer Systems Analysts,Information Scientist,,08
+15-1211.00,Computer Systems Analysts,Information Systems Analyst (ISA),ISA,"02,04,09"
+15-1211.00,Computer Systems Analysts,Information Systems Auditor (IS Auditor),IS Auditor,09
+15-1211.00,Computer Systems Analysts,Information Systems Consultant (IS Consultant),IS Consultant,"04,06,07"
+15-1211.00,Computer Systems Analysts,Information Systems Planner (IS Planner),IS Planner,"04,08"
+15-1211.00,Computer Systems Analysts,Information Systems Specialist (IS Specialist),IS Specialist,"04,06,07"
+15-1211.00,Computer Systems Analysts,Internet Analyst,,01
+15-1211.00,Computer Systems Analysts,IT Analyst (Information Technology Analyst),IT Analyst,"02,08,09,10"
+15-1211.00,Computer Systems Analysts,IT Auditor (Information Technology Auditor),IT Auditor,10
+15-1211.00,Computer Systems Analysts,IT Business Analyst (Information Technology Business Analyst),IT Business Analyst,"02,09,10"
+15-1211.00,Computer Systems Analysts,IT Business Systems Analyst (Information Technology Business Systems Analyst),IT Business Systems Analyst,10
+15-1211.00,Computer Systems Analysts,IT Consultant (Information Technology Consultant),IT Consultant,"02,09,10"
+15-1211.00,Computer Systems Analysts,IT Performance Analyst (Information Technology Performance Analyst),IT Performance Analyst,01
+15-1211.00,Computer Systems Analysts,IT Security Analyst (Information Technology Security Analyst),IT Security Analyst,08
+15-1211.00,Computer Systems Analysts,IT Systems Analyst (Information Technology Systems Analyst),IT Systems Analyst,02
+15-1211.00,Computer Systems Analysts,Programmer Analyst,,"02,04,08"
+15-1211.00,Computer Systems Analysts,Public Key Infrastructure Analyst (PKI Analyst),PKI Analyst,01
+15-1211.00,Computer Systems Analysts,Scientific Systems Analyst,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Software Analyst,,"02,09"
+15-1211.00,Computer Systems Analysts,Software Consultant,,"04,06,07"
+15-1211.00,Computer Systems Analysts,Systems Analysis Specialist,,"06,07"
+15-1211.00,Computer Systems Analysts,Systems Analyst,,"02,10"
+15-1211.00,Computer Systems Analysts,Systems Integrator,,08
+15-1211.00,Computer Systems Analysts,Technical Analyst,,"08,10"
+15-1211.00,Computer Systems Analysts,Technical Business Analyst,,10
+15-1211.00,Computer Systems Analysts,Technical Consultant,,10
+15-1211.00,Computer Systems Analysts,Technology Analyst,,01
+15-1211.00,Computer Systems Analysts,Virus Technician (Virus Tech),Virus Tech,01
+15-1211.00,Computer Systems Analysts,Vulnerability Assessment Analyst,,01
+15-1211.00,Computer Systems Analysts,Vulnerability Assessor,,01
+15-1211.01,Health Informatics Specialists,Clinical Electronic Health Record Nurse (Clinical EHR Nurse),Clinical EHR Nurse,02
+15-1211.01,Health Informatics Specialists,Clinical Informaticist,,"02,10"
+15-1211.01,Health Informatics Specialists,Clinical Informatics Analyst,,02
+15-1211.01,Health Informatics Specialists,Clinical Informatics Nurse,,02
+15-1211.01,Health Informatics Specialists,Clinical Informatics Specialist,,02
+15-1211.01,Health Informatics Specialists,Clinical Quality Auditor,,10
+15-1211.01,Health Informatics Specialists,Clinical Systems Educator,,10
+15-1211.01,Health Informatics Specialists,Coding Auditor,,10
+15-1211.01,Health Informatics Specialists,Health Informaticist,,"02,10"
+15-1211.01,Health Informatics Specialists,Health Informatics Advisor,,10
+15-1211.01,Health Informatics Specialists,Health Informatics Analyst,,10
+15-1211.01,Health Informatics Specialists,Health Informatics Coordinator,,10
+15-1211.01,Health Informatics Specialists,Health Informatics Instructor,,10
+15-1211.01,Health Informatics Specialists,Health Informatics Solutions Coordinator,,10
+15-1211.01,Health Informatics Specialists,Health Informatics Specialist,,08
+15-1211.01,Health Informatics Specialists,Health Information Management Manager,,10
+15-1211.01,Health Informatics Specialists,Health IT Specialist (Health Information Technology Specialist),Health IT Specialist,01
+15-1211.01,Health Informatics Specialists,Healthcare Analyst,,10
+15-1211.01,Health Informatics Specialists,Healthcare Data Analyst,,10
+15-1211.01,Health Informatics Specialists,Informaticist,,10
+15-1211.01,Health Informatics Specialists,Informatics Application Analyst,,10
+15-1211.01,Health Informatics Specialists,Informatics Nurse,,"08,10"
+15-1211.01,Health Informatics Specialists,Informatics Nurse Specialist,,"02,08,10"
+15-1211.01,Health Informatics Specialists,Informatics Pharmacist,,10
+15-1211.01,Health Informatics Specialists,Informatics Resource Nurse,,10
+15-1211.01,Health Informatics Specialists,Inpatient Coding Auditor,,10
+15-1211.01,Health Informatics Specialists,Nurse Informaticist,,"02,08,10"
+15-1211.01,Health Informatics Specialists,Nurse Informatics Educator,,10
+15-1211.01,Health Informatics Specialists,Nurse Informatics Specialist,,10
+15-1211.01,Health Informatics Specialists,Nurse Reviewer,,10
+15-1211.01,Health Informatics Specialists,Nursing Informatics Analyst,,10
+15-1211.01,Health Informatics Specialists,Nursing Informatics Clinical Analyst,,10
+15-1211.01,Health Informatics Specialists,Nursing Informatics Officer,,02
+15-1211.01,Health Informatics Specialists,Nursing Informatics Specialist,,"02,10"
+15-1211.01,Health Informatics Specialists,Performance Quality Auditor,,10
+15-1211.01,Health Informatics Specialists,Physician Reviewer,,10
+15-1211.01,Health Informatics Specialists,Public Health Informatician,,03
+15-1211.01,Health Informatics Specialists,QC Nurse (Quality Control Nurse),QC Nurse,10
+15-1211.01,Health Informatics Specialists,Records Manager,,10
+15-1211.01,Health Informatics Specialists,RN Clinical Information Systems Coordinator (Registered Nurse Clinical Information Systems Coordinator),RN Clinical Information Systems Coordinator,02
+15-1211.01,Health Informatics Specialists,RN Clinical Information Systems Educator (Registered Nurse Clinical Information Systems Educator),RN Clinical Information Systems Educator,02
+15-1211.01,Health Informatics Specialists,Telehealth Case Manager,,10
+15-1211.01,Health Informatics Specialists,Telehealth Coordinator,,10
+15-1211.01,Health Informatics Specialists,Telehealth Nurse,,10
+15-1211.01,Health Informatics Specialists,Telehealth Nurse Educator,,10
+15-1211.01,Health Informatics Specialists,Test Development Nurse Specialist,,10
+15-1211.01,Health Informatics Specialists,Utilization Review Coordinator,,10
+15-1211.01,Health Informatics Specialists,Utilization Review Manager,,10
+15-1211.01,Health Informatics Specialists,Utilization Review Nurse,,10
+15-1211.01,Health Informatics Specialists,Utilization Review Specialist,,10
+15-1212.00,Information Security Analysts,AI Security Specialist (Artificial Intelligence Security Specialist),AI Security Specialist,01
+15-1212.00,Information Security Analysts,All-Source Analyst,,01
+15-1212.00,Information Security Analysts,Application Security Analyst,,01
+15-1212.00,Information Security Analysts,Applications Security Analyst,,01
+15-1212.00,Information Security Analysts,Automatic Data Processing Systems Security Specialist (ADP Systems Security),ADP Systems Security,"04,07"
+15-1212.00,Information Security Analysts,Blue Team Member,,01
+15-1212.00,Information Security Analysts,Certified Information Systems Security Professional (CISSP),CISSP,09
+15-1212.00,Information Security Analysts,Cloud Security Architect,,01
+15-1212.00,Information Security Analysts,Cloud Security Engineer,,10
+15-1212.00,Information Security Analysts,Computer Security Coordinator,,08
+15-1212.00,Information Security Analysts,Computer Security Information Specialist,,"04,06,07"
+15-1212.00,Information Security Analysts,Computer Security Specialist,,"02,04,06,07,08"
+15-1212.00,Information Security Analysts,Computer Systems Security Analyst,,"02,04,08"
+15-1212.00,Information Security Analysts,Counterespionage Analyst,,01
+15-1212.00,Information Security Analysts,Cryptological Technician,,09
+15-1212.00,Information Security Analysts,Cryptologist,,09
+15-1212.00,Information Security Analysts,Cyber Defense Analyst,,"01,03,08"
+15-1212.00,Information Security Analysts,Cyber Defense Forensics Analyst,,01
+15-1212.00,Information Security Analysts,Cyber Incident Responder,,09
+15-1212.00,Information Security Analysts,Cyber Information Security Analyst,,03
+15-1212.00,Information Security Analysts,Cyber Intel Planner,,01
+15-1212.00,Information Security Analysts,Cyber Intelligence Specialist,,01
+15-1212.00,Information Security Analysts,Cyber Operations Planner (Cyber Ops Planner),Cyber Ops Planner,01
+15-1212.00,Information Security Analysts,Cyber Operations Specialist,,01
+15-1212.00,Information Security Analysts,Cyber Operator,,01
+15-1212.00,Information Security Analysts,Cyber Policy and Strategy Planner,,01
+15-1212.00,Information Security Analysts,Cyber Security Analyst,,09
+15-1212.00,Information Security Analysts,Cyber Security Specialist,,"02,10"
+15-1212.00,Information Security Analysts,Cyber Security Support Technician,,08
+15-1212.00,Information Security Analysts,Cybersecurity All-Source Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Engineer,,10
+15-1212.00,Information Security Analysts,Cybersecurity Exploitation Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Multi-Disciplined Language Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Partner Integration Planner,,01
+15-1212.00,Information Security Analysts,Cybersecurity Specialist,,10
+15-1212.00,Information Security Analysts,Cybersecurity Target Developer,,01
+15-1212.00,Information Security Analysts,Cybersecurity Target Network Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Threat Analyst,,01
+15-1212.00,Information Security Analysts,Cybersecurity Warning Analyst,,01
+15-1212.00,Information Security Analysts,Data Security Analyst,,"01,02"
+15-1212.00,Information Security Analysts,Database Security Expert,,08
+15-1212.00,Information Security Analysts,Exploitation Analyst,,01
+15-1212.00,Information Security Analysts,Incident Responder,,01
+15-1212.00,Information Security Analysts,Incident Response Analyst,,10
+15-1212.00,Information Security Analysts,Industrial Internet of Things Security Specialist (IIoT Security Specialist),IIoT Security Specialist,01
+15-1212.00,Information Security Analysts,Information Assurance Analyst,,08
+15-1212.00,Information Security Analysts,Information Security Analyst,,"02,04,10"
+15-1212.00,Information Security Analysts,Information Security Officer,,02
+15-1212.00,Information Security Analysts,Information Security Specialist,,"02,10"
+15-1212.00,Information Security Analysts,Information Systems Security Analyst,,"02,04"
+15-1212.00,Information Security Analysts,Information Systems Security Officer (ISSO),ISSO,"02,06,07,10"
+15-1212.00,Information Security Analysts,Information Systems Security Specialist,,"04,06,07"
+15-1212.00,Information Security Analysts,Information Technology Analyst (IT Analyst),IT Analyst,"02,09"
+15-1212.00,Information Security Analysts,Information Technology Consultant (IT Consultant),IT Consultant,09
+15-1212.00,Information Security Analysts,Information Technology Security Analyst (IT Security Analyst),IT Security Analyst,"02,10"
+15-1212.00,Information Security Analysts,Information Technology Security Architect (IT Security Architect),IT Security Architect,01
+15-1212.00,Information Security Analysts,International Affairs Specialist,,08
+15-1212.00,Information Security Analysts,Internet of Things Security Specialist (IoT Security Specialist),IoT Security Specialist,01
+15-1212.00,Information Security Analysts,Internet Security Specialist,,"01,04"
+15-1212.00,Information Security Analysts,Intrusion Detection Analyst,,01
+15-1212.00,Information Security Analysts,IT Auditor (Information Technology Auditor),IT Auditor,10
+15-1212.00,Information Security Analysts,IT Risk Specialist (Information Technology Risk Specialist),IT Risk Specialist,04
+15-1212.00,Information Security Analysts,Mission Assessment Specialist,,01
+15-1212.00,Information Security Analysts,Network Security Analyst,,"02,04,08"
+15-1212.00,Information Security Analysts,Network Security Officer,,"06,07"
+15-1212.00,Information Security Analysts,Network Security Systems Analyst,,01
+15-1212.00,Information Security Analysts,Red Team Member,,01
+15-1212.00,Information Security Analysts,Security Analyst,,"02,09,10"
+15-1212.00,Information Security Analysts,Security Auditor,,01
+15-1212.00,Information Security Analysts,Security Consultant,,10
+15-1212.00,Information Security Analysts,Security Control Assessor,,10
+15-1212.00,Information Security Analysts,Security Operations Analyst,,08
+15-1212.00,Information Security Analysts,Security Operations Center Analyst (SOC Analyst),SOC Analyst,08
+15-1212.00,Information Security Analysts,Security Specialist,,"02,10"
+15-1212.00,Information Security Analysts,Source Code Auditor,,01
+15-1212.00,Information Security Analysts,Supervisory Control and Data Acquisition Security Analyst (SCADA Security Analyst),SCADA Security Analyst,01
+15-1212.00,Information Security Analysts,Systems Analyst,,02
+15-1212.00,Information Security Analysts,Systems Security Analyst,,01
+15-1212.00,Information Security Analysts,Systems Security Specialist,,06
+15-1212.00,Information Security Analysts,Technology Analyst,,01
+15-1212.00,Information Security Analysts,Threat Hunter,,01
+15-1212.00,Information Security Analysts,Threat Monitoring Analyst,,08
+15-1212.00,Information Security Analysts,Virus Technician,,01
+15-1212.00,Information Security Analysts,Warning Analyst,,01
+15-1221.00,Computer and Information Research Scientists,AI Engineer (Artificial Intelligence Engineer),AI Engineer,10
+15-1221.00,Computer and Information Research Scientists,Applied Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Artificial Intelligence Specialist (AI Specialist),AI Specialist,09
+15-1221.00,Computer and Information Research Scientists,Computational Linguist,,09
+15-1221.00,Computer and Information Research Scientists,Computational Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Computational Theory Scientist,,04
+15-1221.00,Computer and Information Research Scientists,Computer Scientist,,"02,04,06,07,10"
+15-1221.00,Computer and Information Research Scientists,Computer Specialist,,02
+15-1221.00,Computer and Information Research Scientists,Computer Vision Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Control System Computer Scientist,,"02,04"
+15-1221.00,Computer and Information Research Scientists,Cryptologist,,10
+15-1221.00,Computer and Information Research Scientists,Cybersecurity Research Scientist (Cyber Research Scientist),Cyber Research Scientist,10
+15-1221.00,Computer and Information Research Scientists,Digital Solutions Manager,,10
+15-1221.00,Computer and Information Research Scientists,Information Scientist,,"04,06,07"
+15-1221.00,Computer and Information Research Scientists,Languages Researcher,,04
+15-1221.00,Computer and Information Research Scientists,Machine Learning Engineer,,10
+15-1221.00,Computer and Information Research Scientists,Machine Learning Research Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Machine Learning Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Multi-Disciplined Language Analyst,,01
+15-1221.00,Computer and Information Research Scientists,NLP Engineer (Natural Language Processing Engineer),NLP Engineer,10
+15-1221.00,Computer and Information Research Scientists,Programming Languages Researcher,,04
+15-1221.00,Computer and Information Research Scientists,Programming Methodology Researcher,,04
+15-1221.00,Computer and Information Research Scientists,Research and Development Specialist (R and D Specialist),R and D Specialist,01
+15-1221.00,Computer and Information Research Scientists,Research Computer Scientist,,10
+15-1221.00,Computer and Information Research Scientists,Research Engineer,,10
+15-1221.00,Computer and Information Research Scientists,Research Scientist,,"02,10"
+15-1221.00,Computer and Information Research Scientists,Scientific Programmer Analyst,,02
+15-1221.00,Computer and Information Research Scientists,Scientist,,10
+15-1231.00,Computer Network Support Specialists,Cloud Engineer,,"01,08"
+15-1231.00,Computer Network Support Specialists,Cloud Support Specialist,,08
+15-1231.00,Computer Network Support Specialists,Computer Network Analyst,,01
+15-1231.00,Computer Network Support Specialists,Computer Network Specialist,,02
+15-1231.00,Computer Network Support Specialists,Computer Network Support Specialist,,08
+15-1231.00,Computer Network Support Specialists,Computer Networker,,09
+15-1231.00,Computer Network Support Specialists,Computer Operations Technician,,01
+15-1231.00,Computer Network Support Specialists,Computer Systems Specialist,,01
+15-1231.00,Computer Network Support Specialists,Configuration Technician,,"08,10"
+15-1231.00,Computer Network Support Specialists,Controls Programmer,,03
+15-1231.00,Computer Network Support Specialists,Customer Engineer,,10
+15-1231.00,Computer Network Support Specialists,Customer Service Engineer,,10
+15-1231.00,Computer Network Support Specialists,Customer Support Engineer,,10
+15-1231.00,Computer Network Support Specialists,Cyber Defense Incident Responder,,01
+15-1231.00,Computer Network Support Specialists,Field Systems Technician,,10
+15-1231.00,Computer Network Support Specialists,Information Technology Network Specialist (IT Network Specialist),IT Network Specialist,10
+15-1231.00,Computer Network Support Specialists,Information Technology Operations Analyst (IT Operations Analyst),IT Operations Analyst,10
+15-1231.00,Computer Network Support Specialists,Installation Technician,,10
+15-1231.00,Computer Network Support Specialists,Internet Network Specialist,,01
+15-1231.00,Computer Network Support Specialists,Internet Specialist,,06
+15-1231.00,Computer Network Support Specialists,Internetworking Technician,,08
+15-1231.00,Computer Network Support Specialists,IT Consultant (Information Technology Consultant),IT Consultant,02
+15-1231.00,Computer Network Support Specialists,IT Network Technician (Information Technology Network Technician),IT Network Technician,10
+15-1231.00,Computer Network Support Specialists,IT Support Technician (Information Technology Support Technician),IT Support Technician,10
+15-1231.00,Computer Network Support Specialists,LAN Support Specialist (Local Area Network Support Specialist),LAN Support Specialist,08
+15-1231.00,Computer Network Support Specialists,Network Analyst,,"02,10"
+15-1231.00,Computer Network Support Specialists,Network and Threat Support Specialist,,08
+15-1231.00,Computer Network Support Specialists,Network Applications Specialist,,08
+15-1231.00,Computer Network Support Specialists,Network Consultant,,10
+15-1231.00,Computer Network Support Specialists,Network Control Analyst,,01
+15-1231.00,Computer Network Support Specialists,Network Control Analyst Assistant,,01
+15-1231.00,Computer Network Support Specialists,Network Data Specialist,,10
+15-1231.00,Computer Network Support Specialists,Network Desktop Support Specialist,,08
+15-1231.00,Computer Network Support Specialists,Network Diagnostic Support Specialist,,04
+15-1231.00,Computer Network Support Specialists,Network Field Technician,,10
+15-1231.00,Computer Network Support Specialists,Network Management Specialist,,08
+15-1231.00,Computer Network Support Specialists,Network Operations Analyst,,10
+15-1231.00,Computer Network Support Specialists,Network Operations Specialist,,"03,08"
+15-1231.00,Computer Network Support Specialists,Network Operations Technician,,10
+15-1231.00,Computer Network Support Specialists,Network Relations Consultant,,10
+15-1231.00,Computer Network Support Specialists,Network Services Specialist,,06
+15-1231.00,Computer Network Support Specialists,Network Specialist,,"02,04,06,07,10"
+15-1231.00,Computer Network Support Specialists,Network Support Engineer,,10
+15-1231.00,Computer Network Support Specialists,Network Support Specialist,,"02,08"
+15-1231.00,Computer Network Support Specialists,Network Support Technician,,"04,10"
+15-1231.00,Computer Network Support Specialists,Network Technical Analyst,,02
+15-1231.00,Computer Network Support Specialists,Network Technician,,"02,04,08,10"
+15-1231.00,Computer Network Support Specialists,Network Workstation Technical Specialist,,08
+15-1231.00,Computer Network Support Specialists,Networking Specialist,,09
+15-1231.00,Computer Network Support Specialists,NOC Technician (Network Operations Center Technician),NOC Technician,10
+15-1231.00,Computer Network Support Specialists,Operations Support Technician,,01
+15-1231.00,Computer Network Support Specialists,Personal Computer Network Analyst,,02
+15-1231.00,Computer Network Support Specialists,Support Engineer,,01
+15-1231.00,Computer Network Support Specialists,Support Technician,,10
+15-1231.00,Computer Network Support Specialists,Surveillance Technician,,03
+15-1231.00,Computer Network Support Specialists,Systems Specialist,,02
+15-1231.00,Computer Network Support Specialists,Systems Support Engineer,,10
+15-1231.00,Computer Network Support Specialists,Systems Support Representative,,10
+15-1231.00,Computer Network Support Specialists,Systems Support Specialist,,"02,10"
+15-1231.00,Computer Network Support Specialists,Technical Analyst,,10
+15-1231.00,Computer Network Support Specialists,Technical Services Specialist,,01
+15-1231.00,Computer Network Support Specialists,Technical Support Specialist,,"02,10"
+15-1231.00,Computer Network Support Specialists,Telecommunications Network Technician,,01
+15-1231.00,Computer Network Support Specialists,VoIP Technician (Voice over Internet Protocol Technician),VoIP Technician,08
+15-1231.00,Computer Network Support Specialists,WAN Support Specialist (Wide Area Network Support Specialist),WAN Support Specialist,08
+15-1232.00,Computer User Support Specialists,Application Customer Service Representative (Application CSR),Application CSR,01
+15-1232.00,Computer User Support Specialists,Application Support Engineer,,01
+15-1232.00,Computer User Support Specialists,Applications Analyst,,"02,10"
+15-1232.00,Computer User Support Specialists,Automatic Data Processing Customer Liaison (ADP Customer Liaison),ADP Customer Liaison,"04,07"
+15-1232.00,Computer User Support Specialists,Call Center Support Representative (Call Center Support Rep),Call Center Support Rep,08
+15-1232.00,Computer User Support Specialists,Cloud Operations Specialist,,08
+15-1232.00,Computer User Support Specialists,Computer Customer Support Specialist,,04
+15-1232.00,Computer User Support Specialists,Computer Hardware Technician (Computer Hardware Tech),Computer Hardware Tech,09
+15-1232.00,Computer User Support Specialists,Computer Help Desk Representative (Computer Help Desk Rep),Computer Help Desk Rep,04
+15-1232.00,Computer User Support Specialists,Computer Help Desk Specialist,,04
+15-1232.00,Computer User Support Specialists,Computer Lab Assistant (Computer Laboratory Assistant),Computer Lab Assistant,09
+15-1232.00,Computer User Support Specialists,Computer Operations Technician (Computer Operations Tech),Computer Operations Tech,01
+15-1232.00,Computer User Support Specialists,Computer Operator,,01
+15-1232.00,Computer User Support Specialists,Computer Specialist,,"02,04,06,07"
+15-1232.00,Computer User Support Specialists,Computer Support Specialist,,"02,08"
+15-1232.00,Computer User Support Specialists,Computer Support Tech (Computer Support Technician),Computer Support Tech,08
+15-1232.00,Computer User Support Specialists,Computer System Tech (Computer Systems Technician),Computer System Tech,08
+15-1232.00,Computer User Support Specialists,Computer Systems Specialist,,01
+15-1232.00,Computer User Support Specialists,Computer Tech (Computer Technician),Computer Tech,"02,10"
+15-1232.00,Computer User Support Specialists,Computer Technical Specialist,,09
+15-1232.00,Computer User Support Specialists,Computer Technologist,,09
+15-1232.00,Computer User Support Specialists,Customer Liaison,,08
+15-1232.00,Computer User Support Specialists,Customer Service Technician (Customer Service Tech),Customer Service Tech,01
+15-1232.00,Computer User Support Specialists,Customer Support Analyst,,"04,06,07"
+15-1232.00,Computer User Support Specialists,Customer Support Rep (Customer Support Representative),Customer Support Rep,08
+15-1232.00,Computer User Support Specialists,Customer Support Specialist,,"06,07"
+15-1232.00,Computer User Support Specialists,Desktop Analyst,,09
+15-1232.00,Computer User Support Specialists,Desktop Support Analyst,,"02,10"
+15-1232.00,Computer User Support Specialists,Desktop Support Engineer,,"01,02"
+15-1232.00,Computer User Support Specialists,Desktop Support Manager,,10
+15-1232.00,Computer User Support Specialists,Desktop Support Specialist,,"02,04,06,07,10"
+15-1232.00,Computer User Support Specialists,Desktop Support Technician (Desktop Support Tech),Desktop Support Tech,"02,08,10"
+15-1232.00,Computer User Support Specialists,Desktop Technician (Desktop Tech),Desktop Tech,10
+15-1232.00,Computer User Support Specialists,End User Support Specialist,,04
+15-1232.00,Computer User Support Specialists,Health Information Technology Specialist,,08
+15-1232.00,Computer User Support Specialists,Help Desk Analyst,,"02,04,09,10"
+15-1232.00,Computer User Support Specialists,Help Desk Coordinator,,"01,02"
+15-1232.00,Computer User Support Specialists,Help Desk Operator,,09
+15-1232.00,Computer User Support Specialists,Help Desk Representative (Help Desk Rep),Help Desk Rep,"04,06,07"
+15-1232.00,Computer User Support Specialists,Help Desk Specialist,,"06,07,10"
+15-1232.00,Computer User Support Specialists,Help Desk Support Specialist,,09
+15-1232.00,Computer User Support Specialists,Help Desk Tech (Help Desk Technician),Help Desk Tech,"01,02,04,08,10"
+15-1232.00,Computer User Support Specialists,IS Tech (Information Systems Technician),IS Tech,"02,09"
+15-1232.00,Computer User Support Specialists,IT Analyst (Information Technology Analyst),IT Analyst,"02,09"
+15-1232.00,Computer User Support Specialists,IT Associate (Information Technology Associate),IT Associate,03
+15-1232.00,Computer User Support Specialists,IT Generalist (Information Technology Generalist),IT Generalist,"02,08"
+15-1232.00,Computer User Support Specialists,IT Help Desk Tech (Information Technology Help Desk Technician),IT Help Desk Tech,10
+15-1232.00,Computer User Support Specialists,IT Specialist (Information Technology Specialist),IT Specialist,"02,03,06,07,10"
+15-1232.00,Computer User Support Specialists,IT Support Analyst (Information Technology Support Analyst),IT Support Analyst,"01,02"
+15-1232.00,Computer User Support Specialists,IT Support Engineer (Information Technology Support Engineer),IT Support Engineer,01
+15-1232.00,Computer User Support Specialists,IT Support Specialist (Information Technology Support Specialist),IT Support Specialist,"02,04,10"
+15-1232.00,Computer User Support Specialists,IT Support Tech (Information Technology Support Technician),IT Support Tech,10
+15-1232.00,Computer User Support Specialists,IT Tech (Information Technology Technician),IT Tech,"02,08,10"
+15-1232.00,Computer User Support Specialists,LAN Applications Support Analyst (Local Area Network Applications Support Analyst),LAN Applications Support Analyst,01
+15-1232.00,Computer User Support Specialists,Micro Computer Specialist,,09
+15-1232.00,Computer User Support Specialists,Micro Computer Support Specialist,,08
+15-1232.00,Computer User Support Specialists,Micro Computer Technician (Micro Computer Tech),Micro Computer Tech,09
+15-1232.00,Computer User Support Specialists,Operating Systems Specialist (OS Specialist),OS Specialist,08
+15-1232.00,Computer User Support Specialists,Operations Support Technician (Operations Support Tech),Operations Support Tech,01
+15-1232.00,Computer User Support Specialists,PC Consultant (Personal Computer Consultant),PC Consultant,02
+15-1232.00,Computer User Support Specialists,PC Installation Engineer (Personal Computer Installation Engineer),PC Installation Engineer,06
+15-1232.00,Computer User Support Specialists,PC Specialist (Personal Computer Specialist),PC Specialist,"01,02"
+15-1232.00,Computer User Support Specialists,PC Support Specialist (Personal Computer Support Specialist),PC Support Specialist,"04,08"
+15-1232.00,Computer User Support Specialists,PC Support Tech (Personal Computer Support Technician),PC Support Tech,"02,08"
+15-1232.00,Computer User Support Specialists,PC Systems Coordinator (Personal Computer Systems Coordinator),PC Systems Coordinator,01
+15-1232.00,Computer User Support Specialists,PC Tech (Personal Computer Technician),PC Tech,"02,08,10"
+15-1232.00,Computer User Support Specialists,Printer Technician (Printer Tech),Printer Tech,09
+15-1232.00,Computer User Support Specialists,Product Support Consultant,,08
+15-1232.00,Computer User Support Specialists,Product Support Engineer,,08
+15-1232.00,Computer User Support Specialists,Product Support Specialist,,09
+15-1232.00,Computer User Support Specialists,Service Desk Analyst,,01
+15-1232.00,Computer User Support Specialists,Software Installer,,08
+15-1232.00,Computer User Support Specialists,Support Engineer,,01
+15-1232.00,Computer User Support Specialists,Support Specialist,,02
+15-1232.00,Computer User Support Specialists,Support Technician (Support Tech),Support Tech,10
+15-1232.00,Computer User Support Specialists,Technical Services Specialist,,01
+15-1232.00,Computer User Support Specialists,Technical Support Analyst,,"08,10"
+15-1232.00,Computer User Support Specialists,Technical Support Call Center Representative (Technical Support Call Center Rep),Technical Support Call Center Rep,01
+15-1232.00,Computer User Support Specialists,Technical Support Engineer,,"08,10"
+15-1232.00,Computer User Support Specialists,Technical Support Representative (Technical Support Rep),Technical Support Rep,"02,07,08,10"
+15-1232.00,Computer User Support Specialists,Technical Support Specialist,,"02,07,08,10"
+15-1232.00,Computer User Support Specialists,Technical Support Technician (Technical Support Tech),Technical Support Tech,08
+15-1232.00,Computer User Support Specialists,User Support Analyst,,"04,06,07,08"
+15-1232.00,Computer User Support Specialists,User Support Specialist,,"02,08"
+15-1232.00,Computer User Support Specialists,Work Station Support Specialist,,"04,06,07"
+15-1241.00,Computer Network Architects,Cloud Architect,,01
+15-1241.00,Computer Network Architects,Cloud Network Engineer,,10
+15-1241.00,Computer Network Architects,Computer Network Analyst,,01
+15-1241.00,Computer Network Architects,Computer Network Engineer,,04
+15-1241.00,Computer Network Architects,Computer Network Technologist,,02
+15-1241.00,Computer Network Architects,Data Communications Analyst,,"04,06,07,08"
+15-1241.00,Computer Network Architects,Enterprise Architect,,09
+15-1241.00,Computer Network Architects,Internetworking Technician (Internetworking Tech),Internetworking Tech,08
+15-1241.00,Computer Network Architects,IT Analyst (Information Technology Analyst),IT Analyst,10
+15-1241.00,Computer Network Architects,IT Network Engineer (Information Technology Network Engineer),IT Network Engineer,10
+15-1241.00,Computer Network Architects,Network Analyst,,"01,02,04,06,07,08,10"
+15-1241.00,Computer Network Architects,Network Architect,,"04,06,07,08,10"
+15-1241.00,Computer Network Architects,Network Computer Consultant,,"04,06"
+15-1241.00,Computer Network Architects,Network Consultant,,"02,04,06,07"
+15-1241.00,Computer Network Architects,Network Control Analyst,,01
+15-1241.00,Computer Network Architects,Network Control Analyst Assistant,,01
+15-1241.00,Computer Network Architects,Network Designer,,"04,06,07"
+15-1241.00,Computer Network Architects,Network Developer,,"04,07"
+15-1241.00,Computer Network Architects,Network Operations Analyst (Network Ops Analyst),Network Ops Analyst,08
+15-1241.00,Computer Network Architects,Network Operations Specialist (Network Ops Specialist),Network Ops Specialist,01
+15-1241.00,Computer Network Architects,Network Security Analyst,,04
+15-1241.00,Computer Network Architects,Network Security Systems Analyst,,01
+15-1241.00,Computer Network Architects,Network Specialist,,"08,10"
+15-1241.00,Computer Network Architects,Network Systems Analyst,,06
+15-1241.00,Computer Network Architects,Network Systems Consultant,,02
+15-1241.00,Computer Network Architects,Network Systems Engineer,,10
+15-1241.00,Computer Network Architects,Network Systems Integrator,,"04,06,07"
+15-1241.00,Computer Network Architects,Networking Engineer,,09
+15-1241.00,Computer Network Architects,Networking Systems Engineer,,02
+15-1241.00,Computer Network Architects,NOC Engineer (Network Operations Center Engineer),NOC Engineer,10
+15-1241.00,Computer Network Architects,PC Network Engineer (Personal Computer Network Engineer),PC Network Engineer,08
+15-1241.00,Computer Network Architects,Platform Architect,,10
+15-1241.00,Computer Network Architects,Principal Network Engineer,,10
+15-1241.00,Computer Network Architects,Server Engineer,,10
+15-1241.00,Computer Network Architects,Solutions Architect,,02
+15-1241.00,Computer Network Architects,Solutions Engineer,,01
+15-1241.00,Computer Network Architects,System Programmer,,02
+15-1241.00,Computer Network Architects,Systems Engineer,,02
+15-1241.00,Computer Network Architects,Target Network Analyst,,01
+15-1241.00,Computer Network Architects,Telecommunications Analyst (Telecom Analyst),Telecom Analyst,"02,09"
+15-1241.00,Computer Network Architects,WAN Engineer (Wide Area Network Engineer),WAN Engineer,"02,09"
+15-1241.00,Computer Network Architects,Wireless Engineer,,10
+15-1241.00,Computer Network Architects,Wireless Network Engineer,,02
+15-1241.01,Telecommunications Engineering Specialists,Communications Analyst,,10
+15-1241.01,Telecommunications Engineering Specialists,Communications Engineer,,"02,10"
+15-1241.01,Telecommunications Engineering Specialists,Communications Network Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Communications Systems Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Engineer,,02
+15-1241.01,Telecommunications Engineering Specialists,Infrastructure Engineer,,02
+15-1241.01,Telecommunications Engineering Specialists,Messaging Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Multimedia Telecommunications Systems Integrator,,08
+15-1241.01,Telecommunications Engineering Specialists,Network Engineer,,"02,10"
+15-1241.01,Telecommunications Engineering Specialists,Registered Communications Distribution Designer (RCDD),RCDD,02
+15-1241.01,Telecommunications Engineering Specialists,Telecommunication Design Analyst (Telecom Design Analyst),Telecom Design Analyst,02
+15-1241.01,Telecommunications Engineering Specialists,Telecommunication Design Engineer (Telecom Design Engineer),Telecom Design Engineer,02
+15-1241.01,Telecommunications Engineering Specialists,Telecommunication Engineer (Telecom Engineer),Telecom Engineer,"02,08"
+15-1241.01,Telecommunications Engineering Specialists,Telecommunication Systems Designer (Telecom Systems Designer),Telecom Systems Designer,02
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Administrator (Telecommunications Admin),Telecommunications Admin,10
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Analyst (Telecom Analyst),Telecom Analyst,10
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Consultant (Telecom Consultant),Telecom Consultant,02
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Engineer (Telecom Engineer),Telecom Engineer,"08,10"
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Management Specialist (Telecom Management Specialist),Telecom Management Specialist,08
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Network Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Network Technician,,01
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Operator (Telecom Operator),Telecom Operator,10
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Specialist (Telecom Specialist),Telecom Specialist,"08,10"
+15-1241.01,Telecommunications Engineering Specialists,Telecommunications Systems Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Unified Communications Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,Voice Engineer,,10
+15-1241.01,Telecommunications Engineering Specialists,VOIP Engineer (Voice Over Internal Protocol Engineer),VOIP Engineer,10
+15-1241.01,Telecommunications Engineering Specialists,VoIP Engineer (Voice Over Internet Protocol Engineer),VoIP Engineer,10
+15-1241.01,Telecommunications Engineering Specialists,VoIP Network Engineer (Voice over Internet Protocol Network Engineer),VoIP Network Engineer,01
+15-1242.00,Database Administrators,Administrator (Admin),Admin,10
+15-1242.00,Database Administrators,Automatic Data Processing Planner (ADP Planner),ADP Planner,"04,08"
+15-1242.00,Database Administrators,Cyber Database Administrator (Cyber DBA),Cyber DBA,03
+15-1242.00,Database Administrators,Data Administrator (Data Admin),Data Admin,08
+15-1242.00,Database Administrators,Data Management Associate,,08
+15-1242.00,Database Administrators,Data Management IT Specialist (Data Management Information Technology Specialist),Data Management IT Specialist,08
+15-1242.00,Database Administrators,Data Miner,,08
+15-1242.00,Database Administrators,Data Recovery Planner,,08
+15-1242.00,Database Administrators,Data Security Administrator,,01
+15-1242.00,Database Administrators,Data Storage Specialist,,08
+15-1242.00,Database Administrators,Database Administration Associate,,08
+15-1242.00,Database Administrators,Database Administration Manager,,"02,04"
+15-1242.00,Database Administrators,Database Administrator (DBA),DBA,"01,02,10"
+15-1242.00,Database Administrators,Database Analyst,,02
+15-1242.00,Database Administrators,Database Coordinator,,"02,04"
+15-1242.00,Database Administrators,Database Design Analyst,,08
+15-1242.00,Database Administrators,Database Developer,,10
+15-1242.00,Database Administrators,Database Engineer,,02
+15-1242.00,Database Administrators,Database Management System Specialist (DBMS Specialist),DBMS Specialist,08
+15-1242.00,Database Administrators,Database Manager,,"02,08"
+15-1242.00,Database Administrators,Database Programmer,,04
+15-1242.00,Database Administrators,Database Security Administrator,,"04,08"
+15-1242.00,Database Administrators,Database Software Technician (Database Software Tech),Database Software Tech,08
+15-1242.00,Database Administrators,Database Specialist,,08
+15-1242.00,Database Administrators,Database Technician (Database Tech),Database Tech,08
+15-1242.00,Database Administrators,Database Tester,,08
+15-1242.00,Database Administrators,Databases Computer Consultant,,08
+15-1242.00,Database Administrators,Databases Software Consultant,,08
+15-1242.00,Database Administrators,Development and Database Administration Manager,,02
+15-1242.00,Database Administrators,"ETL Developer (Extract, Transform and Load Developer)",ETL Developer,10
+15-1242.00,Database Administrators,Information Technology Administrator (IT Administrator),IT Administrator,08
+15-1242.00,Database Administrators,Internet Database Specialist,,08
+15-1242.00,Database Administrators,IS Admin (Information Systems Administrator),IS Admin,"02,08"
+15-1242.00,Database Administrators,IS Security Manager (Information Systems Security Manager),IS Security Manager,01
+15-1242.00,Database Administrators,Picture Archiving and Communication Systems Administrator (PACS Administrator),PACS Administrator,08
+15-1242.00,Database Administrators,Security Administrator,,01
+15-1242.00,Database Administrators,SQL DBA (Structured Query Language Database Administrator),SQL DBA,10
+15-1242.00,Database Administrators,Systems Administrator (Systems Admin),Systems Admin,02
+15-1242.00,Database Administrators,Systems Tester Admin (Systems Tester Administrator),Systems Tester Admin,01
+15-1243.00,Database Architects,ADP Planner (Automatic Data Processing Planner),ADP Planner,08
+15-1243.00,Database Architects,Big Data Architect,,"02,10"
+15-1243.00,Database Architects,Big Data Engineer,,01
+15-1243.00,Database Architects,Cloud Architect,,01
+15-1243.00,Database Architects,Cloud Infrastructure Architect,,10
+15-1243.00,Database Architects,Computer Architect,,08
+15-1243.00,Database Architects,Data Analyst,,08
+15-1243.00,Database Architects,Data Architect,,"02,04,08"
+15-1243.00,Database Architects,Data Engineer,,"02,08"
+15-1243.00,Database Architects,Data Governance Analyst,,10
+15-1243.00,Database Architects,Data Integration Specialist,,04
+15-1243.00,Database Architects,Data Management IT Specialist (Data Management Information Technology Specialist),Data Management IT Specialist,08
+15-1243.00,Database Architects,Data Manager,,08
+15-1243.00,Database Architects,Data Miner,,08
+15-1243.00,Database Architects,Data Modeler,,08
+15-1243.00,Database Architects,Data Modeling Specialist,,08
+15-1243.00,Database Architects,Data Officer,,02
+15-1243.00,Database Architects,Data Privacy Officer,,01
+15-1243.00,Database Architects,Data Recovery Planner,,08
+15-1243.00,Database Architects,Data Storage Specialist,,08
+15-1243.00,Database Architects,Data Warehouse Architect,,08
+15-1243.00,Database Architects,Data Warehouse Programmer,,01
+15-1243.00,Database Architects,Data Warehousing Engineer,,08
+15-1243.00,Database Architects,Database Analyst,,02
+15-1243.00,Database Architects,Database Architect,,02
+15-1243.00,Database Architects,Database Computer Consultant,,08
+15-1243.00,Database Architects,Database Consultant,,02
+15-1243.00,Database Architects,Database Design Analyst,,08
+15-1243.00,Database Architects,Database Designer,,08
+15-1243.00,Database Architects,Database Developer,,"02,04"
+15-1243.00,Database Architects,Database Engineer,,08
+15-1243.00,Database Architects,Database Manager,,08
+15-1243.00,Database Architects,Database Modeler,,08
+15-1243.00,Database Architects,Database Programmer,,02
+15-1243.00,Database Architects,Database Software Consultant,,08
+15-1243.00,Database Architects,Database Software Tech (Database Software Technician),Database Software Tech,08
+15-1243.00,Database Architects,Database Specialist,,08
+15-1243.00,Database Architects,DBMS Specialist (Database Management System Specialist),DBMS Specialist,08
+15-1243.00,Database Architects,Developer,,"01,08,10"
+15-1243.00,Database Architects,Enterprise Architect,,"02,08"
+15-1243.00,Database Architects,Enterprise Data Architect,,"02,10"
+15-1243.00,Database Architects,Information Architect,,02
+15-1243.00,Database Architects,Information Engineer,,08
+15-1243.00,Database Architects,Infrastructure Architect,,08
+15-1243.00,Database Architects,Internet Database Specialist,,08
+15-1243.00,Database Architects,Knowledge Architect,,08
+15-1243.00,Database Architects,Public Key Infrastructure Analyst (PKI Analyst),PKI Analyst,01
+15-1243.00,Database Architects,Server Developer,,08
+15-1243.00,Database Architects,Solutions Architect,,"02,08"
+15-1243.01,Data Warehousing Specialists,Analytics Manager,,01
+15-1243.01,Data Warehousing Specialists,Big Data Engineer,,01
+15-1243.01,Data Warehousing Specialists,Data Integrity Specialist,,10
+15-1243.01,Data Warehousing Specialists,Data Management Engineer,,10
+15-1243.01,Data Warehousing Specialists,Data Management Manager,,10
+15-1243.01,Data Warehousing Specialists,Data Management Specialist,,10
+15-1243.01,Data Warehousing Specialists,Data Migration Specialist,,10
+15-1243.01,Data Warehousing Specialists,Data Quality Analyst,,01
+15-1243.01,Data Warehousing Specialists,Data Specialist,,10
+15-1243.01,Data Warehousing Specialists,Data Storage Specialist,,08
+15-1243.01,Data Warehousing Specialists,Data Warehouse Analyst,,"02,10"
+15-1243.01,Data Warehousing Specialists,Data Warehouse Developer,,10
+15-1243.01,Data Warehousing Specialists,Data Warehouse Engineer,,10
+15-1243.01,Data Warehousing Specialists,"Data Warehouse ETL Developer (Data Warehouse Extract, Transform, and Load Developer)",Data Warehouse ETL Developer,10
+15-1243.01,Data Warehousing Specialists,Data Warehouse Programmer,,01
+15-1243.01,Data Warehousing Specialists,Data Warehouse Solution Architect,,02
+15-1243.01,Data Warehousing Specialists,Data Warehouse Specialist,,08
+15-1243.01,Data Warehousing Specialists,Data Warehousing Engineer,,08
+15-1243.01,Data Warehousing Specialists,Data Warehousing Specialist,,08
+15-1243.01,Data Warehousing Specialists,Database Specialist,,10
+15-1243.01,Data Warehousing Specialists,ETL Developer (Extract-Transform-Load Developer),ETL Developer,01
+15-1243.01,Data Warehousing Specialists,ETL Tester (Extract-Transform-Load Tester),ETL Tester,10
+15-1243.01,Data Warehousing Specialists,Research Data Specialist,,10
+15-1243.01,Data Warehousing Specialists,Storage Engineer,,10
+15-1244.00,Network and Computer Systems Administrators,Administrator (Admin),Admin,10
+15-1244.00,Network and Computer Systems Administrators,AI Security Specialist (Artificial Intelligence Security Specialist),AI Security Specialist,01
+15-1244.00,Network and Computer Systems Administrators,Application Security Administrator,,01
+15-1244.00,Network and Computer Systems Administrators,Application Systems Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,Computer Systems Security Administrator,,04
+15-1244.00,Network and Computer Systems Administrators,E-Mail System Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,Enterprise Systems Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,Hardware Installation Coordinator,,01
+15-1244.00,Network and Computer Systems Administrators,Information Analyst,,02
+15-1244.00,Network and Computer Systems Administrators,Information Systems Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,Information Systems Coordinator (IS Coordinator),IS Coordinator,02
+15-1244.00,Network and Computer Systems Administrators,Information Systems Operator,,01
+15-1244.00,Network and Computer Systems Administrators,Information Technology Administrator (IT Administrator),IT Administrator,"09,10"
+15-1244.00,Network and Computer Systems Administrators,Information Technology Specialist (IT Specialist),IT Specialist,"02,08"
+15-1244.00,Network and Computer Systems Administrators,Information Technology Technical Support Specialist (IT Technical Support Specialist),IT Technical Support Specialist,02
+15-1244.00,Network and Computer Systems Administrators,Installation Coordinator,,01
+15-1244.00,Network and Computer Systems Administrators,Internet Systems Administrator,,01
+15-1244.00,Network and Computer Systems Administrators,Internetwork Expert (CCIE),CCIE,09
+15-1244.00,Network and Computer Systems Administrators,IT Systems Admin (Information Technology Systems Administrator),IT Systems Admin,"02,08,10"
+15-1244.00,Network and Computer Systems Administrators,LAN Specialist (Local Area Network Specialist),LAN Specialist,02
+15-1244.00,Network and Computer Systems Administrators,Local Area Network Administrator (LAN Administrator),LAN Administrator,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Local Area Network Systems Administrator (LAN Systems Administrator),LAN Systems Administrator,04
+15-1244.00,Network and Computer Systems Administrators,Mainframe Systems Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,MIS Manager (Management Information Systems Manager),MIS Manager,02
+15-1244.00,Network and Computer Systems Administrators,Network Administrator,,"02,10"
+15-1244.00,Network and Computer Systems Administrators,Network Control Analyst,,01
+15-1244.00,Network and Computer Systems Administrators,Network Coordinator,,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Network Manager,,"02,08,10"
+15-1244.00,Network and Computer Systems Administrators,Network Professional (CCNP),CCNP,09
+15-1244.00,Network and Computer Systems Administrators,Network Security Administrator,,04
+15-1244.00,Network and Computer Systems Administrators,Network Support Administrator,,08
+15-1244.00,Network and Computer Systems Administrators,Network Support Coordinator,,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Network Support Manager,,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Network Systems Administrator,,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Network Systems Coordinator,,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Network Transport Administrator,,01
+15-1244.00,Network and Computer Systems Administrators,Networking Administrator,,09
+15-1244.00,Network and Computer Systems Administrators,Provider Network Manager,,10
+15-1244.00,Network and Computer Systems Administrators,Security Administrator,,01
+15-1244.00,Network and Computer Systems Administrators,Server Administrator,,"02,09,10"
+15-1244.00,Network and Computer Systems Administrators,Software Manager,,01
+15-1244.00,Network and Computer Systems Administrators,System Administrator (System Admin),System Admin,"01,03,10"
+15-1244.00,Network and Computer Systems Administrators,Systems Administrator,,"02,08,10"
+15-1244.00,Network and Computer Systems Administrators,Systems Operator,,02
+15-1244.00,Network and Computer Systems Administrators,Systems Tester Administrator,,01
+15-1244.00,Network and Computer Systems Administrators,Virtualization Engineer,,01
+15-1244.00,Network and Computer Systems Administrators,Wide Area Network Administrator (WAN Administrator),WAN Administrator,"02,04"
+15-1244.00,Network and Computer Systems Administrators,Wide Area Network Systems Administrator (WAN Systems Administrator),WAN Systems Administrator,04
+15-1244.00,Network and Computer Systems Administrators,Windows Administrator,,01
+15-1251.00,Computer Programmers,.NET Programmer,,10
+15-1251.00,Computer Programmers,Analyst Programmer,,02
+15-1251.00,Computer Programmers,Application Programmer,,10
+15-1251.00,Computer Programmers,Application Programmer Analyst,,02
+15-1251.00,Computer Programmers,Applications Programmer,,"04,09,10"
+15-1251.00,Computer Programmers,Beta Tester,,09
+15-1251.00,Computer Programmers,Bug Bounty Hunter,,01
+15-1251.00,Computer Programmers,Business Programmer,,"04,06,07"
+15-1251.00,Computer Programmers,Certified Ethical Hacker,,09
+15-1251.00,Computer Programmers,Client Server Programmer,,"04,06,07"
+15-1251.00,Computer Programmers,Cloud Engineer,,01
+15-1251.00,Computer Programmers,COBOL Programmer (Common Business Oriented Language Programmer),COBOL Programmer,09
+15-1251.00,Computer Programmers,Computer Game Programmer,,08
+15-1251.00,Computer Programmers,Computer Language Coder,,04
+15-1251.00,Computer Programmers,Computer Programmer,,"02,04,08,10"
+15-1251.00,Computer Programmers,Computer Programmer Analyst,,02
+15-1251.00,Computer Programmers,Database Programmer,,09
+15-1251.00,Computer Programmers,E-Commerce Programmer (Electronic Commerce Programmer),E-Commerce Programmer,01
+15-1251.00,Computer Programmers,Engineer,,08
+15-1251.00,Computer Programmers,Engineering and Scientific Programmer,,08
+15-1251.00,Computer Programmers,Engineering Programmer,,"04,06,07"
+15-1251.00,Computer Programmers,Game Programmer,,09
+15-1251.00,Computer Programmers,Graphic Engineer,,09
+15-1251.00,Computer Programmers,Internet Programmer,,"02,04,06,07"
+15-1251.00,Computer Programmers,IT Programmer (Information Technology Programmer),IT Programmer,04
+15-1251.00,Computer Programmers,Java Architect,,01
+15-1251.00,Computer Programmers,Java Developer,,"02,08"
+15-1251.00,Computer Programmers,Java Programmer,,09
+15-1251.00,Computer Programmers,Mainframe Programmer,,"04,06,07"
+15-1251.00,Computer Programmers,Malware Analyst,,01
+15-1251.00,Computer Programmers,Object-Oriented Programmer,,"04,06,07"
+15-1251.00,Computer Programmers,Operating System Programmer,,08
+15-1251.00,Computer Programmers,Program Analyst,,10
+15-1251.00,Computer Programmers,Programmer,,"02,08,09,10"
+15-1251.00,Computer Programmers,Programmer Analyst,,02
+15-1251.00,Computer Programmers,Scientific Programmer,,08
+15-1251.00,Computer Programmers,Software Programmer,,08
+15-1251.00,Computer Programmers,Statistical Programmer,,10
+15-1251.00,Computer Programmers,Systems Programmer,,"02,04,06,07,10"
+15-1251.00,Computer Programmers,Video Game Programmer,,09
+15-1251.00,Computer Programmers,Web Applications Programmer,,02
+15-1251.00,Computer Programmers,Web Programmer,,"02,06,07"
+15-1251.00,Computer Programmers,Website Programmer,,08
+15-1251.00,Computer Programmers,White Hat Hacker,,09
+15-1252.00,Software Developers,AI Specialist (Artificial Intelligence Specialist),AI Specialist,08
+15-1252.00,Software Developers,Application Analyst,,08
+15-1252.00,Software Developers,Application Architect,,08
+15-1252.00,Software Developers,Application Developer,,"02,04,08"
+15-1252.00,Software Developers,Application Engineer,,08
+15-1252.00,Software Developers,Application Integration Engineer,,"02,04"
+15-1252.00,Software Developers,Application Integrator,,08
+15-1252.00,Software Developers,Application Programmer,,08
+15-1252.00,Software Developers,Application Software Engineering IT Specialist (Application Software Engineering Information Technology Specialist),Application Software Engineering IT Specialist,08
+15-1252.00,Software Developers,Application Support Engineer,,01
+15-1252.00,Software Developers,Application Systems Analyst,,08
+15-1252.00,Software Developers,Application Systems Architect,,01
+15-1252.00,Software Developers,Beta Tester,,08
+15-1252.00,Software Developers,Business Application Developer,,01
+15-1252.00,Software Developers,Certified Internetwork Expert,,08
+15-1252.00,Software Developers,Commercial Drone Software Developer,,08
+15-1252.00,Software Developers,Computer Application Developer,,"04,08"
+15-1252.00,Software Developers,Computer Application Engineer,,"04,08"
+15-1252.00,Software Developers,Computer Architect,,08
+15-1252.00,Software Developers,Computer Consultant,,08
+15-1252.00,Software Developers,Computer Engineer,,08
+15-1252.00,Software Developers,Computer Programmer Analyst,,08
+15-1252.00,Software Developers,Computer Software Engineer,,08
+15-1252.00,Software Developers,Computer Systems Software Architect,,"04,08"
+15-1252.00,Software Developers,Computer Systems Software Engineer,,"04,08"
+15-1252.00,Software Developers,Developer,,"01,02,08,10"
+15-1252.00,Software Developers,DevOps Architect (Development and Operations Architect),DevOps Architect,01
+15-1252.00,Software Developers,DevOps Developer (Development and Operations Developer),DevOps Developer,01
+15-1252.00,Software Developers,DevOps Engineer (Development Operations Engineer),DevOps Engineer,"02,08"
+15-1252.00,Software Developers,Drone Software Development Engineer,,08
+15-1252.00,Software Developers,EDP System Engineer (Electronic Data Processing System Engineer),EDP System Engineer,08
+15-1252.00,Software Developers,Embedded Engineer,,08
+15-1252.00,Software Developers,Embedded Software Engineer,,01
+15-1252.00,Software Developers,Embedded Systems Software Developer,,"04,08"
+15-1252.00,Software Developers,Enterprise Systems Engineer,,"04,08"
+15-1252.00,Software Developers,Extract Transform Load Developer,,01
+15-1252.00,Software Developers,Full Stack Developer,,10
+15-1252.00,Software Developers,Full Stack Software Engineer,,10
+15-1252.00,Software Developers,Game Developer,,08
+15-1252.00,Software Developers,Game Engineer,,08
+15-1252.00,Software Developers,Graphic Engineer,,08
+15-1252.00,Software Developers,Implementation Specialist,,08
+15-1252.00,Software Developers,Information Architect,,08
+15-1252.00,Software Developers,Infrastructure Engineer,,02
+15-1252.00,Software Developers,Interface Designer,,08
+15-1252.00,Software Developers,Internet Application Developer,,08
+15-1252.00,Software Developers,Internet Consultant,,08
+15-1252.00,Software Developers,Knowledge Management Application Developer,,08
+15-1252.00,Software Developers,Mainframe Systems Programmer,,08
+15-1252.00,Software Developers,Mobile Application Developer,,"01,04"
+15-1252.00,Software Developers,Mobile Device Developer,,01
+15-1252.00,Software Developers,Operating System Designer (OS Designer),OS Designer,08
+15-1252.00,Software Developers,Operating System Specialist (OS Specialist),OS Specialist,08
+15-1252.00,Software Developers,Publishing Systems Analyst,,08
+15-1252.00,Software Developers,Secure Software Assessor,,08
+15-1252.00,Software Developers,Server Engineer,,08
+15-1252.00,Software Developers,Simulation Developer,,08
+15-1252.00,Software Developers,Site Reliability Engineer,,10
+15-1252.00,Software Developers,SOA Developer (Service Oriented Architecture Developer),SOA Developer,01
+15-1252.00,Software Developers,Software Application Architect,,"04,08"
+15-1252.00,Software Developers,Software Application Designer,,"04,08"
+15-1252.00,Software Developers,Software Application Developer,,08
+15-1252.00,Software Developers,Software Application Engineer,,"04,08"
+15-1252.00,Software Developers,Software Application Specialist,,08
+15-1252.00,Software Developers,Software Architect,,02
+15-1252.00,Software Developers,Software Computer Specialist,,08
+15-1252.00,Software Developers,Software Design Engineer,,08
+15-1252.00,Software Developers,Software Designer,,08
+15-1252.00,Software Developers,Software Developer,,"02,08"
+15-1252.00,Software Developers,Software Development Engineer,,02
+15-1252.00,Software Developers,Software Engineer,,"02,04,08,10"
+15-1252.00,Software Developers,Software Engineering Systems IT Specialist (Software Engineering Systems Information Technology Specialist),Software Engineering Systems IT Specialist,08
+15-1252.00,Software Developers,Software Quality Engineer (SQE),SQE,08
+15-1252.00,Software Developers,Software Requirements Engineer (SRE),SRE,08
+15-1252.00,Software Developers,Software Systems Developer,,04
+15-1252.00,Software Developers,Software Systems Engineer,,"04,08"
+15-1252.00,Software Developers,Software Writer,,08
+15-1252.00,Software Developers,Solution Architect,,08
+15-1252.00,Software Developers,Solution Engineer,,01
+15-1252.00,Software Developers,Systems Analyst Engineer,,08
+15-1252.00,Software Developers,Systems Coordinator,,08
+15-1252.00,Software Developers,Systems Engineer,,"02,08"
+15-1252.00,Software Developers,Systems Integration Engineer,,08
+15-1252.00,Software Developers,Systems Software Designer,,"04,08"
+15-1252.00,Software Developers,Systems Software Engineer,,08
+15-1252.00,Software Developers,Systems Software Specialist,,"04,08"
+15-1252.00,Software Developers,Systems Support Engineer,,08
+15-1252.00,Software Developers,UI Designer (User Interface Designer),UI Designer,08
+15-1252.00,Software Developers,Usability Engineer,,08
+15-1252.00,Software Developers,Video Game Engineer,,08
+15-1252.00,Software Developers,XML Developer (Extensible Markup Language Developer),XML Developer,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Application Integrator,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Applications Analyst,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Applications Quality Assurance Specialist (Applications QA Specialist),Applications QA Specialist,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Applications Software Engineering Information Technology Specialist (Applications Software Engineering IT Specialist),Applications Software Engineering IT Specialist,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Applications System Analyst,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Applications Tester,,04
+15-1253.00,Software Quality Assurance Analysts and Testers,Automation Tester,,"02,08"
+15-1253.00,Software Quality Assurance Analysts and Testers,Beta Tester,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Bug Bounty Hunter,,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Computer Consultant,,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Data Modeler,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Game Tester,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Implementation Specialist,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Information Technology Analyst (IT Analyst),IT Analyst,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Information Technology Consultant (IT Consultant),IT Consultant,08
+15-1253.00,Software Quality Assurance Analysts and Testers,IT Performance Analyst (Information Technology Performance Analyst),IT Performance Analyst,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Malware Analyst,,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Performance Tester,,10
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Analyst,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Assurance Analyst (QA Analyst),QA Analyst,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Assurance Automation Engineer (QA Automation Engineer),QA Automation Engineer,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Assurance Engineer (QA Engineer),QA Engineer,"02,08"
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Assurance Specialist (QA Specialist),QA Specialist,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Assurance Tester (QA Tester),QA Tester,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Quality Engineer,,"02,08"
+15-1253.00,Software Quality Assurance Analysts and Testers,Secure Software Assessor,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Server Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Application Quality Assurance Specialist (Software Application QA Specialist),Software Application QA Specialist,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Application Support Specialist,,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Installer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Assurance Analyst (SQA Analyst),SQA Analyst,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Assurance Consultant (Software QA Consultant),Software QA Consultant,10
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Assurance Engineer (SQA Engineer),SQA Engineer,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Assurance Specialist (SQA Specialist),SQA Specialist,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Assurance Technician (SQA Technician),SQA Technician,04
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Control Specialist (Software QC Specialist),Software QC Specialist,04
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Engineer,,"02,04"
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Quality Tester,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Requirements Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Systems Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Test Analyst,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Test Engineer,,"02,04,10"
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Tester,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Software Testing Specialist,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Solution Architect,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Solutions Architect,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,System Testing and Evaluation Specialist,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Analyst,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Analyst Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Coordinator,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Integration Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Software Quality Assurance Specialist (Systems Software QA Specialist),Systems Software QA Specialist,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Software Specialist,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Support Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Tester,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Systems Tester Analyst,,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Technical Support Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Technology Analyst,,01
+15-1253.00,Software Quality Assurance Analysts and Testers,Test Automation Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,Test Engineer,,02
+15-1253.00,Software Quality Assurance Analysts and Testers,Usability Engineer,,08
+15-1253.00,Software Quality Assurance Analysts and Testers,User Experience Designer (UX Designer),UX Designer,08
+15-1253.00,Software Quality Assurance Analysts and Testers,User Interface and User Experience Architect (UI/UX Architect),UI/UX Architect,01
+15-1253.00,Software Quality Assurance Analysts and Testers,User Interface and User Experience Designer (UI/UX Designer),UI/UX Designer,01
+15-1253.00,Software Quality Assurance Analysts and Testers,User Interface Designer (UI Designer),UI Designer,08
+15-1254.00,Web Developers,Back End Developer,,10
+15-1254.00,Web Developers,Back End Engineer,,10
+15-1254.00,Web Developers,Back End Software Engineer,,10
+15-1254.00,Web Developers,Back-End Web Developer,,01
+15-1254.00,Web Developers,Computer Graphic Artist,,08
+15-1254.00,Web Developers,Computer Graphic Designer,,08
+15-1254.00,Web Developers,Front End Developer,,08
+15-1254.00,Web Developers,Front End Engineer,,10
+15-1254.00,Web Developers,Front End Software Engineer,,10
+15-1254.00,Web Developers,Front End Web Developer,,08
+15-1254.00,Web Developers,Full Stack Developer,,10
+15-1254.00,Web Developers,Full Stack Web Developer,,10
+15-1254.00,Web Developers,HTML Developer (HyperText Markup Language Developer),HTML Developer,01
+15-1254.00,Web Developers,Interface Designer,,08
+15-1254.00,Web Developers,Internet Application Developer,,08
+15-1254.00,Web Developers,Internet Architect,,08
+15-1254.00,Web Developers,Internet Developer,,08
+15-1254.00,Web Developers,Internet Site Designer,,08
+15-1254.00,Web Developers,Internet Specialist,,08
+15-1254.00,Web Developers,Intranet Developer,,"04,08"
+15-1254.00,Web Developers,JavaScript Developer,,01
+15-1254.00,Web Developers,jQuery Developer,,01
+15-1254.00,Web Developers,Node.js Developer,,01
+15-1254.00,Web Developers,PHP Developer (Personal Home Page Developer),PHP Developer,08
+15-1254.00,Web Developers,PHP Web Developer (Personal Home Page Web Developer),PHP Web Developer,08
+15-1254.00,Web Developers,PHP Website Developer,,08
+15-1254.00,Web Developers,React.js Developer,,01
+15-1254.00,Web Developers,Ruby on Rails Developer,,01
+15-1254.00,Web Developers,Salesforce Developer,,01
+15-1254.00,Web Developers,Tableau Developer,,01
+15-1254.00,Web Developers,Technology Applications Engineer,,02
+15-1254.00,Web Developers,UI Developer (User Interface Developer),UI Developer,10
+15-1254.00,Web Developers,Web Application Developer,,01
+15-1254.00,Web Developers,Web Applications Developer,,"04,08"
+15-1254.00,Web Developers,Web Architect,,"02,04"
+15-1254.00,Web Developers,Web Consultant,,01
+15-1254.00,Web Developers,Web Content Developer,,"04,08"
+15-1254.00,Web Developers,Web Design Specialist,,02
+15-1254.00,Web Developers,Web Developer,,"02,04"
+15-1254.00,Web Developers,Web Engineer,,08
+15-1254.00,Web Developers,Web Infrastructure Developer,,01
+15-1254.00,Web Developers,Web Page Developer,,08
+15-1254.00,Web Developers,Web Producer,,08
+15-1254.00,Web Developers,Web Programmer,,08
+15-1254.00,Web Developers,Web Site Designer,,08
+15-1254.00,Web Developers,Web Site Developer,,08
+15-1254.00,Web Developers,Web Site Specialist,,08
+15-1254.00,Web Developers,Web Software Engineer,,08
+15-1254.00,Web Developers,Web Specialist,,08
+15-1254.00,Web Developers,Web Technician,,01
+15-1254.00,Web Developers,Webmaster,,02
+15-1254.00,Web Developers,Webmaster Analyst,,01
+15-1254.00,Web Developers,Website Manager,,01
+15-1254.00,Web Developers,Websphere Administrator,,01
+15-1254.00,Web Developers,WordPress Developer,,01
+15-1254.00,Web Developers,XML Developer (Extensible Markup Language Developer),XML Developer,01
+15-1255.00,Web and Digital Interface Designers,Computer Graphic Artist,,08
+15-1255.00,Web and Digital Interface Designers,Computer Graphic Designer,,08
+15-1255.00,Web and Digital Interface Designers,Content Manager,,08
+15-1255.00,Web and Digital Interface Designers,Digital Designer,,04
+15-1255.00,Web and Digital Interface Designers,Front End Developer,,08
+15-1255.00,Web and Digital Interface Designers,Front End Web Developer,,08
+15-1255.00,Web and Digital Interface Designers,Graphics Designer,,04
+15-1255.00,Web and Digital Interface Designers,HTML Developer (HyperText Markup Language Developer),HTML Developer,01
+15-1255.00,Web and Digital Interface Designers,Interface Designer,,08
+15-1255.00,Web and Digital Interface Designers,Internet Application Developer,,08
+15-1255.00,Web and Digital Interface Designers,Internet Architect,,08
+15-1255.00,Web and Digital Interface Designers,Internet Developer,,08
+15-1255.00,Web and Digital Interface Designers,Internet Site Designer,,08
+15-1255.00,Web and Digital Interface Designers,Internet Specialist,,08
+15-1255.00,Web and Digital Interface Designers,Intranet Developer,,08
+15-1255.00,Web and Digital Interface Designers,Multimedia Developer,,08
+15-1255.00,Web and Digital Interface Designers,PHP Developer (Personal Home Page Developer),PHP Developer,08
+15-1255.00,Web and Digital Interface Designers,PHP Web Developer (Personal Home Page Web Developer),PHP Web Developer,08
+15-1255.00,Web and Digital Interface Designers,PHP Website Developer (Personal Home Page Website Developer),PHP Website Developer,08
+15-1255.00,Web and Digital Interface Designers,React.js Developer,,01
+15-1255.00,Web and Digital Interface Designers,Technology Applications Engineer,,02
+15-1255.00,Web and Digital Interface Designers,Usability Specialist,,08
+15-1255.00,Web and Digital Interface Designers,User Experience Designer (UX Designer),UX Designer,08
+15-1255.00,Web and Digital Interface Designers,User Interface and User Experience Architect (UI/UX Architect),UI/UX Architect,01
+15-1255.00,Web and Digital Interface Designers,User Interface and User Experience Designer (UI/UX Designer),UI/UX Designer,01
+15-1255.00,Web and Digital Interface Designers,User Interface Designer (UI Designer),UI Designer,08
+15-1255.00,Web and Digital Interface Designers,User Interface Developer (UI Developer),UI Developer,"08,10"
+15-1255.00,Web and Digital Interface Designers,User Interface Engineer (UI Engineer),UI Engineer,01
+15-1255.00,Web and Digital Interface Designers,UX Developer (User Experience Developer),UX Developer,10
+15-1255.00,Web and Digital Interface Designers,UX Researcher (User Experience Researcher),UX Researcher,10
+15-1255.00,Web and Digital Interface Designers,Web Application Developer,,01
+15-1255.00,Web and Digital Interface Designers,Web Applications Developer,,08
+15-1255.00,Web and Digital Interface Designers,Web Architect,,02
+15-1255.00,Web and Digital Interface Designers,Web Consultant,,01
+15-1255.00,Web and Digital Interface Designers,Web Content Developer,,08
+15-1255.00,Web and Digital Interface Designers,Web Content Specialist,,04
+15-1255.00,Web and Digital Interface Designers,Web Design Specialist,,02
+15-1255.00,Web and Digital Interface Designers,Web Designer,,"02,04"
+15-1255.00,Web and Digital Interface Designers,Web Engineer,,08
+15-1255.00,Web and Digital Interface Designers,Web Page Developer,,08
+15-1255.00,Web and Digital Interface Designers,Web Producer,,08
+15-1255.00,Web and Digital Interface Designers,Web Programmer,,08
+15-1255.00,Web and Digital Interface Designers,Web Site Designer,,08
+15-1255.00,Web and Digital Interface Designers,Web Site Developer,,08
+15-1255.00,Web and Digital Interface Designers,Web Site Specialist,,08
+15-1255.00,Web and Digital Interface Designers,Web Software Engineer,,08
+15-1255.00,Web and Digital Interface Designers,Web Specialist,,08
+15-1255.00,Web and Digital Interface Designers,Web Technician,,01
+15-1255.00,Web and Digital Interface Designers,Webmaster,,02
+15-1255.00,Web and Digital Interface Designers,Webmaster Analyst,,01
+15-1255.00,Web and Digital Interface Designers,Website Manager,,01
+15-1255.00,Web and Digital Interface Designers,Websphere Administrator,,01
+15-1255.01,Video Game Designers,Computer Game Designer,,08
+15-1255.01,Video Game Designers,Computer Video Game Designer,,08
+15-1255.01,Video Game Designers,Concept Artist,,10
+15-1255.01,Video Game Designers,Content Creator,,10
+15-1255.01,Video Game Designers,Design Director,,02
+15-1255.01,Video Game Designers,Designer,,02
+15-1255.01,Video Game Designers,Environment Artist,,10
+15-1255.01,Video Game Designers,Environmental Artist,,02
+15-1255.01,Video Game Designers,Game Design Consultant,,02
+15-1255.01,Video Game Designers,Game Designer,,"02,03,10"
+15-1255.01,Video Game Designers,Game Developer,,10
+15-1255.01,Video Game Designers,Game Engineer,,10
+15-1255.01,Video Game Designers,Gamemaster,,02
+15-1255.01,Video Game Designers,Gameplay Engineer,,10
+15-1255.01,Video Game Designers,Interactive Multimedia Designer,,08
+15-1255.01,Video Game Designers,Level Designer,,02
+15-1255.01,Video Game Designers,Mobile Game Engineer,,10
+15-1255.01,Video Game Designers,Video Content Creator,,10
+15-1255.01,Video Game Designers,Video Game Creator,,09
+15-1255.01,Video Game Designers,Video Game Designer,,08
+15-1255.01,Video Game Designers,Video Game Developer,,08
+15-1255.01,Video Game Designers,Video Game Engineer,,08
+15-1255.01,Video Game Designers,Video Game Maker,,08
+15-1255.01,Video Game Designers,Video Game Tester,,01
+15-1255.01,Video Game Designers,Videogame Designer,,08
+15-1255.01,Video Game Designers,World Designer,,02
+15-1299.00,"Computer Occupations, All Other",Artificial Intelligence Specialist,,"04,06,07"
+15-1299.00,"Computer Occupations, All Other",Business Consultant,,10
+15-1299.00,"Computer Occupations, All Other",Computer Console Operator,,04
+15-1299.00,"Computer Occupations, All Other",Computer Laboratory Technician,,04
+15-1299.00,"Computer Occupations, All Other",Computer Operator,,08
+15-1299.00,"Computer Occupations, All Other",Computer or Computer Laboratory Technician,,"04,06,07"
+15-1299.00,"Computer Occupations, All Other",Computer Peripheral Equipment Operator,,08
+15-1299.00,"Computer Occupations, All Other",Computer Systems Hardware Analyst,,08
+15-1299.00,"Computer Occupations, All Other",Content Manager,,08
+15-1299.00,"Computer Occupations, All Other",Data Center Operator,,04
+15-1299.00,"Computer Occupations, All Other",Data Center Technician,,01
+15-1299.00,"Computer Occupations, All Other",E-Commerce Specialist,,08
+15-1299.00,"Computer Occupations, All Other",General Information Technology Specialist,,07
+15-1299.00,"Computer Occupations, All Other",Information Systems Technician,,08
+15-1299.00,"Computer Occupations, All Other",Information Technology Consultant,,10
+15-1299.00,"Computer Occupations, All Other",Multimedia Developer,,08
+15-1299.00,"Computer Occupations, All Other",Security Consultant,,10
+15-1299.00,"Computer Occupations, All Other",Technology Consultant,,10
+15-1299.01,Web Administrators,Administrator (Admin),Admin,10
+15-1299.01,Web Administrators,Content Publisher,,10
+15-1299.01,Web Administrators,Corporate Webmaster,,02
+15-1299.01,Web Administrators,Implementer,,10
+15-1299.01,Web Administrators,Internet Systems Administrator,,08
+15-1299.01,Web Administrators,SharePoint Administrator,,01
+15-1299.01,Web Administrators,Web Administrator,,"02,10"
+15-1299.01,Web Administrators,Web Content Administrator (Admin),Admin,10
+15-1299.01,Web Administrators,Web Content Coordinator,,"02,10"
+15-1299.01,Web Administrators,Web Content Manager,,"02,10"
+15-1299.01,Web Administrators,Web Coordinator,,10
+15-1299.01,Web Administrators,Web Development Manager,,01
+15-1299.01,Web Administrators,Web Director,,02
+15-1299.01,Web Administrators,Web Manager,,"02,08,10"
+15-1299.01,Web Administrators,Web Operations Specialist,,08
+15-1299.01,Web Administrators,Web Project Manager,,01
+15-1299.01,Web Administrators,Web Publisher,,10
+15-1299.01,Web Administrators,Web Publishing Coordinator,,01
+15-1299.01,Web Administrators,Web Security Manager,,01
+15-1299.01,Web Administrators,Web Site Administrator,,08
+15-1299.01,Web Administrators,Web Site Manager,,02
+15-1299.01,Web Administrators,Web Site Project Manager,,08
+15-1299.01,Web Administrators,Web Technologies Administrator,,02
+15-1299.01,Web Administrators,Webmaster,,"02,08,10"
+15-1299.01,Web Administrators,Webmaster Analyst,,01
+15-1299.01,Web Administrators,Website Administrator,,10
+15-1299.01,Web Administrators,Website Content Manager,,10
+15-1299.01,Web Administrators,Website Coordinator,,10
+15-1299.01,Web Administrators,Website Manager,,01
+15-1299.01,Web Administrators,Websphere Administrator,,01
+15-1299.02,Geographic Information Systems Technologists and Technicians,CADD GIS Technician (Computer-Aided Design and Drafting Geographic Information Systems Technician),CADD GIS Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Cartographic Technician,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Conversion Specialist,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Field GIS Technician (Field Geographic Information Systems Technician),Field GIS Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information System Analyst (GIS Analyst),GIS Analyst,02
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Administrator (GIS Administrator),GIS Administrator,02
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Analyst (GIS Analyst),GIS Analyst,02
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Application Specialist (GIS Application Specialist),GIS Application Specialist,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Coordinator (GIS Coordinator),GIS Coordinator,02
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Data Administrator (GIS Data Administrator),GIS Data Administrator,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Data Specialist (GIS Data Specialist),GIS Data Specialist,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Database Administrator (GIS Database Administrator),GIS Database Administrator,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Developer (GIS Developer),GIS Developer,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Geographer (GIS Geographer),GIS Geographer,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Mapping Technician (GIS Mapping Technician),GIS Mapping Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographic Information Systems Technologist (GIS Technologist),GIS Technologist,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographical Information System Specialist (GIS Specialist),GIS Specialist,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geographical Information System Technician (GIS Technician),GIS Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Analyst,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Engineer,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Information Technologist,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Specialist,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Technician,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Geospatial Technologist,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,GIS Consultant (Geographic Information Systems Consultant),GIS Consultant,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,GIS Specialist (Geographic Information Systems Specialist),GIS Specialist,"02,08"
+15-1299.02,Geographic Information Systems Technologists and Technicians,GIS Technician (Geographic Information Systems Technician),GIS Technician,"02,08,10"
+15-1299.02,Geographic Information Systems Technologists and Technicians,Global Position System Technician (GPS Technician),GPS Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Global Positioning System Field Technician (GPS Field Technician),GPS Field Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Global Positioning Systems Analyst Technician (GPS Analyst Technician),GPS Analyst Technician,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Imagery Analyst,,08
+15-1299.02,Geographic Information Systems Technologists and Technicians,Resource Analyst,,02
+15-1299.03,Document Management Specialists,Business Records Manager,,02
+15-1299.03,Document Management Specialists,Certified Document Imaging Architect,,02
+15-1299.03,Document Management Specialists,Content Specialist,,10
+15-1299.03,Document Management Specialists,Content Strategist,,10
+15-1299.03,Document Management Specialists,Credentialing Coordinator,,10
+15-1299.03,Document Management Specialists,Credentialing Manager,,10
+15-1299.03,Document Management Specialists,Document Control Clerk,,10
+15-1299.03,Document Management Specialists,Document Control Coordinator,,10
+15-1299.03,Document Management Specialists,Document Control Manager,,"02,08"
+15-1299.03,Document Management Specialists,Document Control Specialist,,"08,10"
+15-1299.03,Document Management Specialists,Document Controller,,10
+15-1299.03,Document Management Specialists,Document Imaging Specialist,,08
+15-1299.03,Document Management Specialists,Document Management Consultant,,02
+15-1299.03,Document Management Specialists,Document Management Specialist,,08
+15-1299.03,Document Management Specialists,Document Management Technician,,08
+15-1299.03,Document Management Specialists,Document Processor,,10
+15-1299.03,Document Management Specialists,Document Specialist,,10
+15-1299.03,Document Management Specialists,Documentation Analyst,,10
+15-1299.03,Document Management Specialists,Documentation Specialist,,10
+15-1299.03,Document Management Specialists,ECM Consultant (Enterprise Content Management Consultant),ECM Consultant,02
+15-1299.03,Document Management Specialists,Electronic Content Manager,,02
+15-1299.03,Document Management Specialists,Enterprise Records Analyst,,08
+15-1299.03,Document Management Specialists,Knowledge Management Specialist,,10
+15-1299.03,Document Management Specialists,Record Systems Analyst,,02
+15-1299.03,Document Management Specialists,Records and Information Management Consultant (RIM Consultant),RIM Consultant,02
+15-1299.03,Document Management Specialists,Records and Information Management Specialist (RIM Specialist),RIM Specialist,02
+15-1299.03,Document Management Specialists,Records Manager,,02
+15-1299.03,Document Management Specialists,Records Specialist,,10
+15-1299.03,Document Management Specialists,Records Technician,,10
+15-1299.04,Penetration Testers,Application Security Assessor,,08
+15-1299.04,Penetration Testers,Application Security Hacker,,08
+15-1299.04,Penetration Testers,Application Security Tester,,08
+15-1299.04,Penetration Testers,Certified Hacker,,08
+15-1299.04,Penetration Testers,Certified Tester,,08
+15-1299.04,Penetration Testers,Consulting Advisory Tester,,08
+15-1299.04,Penetration Testers,Cyber Assessment Tester,,08
+15-1299.04,Penetration Testers,Cyber Assessor,,08
+15-1299.04,Penetration Testers,Cyber Security Engineer,,08
+15-1299.04,Penetration Testers,Cyber Security Tester,,08
+15-1299.04,Penetration Testers,Cyber Tester,,08
+15-1299.04,Penetration Testers,Cybersecurity Engineer (Cyber Engineer),Cyber Engineer,10
+15-1299.04,Penetration Testers,Embedded Tester,,08
+15-1299.04,Penetration Testers,Ethical Hacker,,10
+15-1299.04,Penetration Testers,Forensic Analysis Tester,,08
+15-1299.04,Penetration Testers,Hacker,,08
+15-1299.04,Penetration Testers,Hardware Hacker,,08
+15-1299.04,Penetration Testers,Information Security Analyst,,10
+15-1299.04,Penetration Testers,Information Security Assessor,,08
+15-1299.04,Penetration Testers,IT Security Tester (Information Technology Security Tester),IT Security Tester,08
+15-1299.04,Penetration Testers,Network Security Engineer,,08
+15-1299.04,Penetration Testers,Network Security Tester,,08
+15-1299.04,Penetration Testers,Penetration Tester,,"03,08,10"
+15-1299.04,Penetration Testers,Penetration Testing Consultant,,10
+15-1299.04,Penetration Testers,Risk Tester,,08
+15-1299.04,Penetration Testers,Security Application Tester,,08
+15-1299.04,Penetration Testers,Security Architect,,08
+15-1299.04,Penetration Testers,Security Assessment Tester,,08
+15-1299.04,Penetration Testers,Security Automation Tester,,08
+15-1299.04,Penetration Testers,Security Consultant,,10
+15-1299.04,Penetration Testers,Security Consulting Tester,,08
+15-1299.04,Penetration Testers,Security Engineer,,08
+15-1299.04,Penetration Testers,Security Tester,,08
+15-1299.04,Penetration Testers,Systems Security Tester,,08
+15-1299.04,Penetration Testers,Tester,,08
+15-1299.04,Penetration Testers,Vulnerability Analyst,,10
+15-1299.04,Penetration Testers,Vulnerability Assessment Analyst,,03
+15-1299.04,Penetration Testers,Vulnerability Management Analyst,,10
+15-1299.04,Penetration Testers,Vulnerability Management Engineer,,10
+15-1299.04,Penetration Testers,Vulnerability Researcher,,10
+15-1299.05,Information Security Engineers,AI Security Specialist (Artificial Intelligence Security Specialist),AI Security Specialist,01
+15-1299.05,Information Security Engineers,Application Security Administrator (Application Security Admin),Application Security Admin,01
+15-1299.05,Information Security Engineers,Automotive Security Engineer,,01
+15-1299.05,Information Security Engineers,BISO (Business Information Security Officer),BISO,02
+15-1299.05,Information Security Engineers,Cloud Engineer,,"01,02"
+15-1299.05,Information Security Engineers,Cloud Security Architect,,01
+15-1299.05,Information Security Engineers,Cloud Security Engineer,,10
+15-1299.05,Information Security Engineers,Communications Security Manager (COMSEC Manager),COMSEC Manager,01
+15-1299.05,Information Security Engineers,Cyber Defense Incident Responder,,"03,08"
+15-1299.05,Information Security Engineers,Cyber Defense Infrastructure Support Specialist,,03
+15-1299.05,Information Security Engineers,Cybersecurity Architect,,10
+15-1299.05,Information Security Engineers,Cybersecurity Engineer,,"01,08"
+15-1299.05,Information Security Engineers,Cybersecurity Hardware Engineer,,01
+15-1299.05,Information Security Engineers,Cybersecurity Software Developer,,01
+15-1299.05,Information Security Engineers,Cybersecurity Software Engineer,,01
+15-1299.05,Information Security Engineers,Cybersecurity Systems Engineer,,10
+15-1299.05,Information Security Engineers,Cybersecurity Threat Engineer,,08
+15-1299.05,Information Security Engineers,Engineer,,02
+15-1299.05,Information Security Engineers,Information Assurance Engineer,,08
+15-1299.05,Information Security Engineers,Information Security Administrator (Information Security Admin),Information Security Admin,08
+15-1299.05,Information Security Engineers,Information Security Architect,,08
+15-1299.05,Information Security Engineers,Information Security Auditor,,02
+15-1299.05,Information Security Engineers,Information Security Consultant,,08
+15-1299.05,Information Security Engineers,Information Security Engineer,,08
+15-1299.05,Information Security Engineers,Information Security Loss Prevention Engineer,,08
+15-1299.05,Information Security Engineers,Information Security Management Engineer,,08
+15-1299.05,Information Security Engineers,Information Security System Engineer,,02
+15-1299.05,Information Security Engineers,Infrastructure Security Engineer,,02
+15-1299.05,Information Security Engineers,IS Security Developer (Information Systems Security Developer),IS Security Developer,01
+15-1299.05,Information Security Engineers,IS Security Engineer (Information Systems Security Engineer),IS Security Engineer,08
+15-1299.05,Information Security Engineers,IS Security Scientist (Information Systems Security Scientist),IS Security Scientist,08
+15-1299.05,Information Security Engineers,IT Administrator (Information Technology Administrator),IT Administrator,08
+15-1299.05,Information Security Engineers,IT Architect (Information Technology Architect),IT Architect,08
+15-1299.05,Information Security Engineers,IT Security Engineer (Information Technology Security Engineer),IT Security Engineer,10
+15-1299.05,Information Security Engineers,Mobile Security Engineer,,01
+15-1299.05,Information Security Engineers,Network Engineer,,08
+15-1299.05,Information Security Engineers,Network Security Engineer,,08
+15-1299.05,Information Security Engineers,Security Administrator (Security Admin),Security Admin,01
+15-1299.05,Information Security Engineers,Security Analyst,,02
+15-1299.05,Information Security Engineers,Security Architect,,10
+15-1299.05,Information Security Engineers,Security Data Scientist,,02
+15-1299.05,Information Security Engineers,Security Engineer,,"02,08"
+15-1299.05,Information Security Engineers,System Security Analyst,,03
+15-1299.05,Information Security Engineers,Systems Engineer,,"02,08"
+15-1299.05,Information Security Engineers,Systems Security Engineer,,08
+15-1299.06,Digital Forensics Analysts,Cyber Analyst,,08
+15-1299.06,Digital Forensics Analysts,Cyber Digital Forensics,,03
+15-1299.06,Digital Forensics Analysts,Cyber Digital Media Analyst,,08
+15-1299.06,Digital Forensics Analysts,Cyber Forensics Analyst,,08
+15-1299.06,Digital Forensics Analysts,Cyber Threat Analyst,,10
+15-1299.06,Digital Forensics Analysts,Cyber Threat Hunter,,10
+15-1299.06,Digital Forensics Analysts,Cyber Threat Intelligence Analyst,,10
+15-1299.06,Digital Forensics Analysts,Cybersecurity Analyst (Cyber),Cyber,10
+15-1299.06,Digital Forensics Analysts,Cybersecurity Engineer (Cyber),Cyber,10
+15-1299.06,Digital Forensics Analysts,Cybersecurity Incident Response Analyst (Cyber),Cyber,10
+15-1299.06,Digital Forensics Analysts,Cybersecurity Specialist (Cyber),Cyber,10
+15-1299.06,Digital Forensics Analysts,Digital Analyst,,08
+15-1299.06,Digital Forensics Analysts,Digital Computer Analyst,,08
+15-1299.06,Digital Forensics Analysts,Digital Cyber Analyst,,08
+15-1299.06,Digital Forensics Analysts,Digital Forensic Analyst,,08
+15-1299.06,Digital Forensics Analysts,Digital Forensic Examiner,,10
+15-1299.06,Digital Forensics Analysts,Digital Forensics Analyst,,"08,10"
+15-1299.06,Digital Forensics Analysts,Digital Investigator,,08
+15-1299.06,Digital Forensics Analysts,Digital Media Analyst,,08
+15-1299.06,Digital Forensics Analysts,Incident Responder,,10
+15-1299.06,Digital Forensics Analysts,Incident Response Analyst,,10
+15-1299.06,Digital Forensics Analysts,Information Technology Security Analyst (IT Security Analyst),IT Security Analyst,10
+15-1299.06,Digital Forensics Analysts,IT Analyst (Information Technology Analyst),IT Analyst,08
+15-1299.06,Digital Forensics Analysts,Law Enforcement Counterintelligence Forensics Analyst,,01
+15-1299.06,Digital Forensics Analysts,Legal Digital Analyst,,08
+15-1299.06,Digital Forensics Analysts,Malware Analyst,,01
+15-1299.06,Digital Forensics Analysts,Offensive Security Engineer,,10
+15-1299.06,Digital Forensics Analysts,Operations Analyst,,08
+15-1299.06,Digital Forensics Analysts,Security Analyst,,10
+15-1299.06,Digital Forensics Analysts,Threat Intelligence Analyst,,10
+15-1299.07,Blockchain Engineers,Algorithm Engineer,,08
+15-1299.07,Blockchain Engineers,Automation Engineer,,08
+15-1299.07,Blockchain Engineers,Blockchain Analyst,,08
+15-1299.07,Blockchain Engineers,Blockchain Architect,,08
+15-1299.07,Blockchain Engineers,Blockchain Developer,,08
+15-1299.07,Blockchain Engineers,Blockchain Engineer,,08
+15-1299.07,Blockchain Engineers,Blockchain Penetration Tester,,08
+15-1299.07,Blockchain Engineers,Blockchain Software Developer,,08
+15-1299.07,Blockchain Engineers,Blockchain Software Engineer,,08
+15-1299.07,Blockchain Engineers,Blockchain Threat Investigator,,08
+15-1299.07,Blockchain Engineers,Blockchain Web Designer,,08
+15-1299.07,Blockchain Engineers,Codebase Engineer,,08
+15-1299.07,Blockchain Engineers,Engineer,,08
+15-1299.07,Blockchain Engineers,Firmware Engineer,,08
+15-1299.07,Blockchain Engineers,Integration Engineer,,08
+15-1299.07,Blockchain Engineers,Integration Solutions Engineer,,08
+15-1299.07,Blockchain Engineers,Security Engineer,,08
+15-1299.07,Blockchain Engineers,Systems Engineer,,08
+15-1299.07,Blockchain Engineers,Technical Platform Engineer,,08
+15-1299.08,Computer Systems Engineers/Architects,Application Systems Architect,,01
+15-1299.08,Computer Systems Engineers/Architects,Cloud Architect,,"01,10"
+15-1299.08,Computer Systems Engineers/Architects,Cloud Engineer,,10
+15-1299.08,Computer Systems Engineers/Architects,Cloud Software Engineer,,10
+15-1299.08,Computer Systems Engineers/Architects,Cloud Solution Architect,,10
+15-1299.08,Computer Systems Engineers/Architects,Computer Systems Architect,,08
+15-1299.08,Computer Systems Engineers/Architects,Enterprise Architect,,10
+15-1299.08,Computer Systems Engineers/Architects,Firmware Engineer,,10
+15-1299.08,Computer Systems Engineers/Architects,Information Architect,,08
+15-1299.08,Computer Systems Engineers/Architects,Infrastructure Engineer,,"02,10"
+15-1299.08,Computer Systems Engineers/Architects,IT Architect (Information Technology Architect),IT Architect,02
+15-1299.08,Computer Systems Engineers/Architects,IT Engineer (Information Technology Engineer),IT Engineer,02
+15-1299.08,Computer Systems Engineers/Architects,Knowledge Architect,,08
+15-1299.08,Computer Systems Engineers/Architects,Machine Learning Engineer,,10
+15-1299.08,Computer Systems Engineers/Architects,Network Analyst,,10
+15-1299.08,Computer Systems Engineers/Architects,Network and Infrastructure Engineer,,02
+15-1299.08,Computer Systems Engineers/Architects,Network Engineer,,"02,10"
+15-1299.08,Computer Systems Engineers/Architects,Software Systems Engineer,,10
+15-1299.08,Computer Systems Engineers/Architects,Solutions Architect,,"02,08,10"
+15-1299.08,Computer Systems Engineers/Architects,Solutions Engineer,,01
+15-1299.08,Computer Systems Engineers/Architects,Systems Application Engineer,,02
+15-1299.08,Computer Systems Engineers/Architects,Systems Architect,,"02,10"
+15-1299.08,Computer Systems Engineers/Architects,Systems Consultant,,02
+15-1299.08,Computer Systems Engineers/Architects,Systems Developer,,01
+15-1299.08,Computer Systems Engineers/Architects,Systems Engineer,,"02,08,10"
+15-1299.08,Computer Systems Engineers/Architects,Systems Requirements Planner,,01
+15-1299.08,Computer Systems Engineers/Architects,Target Developer,,01
+15-1299.08,Computer Systems Engineers/Architects,Technical Architect,,10
+15-1299.08,Computer Systems Engineers/Architects,Web Architect,,"02,08"
+15-1299.09,Information Technology Project Managers,Application Development Director,,08
+15-1299.09,Information Technology Project Managers,Application Manager,,01
+15-1299.09,Information Technology Project Managers,Cloud Product Director,,02
+15-1299.09,Information Technology Project Managers,Computer Project Manager,,08
+15-1299.09,Information Technology Project Managers,Cyber IT Knowledge Manager,,03
+15-1299.09,Information Technology Project Managers,Cybersecurity Project Manager,,02
+15-1299.09,Information Technology Project Managers,Cybersecurity Scrum Master,,01
+15-1299.09,Information Technology Project Managers,Data Center Product Director,,02
+15-1299.09,Information Technology Project Managers,Database Administration Project Manager,,08
+15-1299.09,Information Technology Project Managers,Database Development Project Manager,,08
+15-1299.09,Information Technology Project Managers,E-Business Project Manager,,08
+15-1299.09,Information Technology Project Managers,Information Support Project Manager,,08
+15-1299.09,Information Technology Project Managers,Information Systems Planner (IS Planner),IS Planner,08
+15-1299.09,Information Technology Project Managers,Information Systems Project Manager (IS Project Manager),IS Project Manager,"02,08"
+15-1299.09,Information Technology Project Managers,Infrastructure Project Manager,,10
+15-1299.09,Information Technology Project Managers,Interactive Media Project Manager,,08
+15-1299.09,Information Technology Project Managers,Internet Project Manager,,08
+15-1299.09,Information Technology Project Managers,IT Manager (Information Technology Manager),IT Manager,"02,10"
+15-1299.09,Information Technology Project Managers,IT Program Manager (Information Technology Program Manager),IT Program Manager,"02,10"
+15-1299.09,Information Technology Project Managers,IT Project Manager (Information Technology Project Manager),IT Project Manager,"02,08,10"
+15-1299.09,Information Technology Project Managers,IT Supervisor (Information Technology Supervisor),IT Supervisor,01
+15-1299.09,Information Technology Project Managers,Network Operations Project Manager,,08
+15-1299.09,Information Technology Project Managers,Network Services Project Manager,,08
+15-1299.09,Information Technology Project Managers,Planning Management IT Specialist (Planning Management Information Technology Specialist),Planning Management IT Specialist,08
+15-1299.09,Information Technology Project Managers,Programming Development Project Manager,,08
+15-1299.09,Information Technology Project Managers,Project Management IT Specialist (Project Management Information Technology Specialist),Project Management IT Specialist,08
+15-1299.09,Information Technology Project Managers,Project Manager (PM),PM,10
+15-1299.09,Information Technology Project Managers,Release Manager,,10
+15-1299.09,Information Technology Project Managers,Scrum Master,,"02,10"
+15-1299.09,Information Technology Project Managers,Software Development Project Manager,,08
+15-1299.09,Information Technology Project Managers,Software Project Manager,,08
+15-1299.09,Information Technology Project Managers,Systems Development Manager,,08
+15-1299.09,Information Technology Project Managers,Technical Manager,,01
+15-1299.09,Information Technology Project Managers,Technical Project Manager,,10
+15-1299.09,Information Technology Project Managers,Technology Manager,,10
+15-1299.09,Information Technology Project Managers,Technology Project Manager,,10
+15-1299.09,Information Technology Project Managers,Transition Program Manager,,02
+15-1299.09,Information Technology Project Managers,Web Site Project Manager,,08
+15-1299.09,Information Technology Project Managers,Website Project Manager,,08
+15-2011.00,Actuaries,Actuarial Analyst,,"02,09,10"
+15-2011.00,Actuaries,Actuarial Associate,,"02,04,10"
+15-2011.00,Actuaries,Actuarial Consultant,,"02,10"
+15-2011.00,Actuaries,Actuarial Intern,,10
+15-2011.00,Actuaries,Actuarial Mathematician,,"04,06"
+15-2011.00,Actuaries,Actuarial Specialist,,10
+15-2011.00,Actuaries,Actuary,,"02,04,06,08,10"
+15-2011.00,Actuaries,Annuity Analyst,,10
+15-2011.00,Actuaries,Consulting Actuary,,"02,10"
+15-2011.00,Actuaries,Corporate Actuary,,02
+15-2011.00,Actuaries,Enrolled Actuary,,10
+15-2011.00,Actuaries,Forecast Analyst,,10
+15-2011.00,Actuaries,Health Actuary,,"02,04,10"
+15-2011.00,Actuaries,Insurance Actuary,,"04,06"
+15-2011.00,Actuaries,Life Actuary,,"02,10"
+15-2011.00,Actuaries,Pricing Actuarial Analyst,,10
+15-2011.00,Actuaries,Pricing Actuary,,"02,04,10"
+15-2011.00,Actuaries,Product Development Actuary,,"02,04"
+15-2011.00,Actuaries,Reserving Actuary,,02
+15-2021.00,Mathematicians,Agent-Based Modeler,,02
+15-2021.00,Mathematicians,Algebraist,,"04,06"
+15-2021.00,Mathematicians,Applied Mathematician,,10
+15-2021.00,Mathematicians,Cipher Expert,,"04,06"
+15-2021.00,Mathematicians,Computational Mathematician,,"02,10"
+15-2021.00,Mathematicians,Computational Scientist,,02
+15-2021.00,Mathematicians,Cryptanalyst,,"04,06"
+15-2021.00,Mathematicians,Cryptographer,,"02,04,06"
+15-2021.00,Mathematicians,Cryptographic Vulnerability Analyst,,"02,04"
+15-2021.00,Mathematicians,Engineering Mathematician,,"04,06"
+15-2021.00,Mathematicians,Game Mathematician,,10
+15-2021.00,Mathematicians,Geometrician,,04
+15-2021.00,Mathematicians,Math Researcher (Mathematics Researcher),Math Researcher,10
+15-2021.00,Mathematicians,Mathematician,,"02,04,10"
+15-2021.00,Mathematicians,Research Computing Specialist,,02
+15-2021.00,Mathematicians,Research Scientist,,02
+15-2021.00,Mathematicians,Researcher,,02
+15-2031.00,Operations Research Analysts,Advanced Analytics Associate,,02
+15-2031.00,Operations Research Analysts,Analytical Strategist,,02
+15-2031.00,Operations Research Analysts,Analytics Consultant,,10
+15-2031.00,Operations Research Analysts,Business Analyst,,10
+15-2031.00,Operations Research Analysts,Business Operations Analyst,,09
+15-2031.00,Operations Research Analysts,Business Process Analyst,,09
+15-2031.00,Operations Research Analysts,Decision Analyst,,02
+15-2031.00,Operations Research Analysts,Decision Support Analyst,,10
+15-2031.00,Operations Research Analysts,File System Installer,,"04,06"
+15-2031.00,Operations Research Analysts,Forms Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Liaison Planner,,"04,06"
+15-2031.00,Operations Research Analysts,Material Liaison,,"04,06"
+15-2031.00,Operations Research Analysts,Methods Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Methods Consultant,,"04,06"
+15-2031.00,Operations Research Analysts,Methods Specialist,,"04,06"
+15-2031.00,Operations Research Analysts,Office System Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Operations Analyst (Ops Analyst),Ops Analyst,"04,06,10"
+15-2031.00,Operations Research Analysts,Operations Research Analyst (Ops Research Analyst),Ops Research Analyst,"02,04,10"
+15-2031.00,Operations Research Analysts,Operations Research Scientist (Ops Research Scientist),Ops Research Scientist,02
+15-2031.00,Operations Research Analysts,Operations Specialist (Ops Specialist),Ops Specialist,10
+15-2031.00,Operations Research Analysts,Operations Support Specialist (Ops Support Specialist),Ops Support Specialist,10
+15-2031.00,Operations Research Analysts,Optimization Analyst,,02
+15-2031.00,Operations Research Analysts,Policy Advisor,,09
+15-2031.00,Operations Research Analysts,Policy Officer,,09
+15-2031.00,Operations Research Analysts,Procedure Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Procedure Writer,,"04,06"
+15-2031.00,Operations Research Analysts,Process Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Research Analyst,,10
+15-2031.00,Operations Research Analysts,Research Assistant,,10
+15-2031.00,Operations Research Analysts,Research Associate,,10
+15-2031.00,Operations Research Analysts,Research Scientist,,10
+15-2031.00,Operations Research Analysts,Research Specialist,,10
+15-2031.00,Operations Research Analysts,Research Technician (Research Tech),Research Tech,10
+15-2031.00,Operations Research Analysts,Researcher,,"02,10"
+15-2031.00,Operations Research Analysts,Risk Analyst,,10
+15-2031.00,Operations Research Analysts,Sales Operations Analyst (Sales Ops Analyst),Sales Ops Analyst,10
+15-2031.00,Operations Research Analysts,Standards Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Systems Analyst,,"04,06"
+15-2031.00,Operations Research Analysts,Systems Consultant,,"04,06"
+15-2031.00,Operations Research Analysts,Technical Analyst,,10
+15-2041.00,Statisticians,Analytical Statistician,,"04,06"
+15-2041.00,Statisticians,Applied Scientist,,10
+15-2041.00,Statisticians,Applied Statistician,,"04,06,08"
+15-2041.00,Statisticians,Biometrician,,"02,04,06"
+15-2041.00,Statisticians,Clinical Analyst,,10
+15-2041.00,Statisticians,Data Analyst,,"03,08,10"
+15-2041.00,Statisticians,Data Analyst Specialist,,10
+15-2041.00,Statisticians,Data Analytics Specialist,,10
+15-2041.00,Statisticians,Data Coordinator,,10
+15-2041.00,Statisticians,Data Engineer,,10
+15-2041.00,Statisticians,Data Manager,,"02,08"
+15-2041.00,Statisticians,Data Modeler,,10
+15-2041.00,Statisticians,Data Science Specialist,,10
+15-2041.00,Statisticians,Data Specialist,,10
+15-2041.00,Statisticians,Data Support Specialist,,10
+15-2041.00,Statisticians,Database Analyst,,"02,08"
+15-2041.00,Statisticians,Demographer,,02
+15-2041.00,Statisticians,Education Research Analyst,,"02,08"
+15-2041.00,Statisticians,Environmental Statistician,,"02,04"
+15-2041.00,Statisticians,Financial Analyst,,"02,08"
+15-2041.00,Statisticians,Mathematical Statistician,,"02,04,06,08"
+15-2041.00,Statisticians,Psychometric Consultant,,02
+15-2041.00,Statisticians,Quantitative Methodologist,,02
+15-2041.00,Statisticians,Research Statistician,,10
+15-2041.00,Statisticians,Sampling Expert,,"04,06"
+15-2041.00,Statisticians,Sports Statistician,,09
+15-2041.00,Statisticians,Statistical Analyst,,"02,04,06,10"
+15-2041.00,Statisticians,Statistical Consultant,,02
+15-2041.00,Statisticians,Statistical Data Analyst,,10
+15-2041.00,Statisticians,Statistical Engineer,,"04,06"
+15-2041.00,Statisticians,Statistical Programmer,,10
+15-2041.00,Statisticians,Statistical Programming Analyst,,10
+15-2041.00,Statisticians,Statistical Reporting Analyst,,"02,04,08"
+15-2041.00,Statisticians,Statistical Research Analyst,,10
+15-2041.00,Statisticians,Statistical Scientist,,10
+15-2041.00,Statisticians,Statistician,,"02,04,08,10"
+15-2041.00,Statisticians,Survey Statistician,,"04,06"
+15-2041.00,Statisticians,Time Study Statistician,,"04,06"
+15-2041.00,Statisticians,Trend Investigator,,"02,08"
+15-2041.01,Biostatisticians,Bioinformatics Scientist,,10
+15-2041.01,Biostatisticians,Biomathematician,,08
+15-2041.01,Biostatisticians,Biometrician,,"02,08"
+15-2041.01,Biostatisticians,Biostatistical Consultant,,02
+15-2041.01,Biostatisticians,Biostatistician,,"02,08,10"
+15-2041.01,Biostatisticians,Clinical Biostatistician,,10
+15-2041.01,Biostatisticians,NGS Biostatistician (Next-Generation Sequencing),NGS Biostatistician,10
+15-2041.01,Biostatisticians,Research Biostatistician,,"08,10"
+15-2041.01,Biostatisticians,Research Scientist,,02
+15-2041.01,Biostatisticians,Statistical Programmer,,10
+15-2041.01,Biostatisticians,Statistical Scientist,,02
+15-2051.00,Data Scientists,Analytics Consultant,,08
+15-2051.00,Data Scientists,Applied Scientist,,08
+15-2051.00,Data Scientists,Data Analyst,,08
+15-2051.00,Data Scientists,Data Analytic Scientist,,08
+15-2051.00,Data Scientists,Data Analytics Manager,,10
+15-2051.00,Data Scientists,Data Analytics Scientist,,10
+15-2051.00,Data Scientists,Data Analytics Specialist,,"04,08"
+15-2051.00,Data Scientists,Data Architect,,08
+15-2051.00,Data Scientists,Data Consultant,,08
+15-2051.00,Data Scientists,Data Economist,,08
+15-2051.00,Data Scientists,Data Engineer,,08
+15-2051.00,Data Scientists,Data Management Scientist,,08
+15-2051.00,Data Scientists,Data Mining Analyst,,"04,08"
+15-2051.00,Data Scientists,Data Modeler,,08
+15-2051.00,Data Scientists,Data Quality Analyst,,01
+15-2051.00,Data Scientists,Data Science Engineer,,08
+15-2051.00,Data Scientists,Data Science Intern,,10
+15-2051.00,Data Scientists,Data Scientist,,"08,10"
+15-2051.00,Data Scientists,Data Specialist,,08
+15-2051.00,Data Scientists,Data Visualization Developer,,"04,08"
+15-2051.00,Data Scientists,Machine Learning Data Scientist,,10
+15-2051.00,Data Scientists,Machine Learning Engineer,,10
+15-2051.00,Data Scientists,Machine Learning Scientist,,08
+15-2051.00,Data Scientists,Machine Learning Software Engineer,,10
+15-2051.00,Data Scientists,Marketing Data Scientist,,10
+15-2051.00,Data Scientists,Psychometric Consultant,,08
+15-2051.00,Data Scientists,Quantitative Methodologist,,08
+15-2051.00,Data Scientists,Quantitative Researcher,,08
+15-2051.00,Data Scientists,Research Analyst,,08
+15-2051.00,Data Scientists,Research Scientist,,08
+15-2051.00,Data Scientists,Statistical Analyst,,08
+15-2051.00,Data Scientists,Statistical Consultant,,08
+15-2051.00,Data Scientists,Tableau Developer,,01
+15-2051.01,Business Intelligence Analysts,Analytical Data Miner,,08
+15-2051.01,Business Intelligence Analysts,Business Analyst,,"01,02,10"
+15-2051.01,Business Intelligence Analysts,Business Consultant,,10
+15-2051.01,Business Intelligence Analysts,Business Data Analyst,,10
+15-2051.01,Business Intelligence Analysts,Business Database Analyst,,08
+15-2051.01,Business Intelligence Analysts,Business Information Analyst,,10
+15-2051.01,Business Intelligence Analysts,Business Intelligence Analyst (BI Analyst),BI Analyst,"02,08,10"
+15-2051.01,Business Intelligence Analysts,Business Intelligence Consultant (BI Consultant),BI Consultant,02
+15-2051.01,Business Intelligence Analysts,Business Intelligence Coordinator (BI Coordinator),BI Coordinator,02
+15-2051.01,Business Intelligence Analysts,Business Intelligence Engineer,,"03,08"
+15-2051.01,Business Intelligence Analysts,Business Intelligence Specialist (BI Specialist),BI Specialist,02
+15-2051.01,Business Intelligence Analysts,Business Process Analyst,,10
+15-2051.01,Business Intelligence Analysts,Business Systems Analyst,,"02,10"
+15-2051.01,Business Intelligence Analysts,Business Systems Consultant,,10
+15-2051.01,Business Intelligence Analysts,Business Technology Consultant,,01
+15-2051.01,Business Intelligence Analysts,Competitive Intelligence Analyst,,"02,08"
+15-2051.01,Business Intelligence Analysts,Data Analyst,,"02,08,10"
+15-2051.01,Business Intelligence Analysts,EDI Analyst (Electronic Data Interchange Analyst),EDI Analyst,01
+15-2051.01,Business Intelligence Analysts,Information Analyst,,08
+15-2051.01,Business Intelligence Analysts,Information Specialist,,08
+15-2051.01,Business Intelligence Analysts,Intelligence Analyst,,02
+15-2051.01,Business Intelligence Analysts,Market Intelligence Analyst,,02
+15-2051.01,Business Intelligence Analysts,Market Intelligence Consultant,,02
+15-2051.01,Business Intelligence Analysts,Marketing Database Analyst,,08
+15-2051.01,Business Intelligence Analysts,Reporting Analyst,,08
+15-2051.01,Business Intelligence Analysts,Reports Analyst,,"08,10"
+15-2051.01,Business Intelligence Analysts,Strategic Business and Technology Intelligence Consultant,,02
+15-2051.02,Clinical Data Managers,Application Coordinator,,10
+15-2051.02,Clinical Data Managers,Clinical Applications Director,,10
+15-2051.02,Clinical Data Managers,Clinical Biostatistics Director,,08
+15-2051.02,Clinical Data Managers,Clinical Data Abstractor,,10
+15-2051.02,Clinical Data Managers,Clinical Data Analyst,,08
+15-2051.02,Clinical Data Managers,Clinical Data Coordinator,,"08,10"
+15-2051.02,Clinical Data Managers,Clinical Data Management Director (CDM Director),CDM Director,02
+15-2051.02,Clinical Data Managers,Clinical Data Management Manager (CDM Manager),CDM Manager,02
+15-2051.02,Clinical Data Managers,Clinical Data Manager,,"02,08,10"
+15-2051.02,Clinical Data Managers,Clinical Informatics Manager,,02
+15-2051.02,Clinical Data Managers,Clinical Statistics Manager,,08
+15-2051.02,Clinical Data Managers,Clinical Trials Data Coordinator,,08
+15-2051.02,Clinical Data Managers,Data Coordinator,,10
+15-2051.02,Clinical Data Managers,Data Deliverables Manager,,02
+15-2051.02,Clinical Data Managers,Data Management Manager,,02
+15-2099.00,"Mathematical Science Occupations, All Other",Balance Engineer,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Cryptanalyst,,08
+15-2099.00,"Mathematical Science Occupations, All Other",Cryptologist,,09
+15-2099.00,"Mathematical Science Occupations, All Other",Geometer,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Geometrician,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Harmonic Analyst,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Mathematical Engineering Technician,,04
+15-2099.00,"Mathematical Science Occupations, All Other",Mathematical Scientist,,06
+15-2099.00,"Mathematical Science Occupations, All Other",Mathematics Technician,,04
+15-2099.00,"Mathematical Science Occupations, All Other",Research Analyst,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Secret Code Expert,,"04,06"
+15-2099.00,"Mathematical Science Occupations, All Other",Weight Analyst,,"04,06"
+15-2099.01,Bioinformatics Technicians,Bioinformatics Analyst,,02
+15-2099.01,Bioinformatics Technicians,Bioinformatics Research Technician,,08
+15-2099.01,Bioinformatics Technicians,Bioinformatics Specialist,,"02,08"
+15-2099.01,Bioinformatics Technicians,Bioinformatics Technician,,"02,08"
+15-2099.01,Bioinformatics Technicians,Biometrics Technician,,10
+15-2099.01,Bioinformatics Technicians,Biotechnician,,02
+15-2099.01,Bioinformatics Technicians,Data Analyst,,08
+15-2099.01,Bioinformatics Technicians,Data Technician,,"08,10"
+15-2099.01,Bioinformatics Technicians,Database Technician,,08
+15-2099.01,Bioinformatics Technicians,Field Data Technician,,10
+15-2099.01,Bioinformatics Technicians,Log Data Technician,,10
+15-2099.01,Bioinformatics Technicians,Museum Informatics Specialist,,02
+15-2099.01,Bioinformatics Technicians,Research Scientist,,02
+15-2099.01,Bioinformatics Technicians,Scientific Informatics Analyst,,02
+15-2099.01,Bioinformatics Technicians,Submission Technician,,10
+17-2011.00,Aerospace Engineers,Aerodynamicist,,"04,06,08"
+17-2011.00,Aerospace Engineers,Aerodynamics Engineer,,"02,04"
+17-2011.00,Aerospace Engineers,Aeronautical Design Engineer,,08
+17-2011.00,Aerospace Engineers,Aeronautical Engineer,,"02,04,08,10"
+17-2011.00,Aerospace Engineers,Aeronautical Project Engineer,,08
+17-2011.00,Aerospace Engineers,Aeronautical Research Engineer,,08
+17-2011.00,Aerospace Engineers,Aeronautical Test Engineer,,08
+17-2011.00,Aerospace Engineers,Aerospace Engineer,,"02,04,08,10"
+17-2011.00,Aerospace Engineers,Aerospace Physiologist,,10
+17-2011.00,Aerospace Engineers,Aerospace Programmable Logic Design Engineer,,03
+17-2011.00,Aerospace Engineers,Aerospace Quality Engineer,,10
+17-2011.00,Aerospace Engineers,Aerospace Stress Engineer,,02
+17-2011.00,Aerospace Engineers,Aerospace Systems Engineer,,10
+17-2011.00,Aerospace Engineers,Aircraft Design Engineer,,"02,04"
+17-2011.00,Aerospace Engineers,Aircraft Designer,,"04,06"
+17-2011.00,Aerospace Engineers,Aircraft Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Aircraft Instrument Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Aircraft Stress Analyst,,"04,06"
+17-2011.00,Aerospace Engineers,Aircraft Systems Engineer,,10
+17-2011.00,Aerospace Engineers,Airplane Designer,,"04,06"
+17-2011.00,Aerospace Engineers,Airplane Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Astronautical Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Automation Engineer,,09
+17-2011.00,Aerospace Engineers,Aviation Consultant,,"04,06"
+17-2011.00,Aerospace Engineers,Aviation Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Avionics Engineer,,"02,10"
+17-2011.00,Aerospace Engineers,Avionics Systems Engineer,,10
+17-2011.00,Aerospace Engineers,Design Analyst,,"04,06"
+17-2011.00,Aerospace Engineers,Design Engineer,,"02,04,10"
+17-2011.00,Aerospace Engineers,Dynamicist,,"04,06"
+17-2011.00,Aerospace Engineers,Engineer,,10
+17-2011.00,Aerospace Engineers,Engineering Associate,,10
+17-2011.00,Aerospace Engineers,Field Engineer,,10
+17-2011.00,Aerospace Engineers,Field Service Engineer,,08
+17-2011.00,Aerospace Engineers,Flight Analyst,,"02,04,06"
+17-2011.00,Aerospace Engineers,Flight Controls Engineer,,02
+17-2011.00,Aerospace Engineers,Flight Dynamicist,,"04,06"
+17-2011.00,Aerospace Engineers,Flight Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Flight Systems Test Engineer,,"02,04"
+17-2011.00,Aerospace Engineers,Flight Test Engineer,,"02,04,06"
+17-2011.00,Aerospace Engineers,Fuel-Efficient Aircraft Designer,,08
+17-2011.00,Aerospace Engineers,GNC Engineer (Guidance Navigation and Controls Engineer),GNC Engineer,10
+17-2011.00,Aerospace Engineers,Helicopter Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Loads and Dynamics Engineer,,10
+17-2011.00,Aerospace Engineers,Military Aircraft Designer,,09
+17-2011.00,Aerospace Engineers,Physical Aerodynamicist,,"04,06"
+17-2011.00,Aerospace Engineers,Pipe Stress Engineer,,10
+17-2011.00,Aerospace Engineers,Propeller Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Propulsion Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Rocket Scientist,,09
+17-2011.00,Aerospace Engineers,Service Engineer,,10
+17-2011.00,Aerospace Engineers,Space Engineer,,09
+17-2011.00,Aerospace Engineers,Spacecraft Engineer,,10
+17-2011.00,Aerospace Engineers,Stress Analyst,,"02,04,06,08"
+17-2011.00,Aerospace Engineers,Stress Engineer,,"02,04,06,10"
+17-2011.00,Aerospace Engineers,Structural Analysis Engineer,,02
+17-2011.00,Aerospace Engineers,Structures Engineer,,02
+17-2011.00,Aerospace Engineers,Supersonic Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Supplier Quality Engineer (SQE),SQE,09
+17-2011.00,Aerospace Engineers,Systems Engineer,,"02,10"
+17-2011.00,Aerospace Engineers,Systems Requirements Engineer,,10
+17-2011.00,Aerospace Engineers,Test Analyst,,"04,06"
+17-2011.00,Aerospace Engineers,Test Engineer,,"02,04,06"
+17-2011.00,Aerospace Engineers,Test Facility Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Thermodynamicist,,"04,06"
+17-2011.00,Aerospace Engineers,Thermodynamics Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Transonic Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Value Engineer,,08
+17-2011.00,Aerospace Engineers,Vibration Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Weight Control Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Weight Engineer,,"04,06"
+17-2011.00,Aerospace Engineers,Wind Tunnel Engineer,,"04,06"
+17-2021.00,Agricultural Engineers,Agricultural Engineer,,"02,04"
+17-2021.00,Agricultural Engineers,Agricultural Equipment Design Engineer,,08
+17-2021.00,Agricultural Engineers,Agricultural Equipment Test Engineer,,08
+17-2021.00,Agricultural Engineers,Agricultural Production Engineer,,04
+17-2021.00,Agricultural Engineers,Agricultural Research Engineer,,"04,08"
+17-2021.00,Agricultural Engineers,Agricultural Systems Specialist,,02
+17-2021.00,Agricultural Engineers,Agriculture Consultant,,09
+17-2021.00,Agricultural Engineers,Agriculture Engineer,,09
+17-2021.00,Agricultural Engineers,Agriculture Scientist,,09
+17-2021.00,Agricultural Engineers,Conservation Engineer,,02
+17-2021.00,Agricultural Engineers,Engineer,,02
+17-2021.00,Agricultural Engineers,Farm Equipment Engineer,,"04,06"
+17-2021.00,Agricultural Engineers,Field Engineer,,02
+17-2021.00,Agricultural Engineers,Field Research Associate,,10
+17-2021.00,Agricultural Engineers,Landscape Irrigation Specialist,,10
+17-2021.00,Agricultural Engineers,Permaculture Designer,,08
+17-2021.00,Agricultural Engineers,Product Engineer,,02
+17-2021.00,Agricultural Engineers,Product Technology Scientist,,02
+17-2021.00,Agricultural Engineers,Project Engineer,,02
+17-2021.00,Agricultural Engineers,Regional Engineer,,10
+17-2021.00,Agricultural Engineers,Research Agricultural Engineer,,"02,04"
+17-2021.00,Agricultural Engineers,Research Engineer,,02
+17-2021.00,Agricultural Engineers,Supplier Quality Engineer (SQE),SQE,09
+17-2021.00,Agricultural Engineers,Test Engineer,,"04,06"
+17-2031.00,Bioengineers and Biomedical Engineers,Analytical Biochemical Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biochemical Development Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biochemical Engineer,,"04,08"
+17-2031.00,Bioengineers and Biomedical Engineers,Biochemistry Chemical Engineering Analyst,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Bioengineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Bioinformatics Engineer,,10
+17-2031.00,Bioengineers and Biomedical Engineers,Biomaterials Engineer,,"04,08"
+17-2031.00,Bioengineers and Biomedical Engineers,Biomechanical Engineer,,"04,08"
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Analytical Scientist,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Engineer,,"02,04"
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Engineering Intern,,10
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Engineering Research Assistant,,10
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Engineering Technologist,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Field Service Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Scientist,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Service Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Biomedical Technician (Biomedical Tech),Biomedical Tech,02
+17-2031.00,Bioengineers and Biomedical Engineers,Bioprocess Development Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Bioprocess Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Clinical Biomedical Engineer,,10
+17-2031.00,Bioengineers and Biomedical Engineers,Clinical Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Clinical Engineering Technician (Clinical Engineering Tech),Clinical Engineering Tech,10
+17-2031.00,Bioengineers and Biomedical Engineers,Dialysis Engineer,,04
+17-2031.00,Bioengineers and Biomedical Engineers,Engineer,,02
+17-2031.00,Bioengineers and Biomedical Engineers,Fermentation Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Field Clinical Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Field Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Genetic Engineer,,"04,08"
+17-2031.00,Bioengineers and Biomedical Engineers,Imaging Service Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Medical Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Orthopedic Designer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Pharmaceutical Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Pharmaceutical Scientist,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Process Development Associate,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Process Development Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Process Engineer,,02
+17-2031.00,Bioengineers and Biomedical Engineers,Research Biomedical Engineer,,10
+17-2031.00,Bioengineers and Biomedical Engineers,Research Engineer,,02
+17-2031.00,Bioengineers and Biomedical Engineers,Stack Yield Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Supplier Quality Engineer (SQE),SQE,08
+17-2031.00,Bioengineers and Biomedical Engineers,Sustaining Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Yield Engineer,,08
+17-2031.00,Bioengineers and Biomedical Engineers,Yield Improvement Engineer,,08
+17-2041.00,Chemical Engineers,Absorption and Adsorption Engineer,,"04,08"
+17-2041.00,Chemical Engineers,Blending Coordinator,,"04,06"
+17-2041.00,Chemical Engineers,Chemical Design Process Engineer,,08
+17-2041.00,Chemical Engineers,Chemical Engineer,,"02,10"
+17-2041.00,Chemical Engineers,Chemical Process Engineer,,"04,10"
+17-2041.00,Chemical Engineers,Chemical Research Engineer,,"04,08"
+17-2041.00,Chemical Engineers,Chemical Test Engineer,,08
+17-2041.00,Chemical Engineers,Controls Engineer,,10
+17-2041.00,Chemical Engineers,Development Engineer,,"02,04,06"
+17-2041.00,Chemical Engineers,Engineer,,"02,10"
+17-2041.00,Chemical Engineers,Engineering Scientist,,02
+17-2041.00,Chemical Engineers,Explosives Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Fuel Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Gas Combustion Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Lubricating Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Oxidation Engineer,,04
+17-2041.00,Chemical Engineers,Pharmaceutical Process Engineer,,08
+17-2041.00,Chemical Engineers,Plant Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Plastics Engineer,,"04,06"
+17-2041.00,Chemical Engineers,Polymerization Engineer,,04
+17-2041.00,Chemical Engineers,Process Application Engineer,,10
+17-2041.00,Chemical Engineers,Process Control Engineer,,02
+17-2041.00,Chemical Engineers,Process Design Chemical Engineer,,08
+17-2041.00,Chemical Engineers,Process Development Engineer,,"02,10"
+17-2041.00,Chemical Engineers,Process Engineer,,"02,04,06,10"
+17-2041.00,Chemical Engineers,Process Improvement Engineer,,10
+17-2041.00,Chemical Engineers,Project Engineer,,02
+17-2041.00,Chemical Engineers,Refinery Process Engineer,,"02,04"
+17-2041.00,Chemical Engineers,Research Chemical Engineer,,02
+17-2041.00,Chemical Engineers,Scientist,,"02,10"
+17-2041.00,Chemical Engineers,Weapons Designer,,09
+17-2041.00,Chemical Engineers,Weapons Engineer,,09
+17-2051.00,Civil Engineers,Airport Engineer,,08
+17-2051.00,Civil Engineers,Architectural Engineer,,"04,06"
+17-2051.00,Civil Engineers,Asphalt Engineer,,"04,06"
+17-2051.00,Civil Engineers,Base Engineer,,"04,06"
+17-2051.00,Civil Engineers,Bridge Design Engineer,,"04,06"
+17-2051.00,Civil Engineers,Bridge Engineer,,"04,06"
+17-2051.00,Civil Engineers,Building Construction Engineer,,"04,06"
+17-2051.00,Civil Engineers,Building Engineer,,"04,06"
+17-2051.00,Civil Engineers,Cadastral Engineer,,"04,06"
+17-2051.00,Civil Engineers,Cartographic Engineer,,"04,06"
+17-2051.00,Civil Engineers,City Engineer,,"02,04,06"
+17-2051.00,Civil Engineers,Civil Engineer,,"02,04,10"
+17-2051.00,Civil Engineers,Civil Engineering Intern,,10
+17-2051.00,Civil Engineers,Civil Project Engineer,,10
+17-2051.00,Civil Engineers,Concrete Engineer,,"04,06"
+17-2051.00,Civil Engineers,Condemnation Engineer,,"04,06"
+17-2051.00,Civil Engineers,Construction Engineer,,"04,06,10"
+17-2051.00,Civil Engineers,Construction Project Engineer,,10
+17-2051.00,Civil Engineers,Contracting Engineer,,"04,06"
+17-2051.00,Civil Engineers,County Engineer,,"02,04,06"
+17-2051.00,Civil Engineers,Demolition Engineer,,"04,06"
+17-2051.00,Civil Engineers,Design Engineer,,"02,04,10"
+17-2051.00,Civil Engineers,District Engineer,,"04,06"
+17-2051.00,Civil Engineers,Drainage Design Coordinator,,08
+17-2051.00,Civil Engineers,Drainage Engineer,,"04,06"
+17-2051.00,Civil Engineers,Energy Infrastructure Engineer,,08
+17-2051.00,Civil Engineers,Engineer,,"02,10"
+17-2051.00,Civil Engineers,Environmental Construction Engineer,,08
+17-2051.00,Civil Engineers,Erecting Engineer,,"04,06"
+17-2051.00,Civil Engineers,Facilities Engineer,,"04,06"
+17-2051.00,Civil Engineers,Forest Engineer,,08
+17-2051.00,Civil Engineers,Forestry Engineer,,"04,06"
+17-2051.00,Civil Engineers,Foundation Engineer,,"04,06"
+17-2051.00,Civil Engineers,Geodetic Engineer,,"04,06"
+17-2051.00,Civil Engineers,Geotechnical Engineer,,"02,04,06,10"
+17-2051.00,Civil Engineers,Heavy Civil Project Manager,,10
+17-2051.00,Civil Engineers,Highway Design Engineer,,"04,06"
+17-2051.00,Civil Engineers,Highway Engineer,,"04,06"
+17-2051.00,Civil Engineers,Highway Research Engineer,,"04,06"
+17-2051.00,Civil Engineers,Highway Safety Engineer,,"04,06"
+17-2051.00,Civil Engineers,Hydraulic Engineer,,"04,06,08"
+17-2051.00,Civil Engineers,Hydroelectric Plant Structural Engineer,,08
+17-2051.00,Civil Engineers,Hydrographic Engineer,,"04,06"
+17-2051.00,Civil Engineers,Irrigation Engineer,,08
+17-2051.00,Civil Engineers,Land Development Civil Engineer,,10
+17-2051.00,Civil Engineers,Licensed Engineer,,02
+17-2051.00,Civil Engineers,Maintenance Engineer,,"04,06"
+17-2051.00,Civil Engineers,Mapping Engineer,,"04,06"
+17-2051.00,Civil Engineers,Municipal Engineer,,"04,06"
+17-2051.00,Civil Engineers,Process Engineer,,"04,06"
+17-2051.00,Civil Engineers,Project Engineer,,"02,10"
+17-2051.00,Civil Engineers,Railroad Design Consultant,,"02,04"
+17-2051.00,Civil Engineers,Railroad Engineer,,"04,06,08"
+17-2051.00,Civil Engineers,Reclamation Engineer,,"04,06"
+17-2051.00,Civil Engineers,Research Hydraulic Engineer,,"02,04"
+17-2051.00,Civil Engineers,Resident Engineer,,"04,06"
+17-2051.00,Civil Engineers,Resource Recovery Engineer,,08
+17-2051.00,Civil Engineers,Road Design Engineer,,"04,06"
+17-2051.00,Civil Engineers,Road Engineer,,"04,06"
+17-2051.00,Civil Engineers,Roadway Engineer,,10
+17-2051.00,Civil Engineers,Sanitary Engineer,,08
+17-2051.00,Civil Engineers,Street Engineer,,"04,06"
+17-2051.00,Civil Engineers,Stress Engineer,,"04,06"
+17-2051.00,Civil Engineers,Structural Design Engineer,,08
+17-2051.00,Civil Engineers,Structural Designer,,09
+17-2051.00,Civil Engineers,Structural Engineer,,"02,04,08,10"
+17-2051.00,Civil Engineers,Structural Steel Engineer,,"04,06"
+17-2051.00,Civil Engineers,Topographical Engineer,,"04,06"
+17-2051.00,Civil Engineers,Track Production Engineer,,08
+17-2051.00,Civil Engineers,Traveling Engineer,,"04,06"
+17-2051.00,Civil Engineers,Utility Engineer,,09
+17-2051.00,Civil Engineers,Wastewater Plant Civil Engineer,,08
+17-2051.00,Civil Engineers,Zoning Engineer,,"04,06"
+17-2051.01,Transportation Engineers,Airport Engineer,,08
+17-2051.01,Transportation Engineers,Civil Transportation Engineer,,08
+17-2051.01,Transportation Engineers,Engineer,,"02,10"
+17-2051.01,Transportation Engineers,Highway Civil Engineer,,10
+17-2051.01,Transportation Engineers,Highway Engineer,,"08,10"
+17-2051.01,Transportation Engineers,Highway Project Engineer,,10
+17-2051.01,Transportation Engineers,Project Engineer,,"02,10"
+17-2051.01,Transportation Engineers,Rail Engineer,,02
+17-2051.01,Transportation Engineers,Road Engineer,,10
+17-2051.01,Transportation Engineers,Roadway Designer,,02
+17-2051.01,Transportation Engineers,Roadway Engineer,,"02,10"
+17-2051.01,Transportation Engineers,State Roadway Design Engineer,,02
+17-2051.01,Transportation Engineers,Traffic Engineer,,"02,08"
+17-2051.01,Transportation Engineers,Traffic Operations Engineer,,02
+17-2051.01,Transportation Engineers,Transportation Analyst,,08
+17-2051.01,Transportation Engineers,Transportation Consultant,,08
+17-2051.01,Transportation Engineers,Transportation Design Engineer,,08
+17-2051.01,Transportation Engineers,Transportation Engineer,,"02,08,10"
+17-2051.01,Transportation Engineers,Transportation Engineering Intern,,10
+17-2051.01,Transportation Engineers,Transportation Planning Engineer,,08
+17-2051.01,Transportation Engineers,Transportation Project Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Consulting Engineer,,02
+17-2051.02,Water/Wastewater Engineers,County Engineer,,02
+17-2051.02,Water/Wastewater Engineers,Dimensional Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Engineer,,02
+17-2051.02,Water/Wastewater Engineers,Hydraulics Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Hydrologic Modeler,,08
+17-2051.02,Water/Wastewater Engineers,Project Development Engineer,,02
+17-2051.02,Water/Wastewater Engineers,Remediation Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Remediation Project Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Wastewater Design Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Wastewater Engineer,,"08,10"
+17-2051.02,Water/Wastewater Engineers,Wastewater Process Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Wastewater Project Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Water Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Water Project Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Water Resources Engineer,,"08,10"
+17-2051.02,Water/Wastewater Engineers,Water Resources Project Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Water Systems Designer,,08
+17-2051.02,Water/Wastewater Engineers,Water Systems Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Water Treatment Engineer,,10
+17-2051.02,Water/Wastewater Engineers,Water/Wastewater Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Water/Wastewater Project Engineer,,08
+17-2051.02,Water/Wastewater Engineers,Watershed Engineer,,08
+17-2061.00,Computer Hardware Engineers,Analog Design Engineer,,10
+17-2061.00,Computer Hardware Engineers,Analog IC Design Engineer (Analog Integrated Circuit Design Engineer),Analog IC Design Engineer,10
+17-2061.00,Computer Hardware Engineers,Application Specific Integrated Circuit Design Engineer (ASIC Design Engineer),ASIC Design Engineer,10
+17-2061.00,Computer Hardware Engineers,Application Specific Integrated Circuit Design Verification Engineer (ASIC Design Verification Engineer),ASIC Design Verification Engineer,10
+17-2061.00,Computer Hardware Engineers,Computer Designer,,"04,06"
+17-2061.00,Computer Hardware Engineers,Computer Engineer,,"04,10"
+17-2061.00,Computer Hardware Engineers,Computer Hardware Designer,,04
+17-2061.00,Computer Hardware Engineers,Computer Hardware Developer,,04
+17-2061.00,Computer Hardware Engineers,Computer Hardware Engineer,,04
+17-2061.00,Computer Hardware Engineers,Computer Installation Engineer,,06
+17-2061.00,Computer Hardware Engineers,Computer Tester,,"04,06"
+17-2061.00,Computer Hardware Engineers,Computer Vision Engineer,,10
+17-2061.00,Computer Hardware Engineers,Design Engineer,,"02,10"
+17-2061.00,Computer Hardware Engineers,Design Verification Engineer,,10
+17-2061.00,Computer Hardware Engineers,Digital Design Engineer,,10
+17-2061.00,Computer Hardware Engineers,Digital Hardware Engineer,,10
+17-2061.00,Computer Hardware Engineers,Electronics Engineer,,08
+17-2061.00,Computer Hardware Engineers,Embedded Hardware Engineer,,10
+17-2061.00,Computer Hardware Engineers,Engineer,,02
+17-2061.00,Computer Hardware Engineers,Field Service Engineer,,02
+17-2061.00,Computer Hardware Engineers,FPGA Design Engineer (Field Programmable Gate Array Design Engineer),FPGA Design Engineer,10
+17-2061.00,Computer Hardware Engineers,FPGA Design Engineer (Field Programmable Gate Design Engineer),FPGA Design Engineer,10
+17-2061.00,Computer Hardware Engineers,FPGA Engineer (Field Programmable Gate Array Engineer),FPGA Engineer,10
+17-2061.00,Computer Hardware Engineers,Hardware Architect,,10
+17-2061.00,Computer Hardware Engineers,Hardware Design Engineer,,"02,10"
+17-2061.00,Computer Hardware Engineers,Hardware Development Engineer,,10
+17-2061.00,Computer Hardware Engineers,Hardware Engineer,,"02,03,08,10"
+17-2061.00,Computer Hardware Engineers,Hardware Systems Engineer,,10
+17-2061.00,Computer Hardware Engineers,Hardware Test Engineer,,10
+17-2061.00,Computer Hardware Engineers,Microchip Specialist,,"04,06"
+17-2061.00,Computer Hardware Engineers,Physical Design Engineer,,02
+17-2061.00,Computer Hardware Engineers,Project Engineer,,02
+17-2061.00,Computer Hardware Engineers,Staff Engineer,,02
+17-2061.00,Computer Hardware Engineers,Systems Integration Engineer,,02
+17-2071.00,Electrical Engineers,Automation Engineer,,09
+17-2071.00,Electrical Engineers,Cable Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Circuits Engineer,,02
+17-2071.00,Electrical Engineers,Controls Engineer,,"02,10"
+17-2071.00,Electrical Engineers,Design Engineer,,"02,10"
+17-2071.00,Electrical Engineers,Distribution Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Distribution Field Engineer,,08
+17-2071.00,Electrical Engineers,District Plant Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Division Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Division Plant Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Electrical Controls Engineer,,02
+17-2071.00,Electrical Engineers,Electrical Design Engineer,,"02,04,10"
+17-2071.00,Electrical Engineers,Electrical Designer,,09
+17-2071.00,Electrical Engineers,Electrical Engineer,,"02,04,09,10"
+17-2071.00,Electrical Engineers,Electrical Engineering Intern,,10
+17-2071.00,Electrical Engineers,Electrical Integrator,,08
+17-2071.00,Electrical Engineers,Electrical Power Engineer,,10
+17-2071.00,Electrical Engineers,Electrical Products Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Electrical Project Engineer,,"02,10"
+17-2071.00,Electrical Engineers,Electrical Prospecting Engineer,,08
+17-2071.00,Electrical Engineers,Electrical Research Engineer,,08
+17-2071.00,Electrical Engineers,Electrical Systems Engineer,,"02,04,06"
+17-2071.00,Electrical Engineers,Electrical Test Engineer,,08
+17-2071.00,Electrical Engineers,Electrolysis and Corrosion Control Engineer,,08
+17-2071.00,Electrical Engineers,Electrolysis Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Electrolysis Investigator,,"04,06"
+17-2071.00,Electrical Engineers,Engineer,,"02,10"
+17-2071.00,Electrical Engineers,Field Engineer,,10
+17-2071.00,Electrical Engineers,Geothermal Electrical Engineer,,08
+17-2071.00,Electrical Engineers,Hydroelectric Plant Electrical Engineer,,08
+17-2071.00,Electrical Engineers,Illuminating Engineer,,"04,06,08"
+17-2071.00,Electrical Engineers,Induction Coordination Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Induction Coordination Power Engineer,,08
+17-2071.00,Electrical Engineers,Instrumentation and Electrical Reliability Engineer (I&E Reliability Engineer),I&E Reliability Engineer,02
+17-2071.00,Electrical Engineers,Instrumentation Engineer,,10
+17-2071.00,Electrical Engineers,Laser Engineer,,09
+17-2071.00,Electrical Engineers,Lighting Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Line Construction Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Meter Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Outside Plant Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Photovoltaic Power Systems Engineer (PV Power Systems Engineer),PV Power Systems Engineer,08
+17-2071.00,Electrical Engineers,Photovoltaic Solar Cell Designer (PV Solar Cell Designer),PV Solar Cell Designer,08
+17-2071.00,Electrical Engineers,Plant Engineer,,"02,04,06"
+17-2071.00,Electrical Engineers,Power Distribution Engineer,,"04,08"
+17-2071.00,Electrical Engineers,Power Generation Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Power Systems Electrical Engineer,,08
+17-2071.00,Electrical Engineers,Power Systems Engineer,,02
+17-2071.00,Electrical Engineers,Power Transmission Engineer,,08
+17-2071.00,Electrical Engineers,Project Engineer,,02
+17-2071.00,Electrical Engineers,Protection Engineer,,"04,06,08"
+17-2071.00,Electrical Engineers,Radio Frequency Engineer (RF Engineer),RF Engineer,09
+17-2071.00,Electrical Engineers,Results Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Rural Electrification Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Service Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Smart Grid Engineer,,08
+17-2071.00,Electrical Engineers,Substation Electrical Engineer,,"02,10"
+17-2071.00,Electrical Engineers,Substation Engineer,,10
+17-2071.00,Electrical Engineers,Systems Development Engineer,,08
+17-2071.00,Electrical Engineers,Test Engineer,,02
+17-2071.00,Electrical Engineers,Testing Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Transmission Engineer,,"04,06"
+17-2071.00,Electrical Engineers,Transmission Line Engineer,,10
+17-2071.00,Electrical Engineers,Utility Engineer,,09
+17-2071.00,Electrical Engineers,Wind Farm Electrical Systems Designer,,08
+17-2071.00,Electrical Engineers,Wind Turbine Electrical Engineer,,08
+17-2071.00,Electrical Engineers,Wire Communications Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Antenna Engineer,,"02,04"
+17-2072.00,"Electronics Engineers, Except Computer",Audio Visual Engineer (AV Engineer),AV Engineer,10
+17-2072.00,"Electronics Engineers, Except Computer",Audio Visual Manager,,10
+17-2072.00,"Electronics Engineers, Except Computer",Automation Engineer,,09
+17-2072.00,"Electronics Engineers, Except Computer",Central Office Equipment Engineer,,"04,06,08"
+17-2072.00,"Electronics Engineers, Except Computer",Central Office Facilities Planning Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Circuit Design Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Circuit Designer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Commercial Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Communications Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Compatibility Test Engineer,,02
+17-2072.00,"Electronics Engineers, Except Computer",Control Systems Engineer,,10
+17-2072.00,"Electronics Engineers, Except Computer",Customer Equipment Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Design Engineer,,"02,04"
+17-2072.00,"Electronics Engineers, Except Computer",Dial Equipment Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Electrical Electronics Engineers,,09
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Design Automation Engineer (EDA Engineer),EDA Engineer,"02,04"
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Design Engineer,,10
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Hardware Engineer,,10
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Parts Designer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Electronic Systems Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Electronics Design Engineer,,"02,08"
+17-2072.00,"Electronics Engineers, Except Computer",Electronics Research Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Electronics Test Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Electrophonic Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Engineer,,"02,10"
+17-2072.00,"Electronics Engineers, Except Computer",Equipment Engineer,,"02,04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Evaluation Engineer,,02
+17-2072.00,"Electronics Engineers, Except Computer",Field Programmable Gate Array Verification Engineer (FPGA Verification Engineer),FPGA Verification Engineer,10
+17-2072.00,"Electronics Engineers, Except Computer",Field Service Engineer,,10
+17-2072.00,"Electronics Engineers, Except Computer",FPGA Engineer (Field-Programmable Gate Array Engineer),FPGA Engineer,10
+17-2072.00,"Electronics Engineers, Except Computer",Guidance and Control Systems Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Integrated Circuit Design Engineer (IC Design Engineer),IC Design Engineer,02
+17-2072.00,"Electronics Engineers, Except Computer",Microwave Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Outside Plant Cable Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Outside Plant Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Power Electronics Engineer,,10
+17-2072.00,"Electronics Engineers, Except Computer",Product Engineer,,02
+17-2072.00,"Electronics Engineers, Except Computer",Radar Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Radio Frequency Design Engineer (RF Design Engineer),RF Design Engineer,10
+17-2072.00,"Electronics Engineers, Except Computer",Radio Frequency Engineer (RF Engineer),RF Engineer,"02,10"
+17-2072.00,"Electronics Engineers, Except Computer",Research and Development Engineer (R and D Engineer),R and D Engineer,02
+17-2072.00,"Electronics Engineers, Except Computer",Studio Operations Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Telecommunications Engineer,,"04,09"
+17-2072.00,"Electronics Engineers, Except Computer",Test Engineer,,02
+17-2072.00,"Electronics Engineers, Except Computer",Traffic Circuit Engineer,,"04,06"
+17-2072.00,"Electronics Engineers, Except Computer",Transmission and Protection Engineer,,08
+17-2072.00,"Electronics Engineers, Except Computer",Transmitter Engineer,,"04,06"
+17-2072.01,Radio Frequency Identification Device Specialists,Cardiac Device Specialist,,10
+17-2072.01,Radio Frequency Identification Device Specialists,Deployment Engineer,,02
+17-2072.01,Radio Frequency Identification Device Specialists,Device Test Engineer,,10
+17-2072.01,Radio Frequency Identification Device Specialists,DSP Engineer (Digital Signal Processing Engineer),DSP Engineer,10
+17-2072.01,Radio Frequency Identification Device Specialists,Electro Magnetic Compatibility Test Engineer,,02
+17-2072.01,Radio Frequency Identification Device Specialists,RF Design Engineer (Radio Frequency Design Engineer),RF Design Engineer,10
+17-2072.01,Radio Frequency Identification Device Specialists,RF Engineer (Radio Frequency Engineer),RF Engineer,"08,10"
+17-2072.01,Radio Frequency Identification Device Specialists,RF Systems Engineer (Radio Frequency Systems Engineer),RF Systems Engineer,10
+17-2072.01,Radio Frequency Identification Device Specialists,RF Test Engineer (Radio Frequency Test Engineer),RF Test Engineer,10
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Analyst (Radio Frequency Identification Device Analyst),RFID Analyst,08
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Developer (Radio Frequency Identification Device Developer),RFID Developer,08
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Engineer (Radio Frequency Identification Device Engineer),RFID Engineer,02
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Specialist (Radio Frequency Identification Device Specialist),RFID Specialist,08
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Strategist (Radio Frequency Identification Device Strategist),RFID Strategist,08
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Systems Architect (Radio Frequency Identification Device Systems Architect),RFID Systems Architect,08
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Systems Engineer (Radio Frequency Identification Device Systems Engineer),RFID Systems Engineer,02
+17-2072.01,Radio Frequency Identification Device Specialists,RFID Technician (Radio Frequency Identification Device Technician),RFID Technician,"02,08"
+17-2072.01,Radio Frequency Identification Device Specialists,Signal Engineer,,10
+17-2072.01,Radio Frequency Identification Device Specialists,Signal Integrity Engineer,,10
+17-2072.01,Radio Frequency Identification Device Specialists,Signaling Project Engineer,,10
+17-2072.01,Radio Frequency Identification Device Specialists,Technical Support Engineer,,02
+17-2072.01,Radio Frequency Identification Device Specialists,Wireless Engineer,,10
+17-2081.00,Environmental Engineers,Air Pollution Control Engineer,,"02,04,06"
+17-2081.00,Environmental Engineers,Air Quality Engineer,,10
+17-2081.00,Environmental Engineers,Civil Engineer,,10
+17-2081.00,Environmental Engineers,Coastal Engineer,,10
+17-2081.00,Environmental Engineers,Engineer,,02
+17-2081.00,Environmental Engineers,Engineering Consultant,,02
+17-2081.00,Environmental Engineers,Environmental Analyst,,"02,08"
+17-2081.00,Environmental Engineers,Environmental Consultant,,"02,08"
+17-2081.00,Environmental Engineers,Environmental Coordinator,,10
+17-2081.00,Environmental Engineers,Environmental Designer,,08
+17-2081.00,Environmental Engineers,Environmental Engineer,,"02,04,10"
+17-2081.00,Environmental Engineers,Environmental Engineering Intern,,10
+17-2081.00,Environmental Engineers,Environmental Planner,,08
+17-2081.00,Environmental Engineers,Environmental Project Engineer,,10
+17-2081.00,Environmental Engineers,Environmental Project Manager,,10
+17-2081.00,Environmental Engineers,Environmental Remediation Engineer,,04
+17-2081.00,Environmental Engineers,Environmental Remediation Specialist,,02
+17-2081.00,Environmental Engineers,Environmental Safety Specialist,,09
+17-2081.00,Environmental Engineers,Environmental Scientist,,10
+17-2081.00,Environmental Engineers,Environmental Systems Coordinator,,09
+17-2081.00,Environmental Engineers,Environmental Test Engineer,,10
+17-2081.00,Environmental Engineers,Environmentalist,,09
+17-2081.00,Environmental Engineers,Flood Control Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Hazardous Substances Engineer,,"02,04"
+17-2081.00,Environmental Engineers,Hazardous Waste Management Control Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Hazardous Waste Management Specialist,,08
+17-2081.00,Environmental Engineers,Industrial Hygiene Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Irrigation Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Pollution Control Engineer,,"04,06,08"
+17-2081.00,Environmental Engineers,Project Engineer,,10
+17-2081.00,Environmental Engineers,Public Health Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Radiation Protection Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Remediation Project Engineer,,10
+17-2081.00,Environmental Engineers,Reservoir Engineer,,09
+17-2081.00,Environmental Engineers,Sanitary Engineer,,"02,04,06"
+17-2081.00,Environmental Engineers,Sanitation Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Sewage Disposal Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Soil Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Solid Waste Engineer,,08
+17-2081.00,Environmental Engineers,Solid Waste Management Engineer,,"04,06"
+17-2081.00,Environmental Engineers,Waste Management Engineer,,"04,06"
