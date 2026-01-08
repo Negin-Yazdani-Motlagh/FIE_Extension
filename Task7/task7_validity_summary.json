@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-01-07T10:33:41.036879",
+  "total_postings": 200,
+  "total_labels": 1600,
+  "detector_v1": {
+    "Adaptability & Continuous Learning": {
+      "tp": 30,
+      "fp": 48,
+      "fn": 50,
+      "tn": 72,
+      "accuracy": 0.51,
+      "precision": 0.385,
+      "recall": 0.375,
+      "f1": 0.38
+    },
+    "Collaboration And Team Dynamics": {
+      "tp": 59,
+      "fp": 108,
+      "fn": 17,
+      "tn": 16,
+      "accuracy": 0.375,
+      "precision": 0.353,
+      "recall": 0.776,
+      "f1": 0.486
+    },
+    "Communication Skills": {
+      "tp": 35,
+      "fp": 62,
+      "fn": 33,
+      "tn": 70,
+      "accuracy": 0.525,
+      "precision": 0.361,
+      "recall": 0.515,
+      "f1": 0.424
+    },
+    "Creativity And Inovation": {
+      "tp": 34,
+      "fp": 45,
+      "fn": 54,
+      "tn": 67,
+      "accuracy": 0.505,
+      "precision": 0.43,
+      "recall": 0.386,
+      "f1": 0.407
+    },
+    "Emotional Intelligence (Eq)": {
+      "tp": 11,
+      "fp": 13,
+      "fn": 79,
+      "tn": 97,
+      "accuracy": 0.54,
+      "precision": 0.458,
+      "recall": 0.122,
+      "f1": 0.193
+    },
+    "Problem-Solving And Critical Thinking": {
+      "tp": 50,
+      "fp": 69,
+      "fn": 30,
+      "tn": 51,
+      "accuracy": 0.505,
+      "precision": 0.42,
+      "recall": 0.625,
+      "f1": 0.503
+    },
+    "Time Management And Organizational Skills": {
+      "tp": 57,
+      "fp": 45,
+      "fn": 34,
+      "tn": 64,
+      "accuracy": 0.605,
+      "precision": 0.559,
+      "recall": 0.626,
+      "f1": 0.591
+    },
+    "Work Ethic And Professionalism": {
+      "tp": 60,
+      "fp": 85,
+      "fn": 19,
+      "tn": 36,
+      "accuracy": 0.48,
+      "precision": 0.414,
+      "recall": 0.759,
+      "f1": 0.536
+    }
+  },
+  "detector_v2": {
+    "Adaptability & Continuous Learning": {
+      "tp": 30,
+      "fp": 48,
+      "fn": 50,
+      "tn": 72,
+      "accuracy": 0.51,
+      "precision": 0.385,
+      "recall": 0.375,
+      "f1": 0.38
+    },
+    "Collaboration And Team Dynamics": {
+      "tp": 60,
+      "fp": 108,
+      "fn": 16,
+      "tn": 16,
+      "accuracy": 0.38,
+      "precision": 0.357,
+      "recall": 0.789,
+      "f1": 0.492
+    },
+    "Communication Skills": {
+      "tp": 35,
+      "fp": 62,
+      "fn": 33,
+      "tn": 70,
+      "accuracy": 0.525,
+      "precision": 0.361,
+      "recall": 0.515,
+      "f1": 0.424
+    },
+    "Creativity And Inovation": {
+      "tp": 34,
+      "fp": 45,
+      "fn": 54,
+      "tn": 67,
+      "accuracy": 0.505,
+      "precision": 0.43,
+      "recall": 0.386,
+      "f1": 0.407
+    },
+    "Emotional Intelligence (Eq)": {
+      "tp": 11,
+      "fp": 13,
+      "fn": 79,
+      "tn": 97,
+      "accuracy": 0.54,
+      "precision": 0.458,
+      "recall": 0.122,
+      "f1": 0.193
+    },
+    "Problem-Solving And Critical Thinking": {
+      "tp": 50,
+      "fp": 70,
+      "fn": 30,
+      "tn": 50,
+      "accuracy": 0.5,
+      "precision": 0.417,
+      "recall": 0.625,
+      "f1": 0.5
+    },
+    "Time Management And Organizational Skills": {
+      "tp": 58,
+      "fp": 45,
+      "fn": 33,
+      "tn": 64,
+      "accuracy": 0.61,
+      "precision": 0.563,
+      "recall": 0.637,
+      "f1": 0.598
+    },
+    "Work Ethic And Professionalism": {
+      "tp": 61,
+      "fp": 85,
+      "fn": 18,
+      "tn": 36,
+      "accuracy": 0.485,
+      "precision": 0.418,
+      "recall": 0.772,
+      "f1": 0.542
+    }
+  },
+  "average_improvements": {
+    "f1": 0.002,
+    "precision": 0.001,
+    "recall": 0.005,
+    "accuracy": 0.001
+  }
+}

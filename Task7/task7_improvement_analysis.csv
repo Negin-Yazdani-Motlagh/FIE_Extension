@@ -1,0 +1,9 @@
+domain,f1_v1,f1_v2,f1_improvement,precision_v1,precision_v2,precision_improvement,recall_v1,recall_v2,recall_improvement,accuracy_v1,accuracy_v2,accuracy_improvement
+Adaptability & Continuous Learning,0.38,0.38,0.0,0.385,0.385,0.0,0.375,0.375,0.0,0.51,0.51,0.0
+Collaboration And Team Dynamics,0.486,0.492,0.006,0.353,0.357,0.004,0.776,0.789,0.013,0.375,0.38,0.005
+Communication Skills,0.424,0.424,0.0,0.361,0.361,0.0,0.515,0.515,0.0,0.525,0.525,0.0
+Creativity And Inovation,0.407,0.407,0.0,0.43,0.43,0.0,0.386,0.386,0.0,0.505,0.505,0.0
+Emotional Intelligence (Eq),0.193,0.193,0.0,0.458,0.458,0.0,0.122,0.122,0.0,0.54,0.54,0.0
+Problem-Solving And Critical Thinking,0.503,0.5,-0.003,0.42,0.417,-0.003,0.625,0.625,0.0,0.505,0.5,-0.005
+Time Management And Organizational Skills,0.591,0.598,0.007,0.559,0.563,0.004,0.626,0.637,0.011,0.605,0.61,0.005
+Work Ethic And Professionalism,0.536,0.542,0.006,0.414,0.418,0.004,0.759,0.772,0.013,0.48,0.485,0.005

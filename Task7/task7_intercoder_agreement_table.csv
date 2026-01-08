@@ -1,0 +1,9 @@
+domain,n_postings,agreements,disagreements,percent_agreement,cohens_kappa,observed_agreement,expected_agreement
+Adaptability & Continuous Learning,200,109,91,54.5,0.046,0.545,0.523
+Collaboration And Team Dynamics,200,104,96,52.0,0.012,0.52,0.514
+Communication Skills,200,100,100,50.0,-0.054,0.5,0.526
+Creativity And Inovation,200,106,94,53.0,0.039,0.53,0.511
+Emotional Intelligence (Eq),200,99,101,49.5,-0.019,0.495,0.504
+Problem-Solving And Critical Thinking,200,107,93,53.5,0.017,0.535,0.527
+Time Management And Organizational Skills,200,95,105,47.5,-0.065,0.475,0.507
+Work Ethic And Professionalism,200,101,99,50.5,-0.033,0.505,0.521

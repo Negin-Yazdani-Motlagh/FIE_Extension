@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-01-07T10:32:00.815235",
+  "overall": {
+    "agreements": 821,
+    "total": 1600,
+    "percent_agreement": 51.31
+  },
+  "by_domain": {
+    "Adaptability & Continuous Learning": {
+      "percent_agreement": 0.545,
+      "n_postings": 200,
+      "agreements": 109,
+      "disagreements": 91,
+      "kappa": 0.04612159329140465,
+      "observed_agreement": 0.545,
+      "expected_agreement": 0.523,
+      "both_positive": 33,
+      "both_negative": 76,
+      "c1_positive_c2_negative": 47,
+      "c1_negative_c2_positive": 44,
+      "n": 200
+    },
+    "Collaboration And Team Dynamics": {
+      "percent_agreement": 0.52,
+      "n_postings": 200,
+      "agreements": 104,
+      "disagreements": 96,
+      "kappa": 0.011532125205930908,
+      "observed_agreement": 0.52,
+      "expected_agreement": 0.5144,
+      "both_positive": 34,
+      "both_negative": 70,
+      "c1_positive_c2_negative": 42,
+      "c1_negative_c2_positive": 54,
+      "n": 200
+    },
+    "Communication Skills": {
+      "percent_agreement": 0.5,
+      "n_postings": 200,
+      "agreements": 100,
+      "disagreements": 100,
+      "kappa": -0.05396290050590209,
+      "observed_agreement": 0.5,
+      "expected_agreement": 0.5256,
+      "both_positive": 26,
+      "both_negative": 74,
+      "c1_positive_c2_negative": 42,
+      "c1_negative_c2_positive": 58,
+      "n": 200
+    },
+    "Creativity And Inovation": {
+      "percent_agreement": 0.53,
+      "n_postings": 200,
+      "agreements": 106,
+      "disagreements": 94,
+      "kappa": 0.0392477514309076,
+      "observed_agreement": 0.53,
+      "expected_agreement": 0.5108,
+      "both_positive": 38,
+      "both_negative": 68,
+      "c1_positive_c2_negative": 50,
+      "c1_negative_c2_positive": 44,
+      "n": 200
+    },
+    "Emotional Intelligence (Eq)": {
+      "percent_agreement": 0.495,
+      "n_postings": 200,
+      "agreements": 99,
+      "disagreements": 101,
+      "kappa": -0.019172552976791022,
+      "observed_agreement": 0.495,
+      "expected_agreement": 0.5045,
+      "both_positive": 40,
+      "both_negative": 59,
+      "c1_positive_c2_negative": 50,
+      "c1_negative_c2_positive": 51,
+      "n": 200
+    },
+    "Problem-Solving And Critical Thinking": {
+      "percent_agreement": 0.535,
+      "n_postings": 200,
+      "agreements": 107,
+      "disagreements": 93,
+      "kappa": 0.01691331923890065,
+      "observed_agreement": 0.535,
+      "expected_agreement": 0.527,
+      "both_positive": 30,
+      "both_negative": 77,
+      "c1_positive_c2_negative": 50,
+      "c1_negative_c2_positive": 43,
+      "n": 200
+    },
+    "Time Management And Organizational Skills": {
+      "percent_agreement": 0.475,
+      "n_postings": 200,
+      "agreements": 95,
+      "disagreements": 105,
+      "kappa": -0.0653409090909091,
+      "observed_agreement": 0.475,
+      "expected_agreement": 0.5072,
+      "both_positive": 35,
+      "both_negative": 60,
+      "c1_positive_c2_negative": 56,
+      "c1_negative_c2_positive": 49,
+      "n": 200
+    },
+    "Work Ethic And Professionalism": {
+      "percent_agreement": 0.505,
+      "n_postings": 200,
+      "agreements": 101,
+      "disagreements": 99,
+      "kappa": -0.03340292275574116,
+      "observed_agreement": 0.505,
+      "expected_agreement": 0.521,
+      "both_positive": 30,
+      "both_negative": 71,
+      "c1_positive_c2_negative": 49,
+      "c1_negative_c2_positive": 50,
+      "n": 200
+    }
+  }
+}
