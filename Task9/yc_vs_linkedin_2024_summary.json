@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-01-07T12:08:55.291378",
+  "yc_2024_total_postings": 3870,
+  "linkedin_2024_total_postings": 148047,
+  "yc_top5_domains": [
+    "Collaboration And Team Dynamics",
+    "Work Ethic And Professionalism",
+    "Problem-Solving And Critical Thinking",
+    "Creativity And Inovation",
+    "Time Management And Organizational Skills"
+  ],
+  "linkedin_top5_domains": [
+    "Collaboration And Team Dynamics",
+    "Work Ethic And Professionalism",
+    "Problem-Solving And Critical Thinking",
+    "Time Management And Organizational Skills",
+    "Communication Skills"
+  ],
+  "top5_overlap": 4,
+  "domains": {
+    "Adaptability & Continuous Learning": {
+      "yc_coverage_percent": 7.1,
+      "linkedin_coverage_percent": 37.5,
+      "difference_pp": 30.4
+    },
+    "Collaboration And Team Dynamics": {
+      "yc_coverage_percent": 34.6,
+      "linkedin_coverage_percent": 83.7,
+      "difference_pp": 49.1
+    },
+    "Communication Skills": {
+      "yc_coverage_percent": 7.5,
+      "linkedin_coverage_percent": 54.5,
+      "difference_pp": 47.0
+    },
+    "Creativity And Inovation": {
+      "yc_coverage_percent": 11.2,
+      "linkedin_coverage_percent": 38.6,
+      "difference_pp": 27.4
+    },
+    "Emotional Intelligence (Eq)": {
+      "yc_coverage_percent": 0.5,
+      "linkedin_coverage_percent": 9.5,
+      "difference_pp": 9.0
+    },
+    "Problem-Solving And Critical Thinking": {
+      "yc_coverage_percent": 11.6,
+      "linkedin_coverage_percent": 64.3,
+      "difference_pp": 52.7
+    },
+    "Time Management And Organizational Skills": {
+      "yc_coverage_percent": 8.9,
+      "linkedin_coverage_percent": 55.7,
+      "difference_pp": 46.8
+    },
+    "Work Ethic And Professionalism": {
+      "yc_coverage_percent": 22.6,
+      "linkedin_coverage_percent": 75.8,
+      "difference_pp": 53.2
+    }
+  }
+}

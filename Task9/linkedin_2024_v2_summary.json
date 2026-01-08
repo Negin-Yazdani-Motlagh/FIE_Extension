@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-01-07T11:48:49.105079",
+  "lexicon_version": "v2",
+  "total_postings": 148047,
+  "domains": {
+    "Adaptability & Continuous Learning": {
+      "postings_with_domain": 55457,
+      "coverage_percent": 37.5,
+      "total_matches": 93449,
+      "avg_matches_per_posting": 1.69
+    },
+    "Collaboration And Team Dynamics": {
+      "postings_with_domain": 123919,
+      "coverage_percent": 83.7,
+      "total_matches": 547034,
+      "avg_matches_per_posting": 4.41
+    },
+    "Communication Skills": {
+      "postings_with_domain": 80719,
+      "coverage_percent": 54.5,
+      "total_matches": 269756,
+      "avg_matches_per_posting": 3.34
+    },
+    "Creativity And Inovation": {
+      "postings_with_domain": 57128,
+      "coverage_percent": 38.6,
+      "total_matches": 102963,
+      "avg_matches_per_posting": 1.8
+    },
+    "Emotional Intelligence (Eq)": {
+      "postings_with_domain": 14099,
+      "coverage_percent": 9.5,
+      "total_matches": 15598,
+      "avg_matches_per_posting": 1.11
+    },
+    "Problem-Solving And Critical Thinking": {
+      "postings_with_domain": 95209,
+      "coverage_percent": 64.3,
+      "total_matches": 285093,
+      "avg_matches_per_posting": 2.99
+    },
+    "Time Management And Organizational Skills": {
+      "postings_with_domain": 82409,
+      "coverage_percent": 55.7,
+      "total_matches": 180457,
+      "avg_matches_per_posting": 2.19
+    },
+    "Work Ethic And Professionalism": {
+      "postings_with_domain": 112197,
+      "coverage_percent": 75.8,
+      "total_matches": 400090,
+      "avg_matches_per_posting": 3.57
+    }
+  }
+}
