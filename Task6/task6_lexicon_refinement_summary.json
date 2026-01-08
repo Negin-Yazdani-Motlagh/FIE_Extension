@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-01-07T10:19:16.943009",
+  "lexicon_v1": {
+    "total_terms": 121,
+    "domains": 8
+  },
+  "lexicon_v2": {
+    "total_terms": 186,
+    "domains": 8,
+    "new_terms": 65
+  },
+  "changes": {
+    "total_additions": 65,
+    "total_removals": 0,
+    "by_domain": {
+      "Communication Skills": {
+        "added": 14,
+        "removed": 0
+      },
+      "Collaboration And Team Dynamics": {
+        "added": 11,
+        "removed": 0
+      },
+      "Problem-Solving And Critical Thinking": {
+        "added": 8,
+        "removed": 0
+      },
+      "Work Ethic And Professionalism": {
+        "added": 8,
+        "removed": 0
+      },
+      "Time Management And Organizational Skills": {
+        "added": 3,
+        "removed": 0
+      },
+      "Emotional Intelligence (Eq)": {
+        "added": 13,
+        "removed": 0
+      },
+      "Adaptability & Continuous Learning": {
+        "added": 4,
+        "removed": 0
+      },
+      "Creativity And Inovation": {
+        "added": 4,
+        "removed": 0
+      }
+    }
+  }
+}
