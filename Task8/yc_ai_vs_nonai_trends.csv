@@ -1,0 +1,209 @@
+year,ai_classification,domain,v1_coverage_percent,v2_coverage_percent,change
+2012,AI,Adaptability & Continuous Learning,13.09,13.09,0.0
+2012,AI,Collaboration And Team Dynamics,29.41,29.41,0.0
+2012,AI,Communication Skills,11.65,11.65,0.0
+2012,AI,Creativity And Inovation,13.35,13.35,0.0
+2012,AI,Emotional Intelligence (Eq),0.36,0.36,0.0
+2012,AI,Problem-Solving And Critical Thinking,11.19,12.17,0.98
+2012,AI,Time Management And Organizational Skills,8.32,8.37,0.05
+2012,AI,Work Ethic And Professionalism,18.43,19.25,0.82
+2013,AI,Adaptability & Continuous Learning,14.14,14.14,0.0
+2013,AI,Collaboration And Team Dynamics,31.34,31.42,0.08
+2013,AI,Communication Skills,11.75,11.75,0.0
+2013,AI,Creativity And Inovation,12.8,12.8,0.0
+2013,AI,Emotional Intelligence (Eq),0.61,0.69,0.08
+2013,AI,Problem-Solving And Critical Thinking,13.69,14.34,0.65
+2013,AI,Time Management And Organizational Skills,7.75,7.84,0.09
+2013,AI,Work Ethic And Professionalism,21.16,22.25,1.09
+2014,AI,Adaptability & Continuous Learning,15.95,15.95,0.0
+2014,AI,Collaboration And Team Dynamics,35.67,35.79,0.12
+2014,AI,Communication Skills,13.6,13.6,0.0
+2014,AI,Creativity And Inovation,13.57,13.57,0.0
+2014,AI,Emotional Intelligence (Eq),0.77,0.77,0.0
+2014,AI,Problem-Solving And Critical Thinking,16.2,17.69,1.49
+2014,AI,Time Management And Organizational Skills,10.56,10.62,0.06
+2014,AI,Work Ethic And Professionalism,25.91,26.97,1.06
+2015,AI,Adaptability & Continuous Learning,12.4,12.4,0.0
+2015,AI,Collaboration And Team Dynamics,29.62,29.66,0.04
+2015,AI,Communication Skills,9.3,9.3,0.0
+2015,AI,Creativity And Inovation,11.85,11.85,0.0
+2015,AI,Emotional Intelligence (Eq),0.81,0.81,0.0
+2015,AI,Problem-Solving And Critical Thinking,12.62,13.57,0.95
+2015,AI,Time Management And Organizational Skills,9.52,9.61,0.09
+2015,AI,Work Ethic And Professionalism,21.99,22.6,0.61
+2016,AI,Adaptability & Continuous Learning,11.11,11.11,0.0
+2016,AI,Collaboration And Team Dynamics,32.39,32.53,0.14
+2016,AI,Communication Skills,10.02,10.02,0.0
+2016,AI,Creativity And Inovation,12.35,12.35,0.0
+2016,AI,Emotional Intelligence (Eq),1.47,1.52,0.05
+2016,AI,Problem-Solving And Critical Thinking,12.3,13.43,1.13
+2016,AI,Time Management And Organizational Skills,9.28,9.34,0.06
+2016,AI,Work Ethic And Professionalism,22.67,23.1,0.43
+2017,AI,Adaptability & Continuous Learning,11.63,11.63,0.0
+2017,AI,Collaboration And Team Dynamics,32.93,33.07,0.14
+2017,AI,Communication Skills,9.45,9.45,0.0
+2017,AI,Creativity And Inovation,12.05,12.05,0.0
+2017,AI,Emotional Intelligence (Eq),1.22,1.24,0.02
+2017,AI,Problem-Solving And Critical Thinking,11.92,12.73,0.81
+2017,AI,Time Management And Organizational Skills,8.96,9.06,0.1
+2017,AI,Work Ethic And Professionalism,23.35,23.73,0.38
+2018,AI,Adaptability & Continuous Learning,10.58,10.58,0.0
+2018,AI,Collaboration And Team Dynamics,33.46,33.61,0.15
+2018,AI,Communication Skills,9.76,9.76,0.0
+2018,AI,Creativity And Inovation,11.86,11.86,0.0
+2018,AI,Emotional Intelligence (Eq),1.17,1.18,0.01
+2018,AI,Problem-Solving And Critical Thinking,11.79,12.6,0.81
+2018,AI,Time Management And Organizational Skills,9.49,9.5,0.01
+2018,AI,Work Ethic And Professionalism,23.92,24.28,0.36
+2019,AI,Adaptability & Continuous Learning,12.05,12.05,0.0
+2019,AI,Collaboration And Team Dynamics,35.03,35.14,0.11
+2019,AI,Communication Skills,8.65,8.65,0.0
+2019,AI,Creativity And Inovation,12.01,12.01,0.0
+2019,AI,Emotional Intelligence (Eq),1.45,1.5,0.05
+2019,AI,Problem-Solving And Critical Thinking,11.49,12.35,0.86
+2019,AI,Time Management And Organizational Skills,9.38,9.38,0.0
+2019,AI,Work Ethic And Professionalism,25.14,25.41,0.27
+2020,AI,Adaptability & Continuous Learning,10.06,10.06,0.0
+2020,AI,Collaboration And Team Dynamics,33.59,33.66,0.07
+2020,AI,Communication Skills,9.4,9.4,0.0
+2020,AI,Creativity And Inovation,10.85,10.85,0.0
+2020,AI,Emotional Intelligence (Eq),1.69,1.69,0.0
+2020,AI,Problem-Solving And Critical Thinking,9.67,10.3,0.63
+2020,AI,Time Management And Organizational Skills,8.68,8.69,0.01
+2020,AI,Work Ethic And Professionalism,24.82,25.13,0.31
+2021,AI,Adaptability & Continuous Learning,9.37,9.37,0.0
+2021,AI,Collaboration And Team Dynamics,33.59,33.7,0.11
+2021,AI,Communication Skills,9.7,9.7,0.0
+2021,AI,Creativity And Inovation,10.99,10.99,0.0
+2021,AI,Emotional Intelligence (Eq),1.82,1.83,0.01
+2021,AI,Problem-Solving And Critical Thinking,11.1,11.75,0.65
+2021,AI,Time Management And Organizational Skills,9.17,9.2,0.03
+2021,AI,Work Ethic And Professionalism,23.73,23.93,0.2
+2022,AI,Adaptability & Continuous Learning,10.06,10.06,0.0
+2022,AI,Collaboration And Team Dynamics,33.32,33.52,0.2
+2022,AI,Communication Skills,9.81,9.81,0.0
+2022,AI,Creativity And Inovation,9.6,9.6,0.0
+2022,AI,Emotional Intelligence (Eq),1.73,1.85,0.12
+2022,AI,Problem-Solving And Critical Thinking,11.29,11.7,0.41
+2022,AI,Time Management And Organizational Skills,10.05,10.06,0.01
+2022,AI,Work Ethic And Professionalism,23.42,23.85,0.43
+2023,AI,Adaptability & Continuous Learning,9.36,9.36,0.0
+2023,AI,Collaboration And Team Dynamics,34.39,34.54,0.15
+2023,AI,Communication Skills,9.26,9.26,0.0
+2023,AI,Creativity And Inovation,12.39,12.39,0.0
+2023,AI,Emotional Intelligence (Eq),0.91,1.03,0.12
+2023,AI,Problem-Solving And Critical Thinking,11.98,12.45,0.47
+2023,AI,Time Management And Organizational Skills,10.11,10.11,0.0
+2023,AI,Work Ethic And Professionalism,24.41,24.94,0.53
+2024,AI,Adaptability & Continuous Learning,6.81,6.81,0.0
+2024,AI,Collaboration And Team Dynamics,34.97,35.0,0.03
+2024,AI,Communication Skills,7.65,7.65,0.0
+2024,AI,Creativity And Inovation,11.74,11.74,0.0
+2024,AI,Emotional Intelligence (Eq),0.34,0.37,0.03
+2024,AI,Problem-Solving And Critical Thinking,11.74,12.36,0.62
+2024,AI,Time Management And Organizational Skills,9.68,9.68,0.0
+2024,AI,Work Ethic And Professionalism,23.1,23.73,0.63
+2012,Non-AI,Adaptability & Continuous Learning,6.33,6.33,0.0
+2012,Non-AI,Collaboration And Team Dynamics,14.71,14.93,0.22
+2012,Non-AI,Communication Skills,2.26,2.26,0.0
+2012,Non-AI,Creativity And Inovation,5.43,5.43,0.0
+2012,Non-AI,Emotional Intelligence (Eq),0.0,0.0,0.0
+2012,Non-AI,Problem-Solving And Critical Thinking,6.11,6.56,0.45
+2012,Non-AI,Time Management And Organizational Skills,3.85,3.85,0.0
+2012,Non-AI,Work Ethic And Professionalism,7.01,7.01,0.0
+2013,Non-AI,Adaptability & Continuous Learning,8.77,8.77,0.0
+2013,Non-AI,Collaboration And Team Dynamics,20.88,20.88,0.0
+2013,Non-AI,Communication Skills,4.59,4.59,0.0
+2013,Non-AI,Creativity And Inovation,8.77,8.77,0.0
+2013,Non-AI,Emotional Intelligence (Eq),0.84,0.84,0.0
+2013,Non-AI,Problem-Solving And Critical Thinking,8.77,9.39,0.62
+2013,Non-AI,Time Management And Organizational Skills,4.59,4.59,0.0
+2013,Non-AI,Work Ethic And Professionalism,11.48,11.48,0.0
+2014,Non-AI,Adaptability & Continuous Learning,8.59,8.59,0.0
+2014,Non-AI,Collaboration And Team Dynamics,21.09,21.09,0.0
+2014,Non-AI,Communication Skills,6.72,6.72,0.0
+2014,Non-AI,Creativity And Inovation,8.44,8.44,0.0
+2014,Non-AI,Emotional Intelligence (Eq),0.47,0.47,0.0
+2014,Non-AI,Problem-Solving And Critical Thinking,7.19,8.75,1.56
+2014,Non-AI,Time Management And Organizational Skills,6.09,6.09,0.0
+2014,Non-AI,Work Ethic And Professionalism,15.62,15.62,0.0
+2015,Non-AI,Adaptability & Continuous Learning,8.69,8.69,0.0
+2015,Non-AI,Collaboration And Team Dynamics,25.4,25.4,0.0
+2015,Non-AI,Communication Skills,6.8,6.8,0.0
+2015,Non-AI,Creativity And Inovation,10.76,10.76,0.0
+2015,Non-AI,Emotional Intelligence (Eq),0.57,0.57,0.0
+2015,Non-AI,Problem-Solving And Critical Thinking,8.69,9.07,0.38
+2015,Non-AI,Time Management And Organizational Skills,6.61,6.61,0.0
+2015,Non-AI,Work Ethic And Professionalism,17.0,17.0,0.0
+2016,Non-AI,Adaptability & Continuous Learning,8.99,8.99,0.0
+2016,Non-AI,Collaboration And Team Dynamics,30.76,30.76,0.0
+2016,Non-AI,Communication Skills,5.42,5.42,0.0
+2016,Non-AI,Creativity And Inovation,9.29,9.29,0.0
+2016,Non-AI,Emotional Intelligence (Eq),1.11,1.19,0.08
+2016,Non-AI,Problem-Solving And Critical Thinking,9.21,9.96,0.75
+2016,Non-AI,Time Management And Organizational Skills,5.87,5.87,0.0
+2016,Non-AI,Work Ethic And Professionalism,18.42,18.57,0.15
+2017,Non-AI,Adaptability & Continuous Learning,9.68,9.68,0.0
+2017,Non-AI,Collaboration And Team Dynamics,29.68,29.73,0.05
+2017,Non-AI,Communication Skills,5.49,5.49,0.0
+2017,Non-AI,Creativity And Inovation,9.2,9.2,0.0
+2017,Non-AI,Emotional Intelligence (Eq),0.29,0.29,0.0
+2017,Non-AI,Problem-Solving And Critical Thinking,8.67,9.03,0.36
+2017,Non-AI,Time Management And Organizational Skills,5.9,5.9,0.0
+2017,Non-AI,Work Ethic And Professionalism,20.83,20.88,0.05
+2018,Non-AI,Adaptability & Continuous Learning,9.99,9.99,0.0
+2018,Non-AI,Collaboration And Team Dynamics,31.24,31.41,0.17
+2018,Non-AI,Communication Skills,6.87,6.87,0.0
+2018,Non-AI,Creativity And Inovation,10.97,10.97,0.0
+2018,Non-AI,Emotional Intelligence (Eq),1.27,1.27,0.0
+2018,Non-AI,Problem-Solving And Critical Thinking,9.58,9.7,0.12
+2018,Non-AI,Time Management And Organizational Skills,5.02,5.02,0.0
+2018,Non-AI,Work Ethic And Professionalism,19.92,20.03,0.11
+2019,Non-AI,Adaptability & Continuous Learning,7.61,7.61,0.0
+2019,Non-AI,Collaboration And Team Dynamics,32.8,32.8,0.0
+2019,Non-AI,Communication Skills,7.61,7.61,0.0
+2019,Non-AI,Creativity And Inovation,10.52,10.52,0.0
+2019,Non-AI,Emotional Intelligence (Eq),0.74,0.74,0.0
+2019,Non-AI,Problem-Solving And Critical Thinking,7.86,8.54,0.68
+2019,Non-AI,Time Management And Organizational Skills,6.25,6.25,0.0
+2019,Non-AI,Work Ethic And Professionalism,23.7,23.89,0.19
+2020,Non-AI,Adaptability & Continuous Learning,6.41,6.41,0.0
+2020,Non-AI,Collaboration And Team Dynamics,30.99,30.99,0.0
+2020,Non-AI,Communication Skills,6.83,6.83,0.0
+2020,Non-AI,Creativity And Inovation,9.58,9.58,0.0
+2020,Non-AI,Emotional Intelligence (Eq),0.56,0.56,0.0
+2020,Non-AI,Problem-Solving And Critical Thinking,6.83,7.68,0.85
+2020,Non-AI,Time Management And Organizational Skills,6.76,6.76,0.0
+2020,Non-AI,Work Ethic And Professionalism,16.69,16.76,0.07
+2021,Non-AI,Adaptability & Continuous Learning,6.73,6.73,0.0
+2021,Non-AI,Collaboration And Team Dynamics,28.85,28.85,0.0
+2021,Non-AI,Communication Skills,6.46,6.46,0.0
+2021,Non-AI,Creativity And Inovation,8.69,8.69,0.0
+2021,Non-AI,Emotional Intelligence (Eq),0.89,0.89,0.0
+2021,Non-AI,Problem-Solving And Critical Thinking,5.66,5.97,0.31
+2021,Non-AI,Time Management And Organizational Skills,6.29,6.29,0.0
+2021,Non-AI,Work Ethic And Professionalism,20.69,20.73,0.04
+2022,Non-AI,Adaptability & Continuous Learning,7.26,7.26,0.0
+2022,Non-AI,Collaboration And Team Dynamics,31.49,31.55,0.06
+2022,Non-AI,Communication Skills,6.72,6.72,0.0
+2022,Non-AI,Creativity And Inovation,8.76,8.76,0.0
+2022,Non-AI,Emotional Intelligence (Eq),0.3,0.3,0.0
+2022,Non-AI,Problem-Solving And Critical Thinking,7.2,7.62,0.42
+2022,Non-AI,Time Management And Organizational Skills,5.34,5.34,0.0
+2022,Non-AI,Work Ethic And Professionalism,16.02,16.26,0.24
+2023,Non-AI,Adaptability & Continuous Learning,8.34,8.34,0.0
+2023,Non-AI,Collaboration And Team Dynamics,27.14,27.14,0.0
+2023,Non-AI,Communication Skills,6.9,6.9,0.0
+2023,Non-AI,Creativity And Inovation,8.12,8.12,0.0
+2023,Non-AI,Emotional Intelligence (Eq),0.33,0.33,0.0
+2023,Non-AI,Problem-Solving And Critical Thinking,6.67,7.56,0.89
+2023,Non-AI,Time Management And Organizational Skills,5.34,5.34,0.0
+2023,Non-AI,Work Ethic And Professionalism,19.47,19.58,0.11
+2024,Non-AI,Adaptability & Continuous Learning,8.7,8.7,0.0
+2024,Non-AI,Collaboration And Team Dynamics,32.68,32.68,0.0
+2024,Non-AI,Communication Skills,6.9,6.9,0.0
+2024,Non-AI,Creativity And Inovation,8.55,8.55,0.0
+2024,Non-AI,Emotional Intelligence (Eq),1.05,1.05,0.0
+2024,Non-AI,Problem-Solving And Critical Thinking,7.65,7.65,0.0
+2024,Non-AI,Time Management And Organizational Skills,5.4,5.4,0.0
+2024,Non-AI,Work Ethic And Professionalism,17.09,17.09,0.0

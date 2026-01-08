@@ -1,0 +1,9 @@
+domain,v1_avg_coverage,v2_avg_coverage,absolute_change,percent_change,interpretation
+Problem-Solving And Critical Thinking,11.26,12.02,0.76,6.76,Calibration increased coverage by 0.8 percentage points
+Work Ethic And Professionalism,22.12,22.58,0.46,2.09,Calibration increased coverage by 0.5 percentage points
+Collaboration And Team Dynamics,32.04,32.14,0.1,0.3,Calibration increased coverage by 0.1 percentage points
+Emotional Intelligence (Eq),1.01,1.04,0.03,2.97,Calibration increased coverage by 0.0 percentage points
+Time Management And Organizational Skills,8.61,8.64,0.03,0.38,Calibration increased coverage by 0.0 percentage points
+Creativity And Inovation,11.41,11.41,0.0,0.0,Calibration decreased coverage by 0.0 percentage points
+Adaptability & Continuous Learning,10.7,10.7,0.0,0.0,Calibration decreased coverage by 0.0 percentage points
+Communication Skills,9.29,9.29,0.0,0.0,Calibration decreased coverage by 0.0 percentage points
