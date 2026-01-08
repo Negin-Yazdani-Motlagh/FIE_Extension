@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-01-07T12:19:58.346463",
+  "total_postings": 148047,
+  "unique_technical_skills": 600740,
+  "top_10_technical_skills": [
+    {
+      "skill": "project management",
+      "frequency": 29017
+    },
+    {
+      "skill": "python",
+      "frequency": 19019
+    },
+    {
+      "skill": "data analysis",
+      "frequency": 16886
+    },
+    {
+      "skill": "problem solving",
+      "frequency": 15370
+    },
+    {
+      "skill": "sql",
+      "frequency": 14204
+    },
+    {
+      "skill": "problemsolving",
+      "frequency": 11861
+    },
+    {
+      "skill": "attention to detail",
+      "frequency": 11198
+    },
+    {
+      "skill": "electrical engineering",
+      "frequency": 11047
+    },
+    {
+      "skill": "analytical skills",
+      "frequency": 10723
+    },
+    {
+      "skill": "java",
+      "frequency": 10585
+    }
+  ]
+}

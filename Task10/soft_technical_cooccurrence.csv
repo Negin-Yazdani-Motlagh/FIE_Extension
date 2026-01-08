@@ -1,0 +1,801 @@
+soft_domain,technical_skill,cooccurrence_count,percentage_of_postings
+Collaboration And Team Dynamics,project management,27894,18.84
+Work Ethic And Professionalism,project management,24929,16.84
+Time Management And Organizational Skills,project management,20263,13.69
+Problem-Solving And Critical Thinking,project management,20159,13.62
+Communication Skills,project management,19961,13.48
+Collaboration And Team Dynamics,python,17033,11.51
+Collaboration And Team Dynamics,data analysis,15448,10.43
+Problem-Solving And Critical Thinking,data analysis,14820,10.01
+Work Ethic And Professionalism,data analysis,14455,9.76
+Collaboration And Team Dynamics,problem solving,14344,9.69
+Work Ethic And Professionalism,python,14094,9.52
+Work Ethic And Professionalism,problem solving,13527,9.14
+Problem-Solving And Critical Thinking,python,12838,8.67
+Creativity And Inovation,project management,12823,8.66
+Problem-Solving And Critical Thinking,problem solving,12757,8.62
+Collaboration And Team Dynamics,sql,12685,8.57
+Time Management And Organizational Skills,data analysis,11940,8.07
+Adaptability & Continuous Learning,project management,11937,8.06
+Communication Skills,data analysis,11334,7.66
+Collaboration And Team Dynamics,problemsolving,10979,7.42
+Time Management And Organizational Skills,python,10978,7.42
+Communication Skills,problem solving,10925,7.38
+Time Management And Organizational Skills,problem solving,10877,7.35
+Work Ethic And Professionalism,attention to detail,10630,7.18
+Work Ethic And Professionalism,problemsolving,10523,7.11
+Collaboration And Team Dynamics,attention to detail,10338,6.98
+Work Ethic And Professionalism,sql,10322,6.97
+Problem-Solving And Critical Thinking,sql,10252,6.92
+Problem-Solving And Critical Thinking,analytical skills,10044,6.78
+Collaboration And Team Dynamics,analytical skills,10017,6.77
+Problem-Solving And Critical Thinking,problemsolving,9984,6.74
+Collaboration And Team Dynamics,electrical engineering,9841,6.65
+Work Ethic And Professionalism,analytical skills,9465,6.39
+Collaboration And Team Dynamics,java,9424,6.37
+Adaptability & Continuous Learning,python,9404,6.35
+Communication Skills,python,9224,6.23
+Work Ethic And Professionalism,electrical engineering,9174,6.2
+Time Management And Organizational Skills,sql,9066,6.12
+Creativity And Inovation,python,8815,5.95
+Collaboration And Team Dynamics,bachelor's degree,8715,5.89
+Collaboration And Team Dynamics,autocad,8633,5.83
+Communication Skills,problemsolving,8603,5.81
+Communication Skills,analytical skills,8540,5.77
+Communication Skills,attention to detail,8461,5.72
+Collaboration And Team Dynamics,aws,8461,5.72
+Collaboration And Team Dynamics,mechanical engineering,8455,5.71
+Time Management And Organizational Skills,problemsolving,8413,5.68
+Problem-Solving And Critical Thinking,attention to detail,8284,5.6
+Time Management And Organizational Skills,attention to detail,8113,5.48
+Work Ethic And Professionalism,autocad,8049,5.44
+Work Ethic And Professionalism,mechanical engineering,7999,5.4
+Collaboration And Team Dynamics,engineering,7926,5.35
+Time Management And Organizational Skills,analytical skills,7910,5.34
+Collaboration And Team Dynamics,time management,7817,5.28
+Communication Skills,sql,7623,5.15
+Adaptability & Continuous Learning,sql,7616,5.14
+Problem-Solving And Critical Thinking,electrical engineering,7582,5.12
+Work Ethic And Professionalism,bachelor's degree,7521,5.08
+Collaboration And Team Dynamics,civil engineering,7366,4.98
+Work Ethic And Professionalism,time management,7343,4.96
+Creativity And Inovation,problem solving,7340,4.96
+Creativity And Inovation,data analysis,7296,4.93
+Work Ethic And Professionalism,engineering,7291,4.92
+Work Ethic And Professionalism,java,6940,4.69
+Time Management And Organizational Skills,time management,6860,4.63
+Adaptability & Continuous Learning,problem solving,6834,4.62
+Problem-Solving And Critical Thinking,mechanical engineering,6746,4.56
+Problem-Solving And Critical Thinking,bachelor's degree,6735,4.55
+Communication Skills,electrical engineering,6661,4.5
+Adaptability & Continuous Learning,java,6630,4.48
+Time Management And Organizational Skills,bachelor's degree,6538,4.42
+Work Ethic And Professionalism,civil engineering,6519,4.4
+Collaboration And Team Dynamics,computer science,6483,4.38
+Adaptability & Continuous Learning,data analysis,6464,4.37
+Communication Skills,autocad,6376,4.31
+Collaboration And Team Dynamics,software development,6376,4.31
+Communication Skills,time management,6341,4.28
+Collaboration And Team Dynamics,microsoft office suite,6299,4.25
+Work Ethic And Professionalism,aws,6261,4.23
+Time Management And Organizational Skills,java,6230,4.21
+Collaboration And Team Dynamics,javascript,6149,4.15
+Collaboration And Team Dynamics,microsoft office,6121,4.13
+Problem-Solving And Critical Thinking,java,6040,4.08
+Problem-Solving And Critical Thinking,engineering,6017,4.06
+Time Management And Organizational Skills,electrical engineering,5976,4.04
+Work Ethic And Professionalism,microsoft office,5939,4.01
+Work Ethic And Professionalism,microsoft office suite,5905,3.99
+Time Management And Organizational Skills,autocad,5883,3.97
+Creativity And Inovation,sql,5856,3.96
+Time Management And Organizational Skills,engineering,5821,3.93
+Problem-Solving And Critical Thinking,time management,5814,3.93
+Problem-Solving And Critical Thinking,autocad,5741,3.88
+Communication Skills,mechanical engineering,5735,3.87
+Work Ethic And Professionalism,computer science,5681,3.84
+Creativity And Inovation,problemsolving,5671,3.83
+Collaboration And Team Dynamics,software engineering,5666,3.83
+Time Management And Organizational Skills,mechanical engineering,5625,3.8
+Adaptability & Continuous Learning,aws,5621,3.8
+Work Ethic And Professionalism,software development,5585,3.77
+Time Management And Organizational Skills,aws,5543,3.74
+Problem-Solving And Critical Thinking,computer science,5464,3.69
+Communication Skills,bachelor's degree,5459,3.69
+Communication Skills,civil engineering,5407,3.65
+Collaboration And Team Dynamics,excel,5374,3.63
+Collaboration And Team Dynamics,documentation,5358,3.62
+Collaboration And Team Dynamics,machine learning,5292,3.57
+Adaptability & Continuous Learning,problemsolving,5287,3.57
+Time Management And Organizational Skills,organizational skills,5279,3.57
+Communication Skills,engineering,5274,3.56
+Collaboration And Team Dynamics,linux,5243,3.54
+Work Ethic And Professionalism,customer service,5193,3.51
+Collaboration And Team Dynamics,kubernetes,5192,3.51
+Collaboration And Team Dynamics,customer service,5159,3.48
+Problem-Solving And Critical Thinking,aws,5157,3.48
+Creativity And Inovation,attention to detail,5156,3.48
+Communication Skills,microsoft office suite,5139,3.47
+Collaboration And Team Dynamics,organizational skills,5126,3.46
+Time Management And Organizational Skills,civil engineering,5121,3.46
+Communication Skills,microsoft office,5067,3.42
+Creativity And Inovation,analytical skills,5066,3.42
+Work Ethic And Professionalism,excel,5044,3.41
+Creativity And Inovation,electrical engineering,5025,3.39
+Work Ethic And Professionalism,documentation,5024,3.39
+Work Ethic And Professionalism,organizational skills,4961,3.35
+Problem-Solving And Critical Thinking,microsoft office suite,4959,3.35
+Collaboration And Team Dynamics,problemsolving skills,4931,3.33
+Collaboration And Team Dynamics,technical writing,4920,3.32
+Collaboration And Team Dynamics,docker,4906,3.31
+Communication Skills,organizational skills,4876,3.29
+Work Ethic And Professionalism,javascript,4860,3.28
+Collaboration And Team Dynamics,design,4839,3.27
+Problem-Solving And Critical Thinking,software development,4837,3.27
+Time Management And Organizational Skills,microsoft office suite,4828,3.26
+Problem-Solving And Critical Thinking,problemsolving skills,4809,3.25
+Adaptability & Continuous Learning,attention to detail,4796,3.24
+Work Ethic And Professionalism,problemsolving skills,4778,3.23
+Adaptability & Continuous Learning,analytical skills,4773,3.22
+Problem-Solving And Critical Thinking,excel,4766,3.22
+Problem-Solving And Critical Thinking,microsoft office,4763,3.22
+Collaboration And Team Dynamics,azure,4723,3.19
+Time Management And Organizational Skills,microsoft office,4664,3.15
+Problem-Solving And Critical Thinking,documentation,4657,3.15
+Work Ethic And Professionalism,technical writing,4648,3.14
+Time Management And Organizational Skills,computer science,4566,3.08
+Problem-Solving And Critical Thinking,civil engineering,4561,3.08
+Adaptability & Continuous Learning,javascript,4559,3.08
+Work Ethic And Professionalism,linux,4531,3.06
+Work Ethic And Professionalism,machine learning,4528,3.06
+Collaboration And Team Dynamics,testing,4478,3.02
+Collaboration And Team Dynamics,c++,4441,3.0
+Problem-Solving And Critical Thinking,linux,4428,2.99
+Collaboration And Team Dynamics,risk management,4416,2.98
+Collaboration And Team Dynamics,automation,4412,2.98
+Creativity And Inovation,java,4400,2.97
+Communication Skills,java,4398,2.97
+Work Ethic And Professionalism,design,4382,2.96
+Problem-Solving And Critical Thinking,organizational skills,4379,2.96
+Creativity And Inovation,aws,4379,2.96
+Communication Skills,excel,4370,2.95
+Collaboration And Team Dynamics,multitasking,4356,2.94
+Problem-Solving And Critical Thinking,javascript,4344,2.93
+Work Ethic And Professionalism,software engineering,4326,2.92
+Collaboration And Team Dynamics,cloud computing,4326,2.92
+Communication Skills,problemsolving skills,4298,2.9
+Collaboration And Team Dynamics,presentation skills,4298,2.9
+Creativity And Inovation,mechanical engineering,4291,2.9
+Work Ethic And Professionalism,multitasking,4270,2.88
+Adaptability & Continuous Learning,bachelor's degree,4218,2.85
+Communication Skills,computer science,4213,2.85
+Creativity And Inovation,autocad,4191,2.83
+Time Management And Organizational Skills,excel,4174,2.82
+Work Ethic And Professionalism,testing,4144,2.8
+Collaboration And Team Dynamics,reporting,4138,2.8
+Collaboration And Team Dynamics,devops,4134,2.79
+Work Ethic And Professionalism,automation,4124,2.79
+Creativity And Inovation,engineering,4084,2.76
+Time Management And Organizational Skills,software development,4054,2.74
+Collaboration And Team Dynamics,git,4045,2.73
+Creativity And Inovation,bachelor's degree,4040,2.73
+Communication Skills,presentation skills,4038,2.73
+Work Ethic And Professionalism,azure,4033,2.72
+Problem-Solving And Critical Thinking,technical writing,4032,2.72
+Time Management And Organizational Skills,javascript,4027,2.72
+Problem-Solving And Critical Thinking,customer service,4027,2.72
+Work Ethic And Professionalism,c++,3945,2.66
+Communication Skills,multitasking,3937,2.66
+Work Ethic And Professionalism,risk management,3919,2.65
+Communication Skills,technical writing,3909,2.64
+Problem-Solving And Critical Thinking,testing,3898,2.63
+Problem-Solving And Critical Thinking,machine learning,3890,2.63
+Time Management And Organizational Skills,multitasking,3878,2.62
+Collaboration And Team Dynamics,jira,3866,2.61
+Work Ethic And Professionalism,presentation skills,3859,2.61
+Work Ethic And Professionalism,reporting,3849,2.6
+Collaboration And Team Dynamics,data visualization,3844,2.6
+Emotional Intelligence (Eq),project management,3802,2.57
+Time Management And Organizational Skills,problemsolving skills,3771,2.55
+Problem-Solving And Critical Thinking,multitasking,3741,2.53
+Communication Skills,documentation,3738,2.52
+Adaptability & Continuous Learning,software development,3736,2.52
+Problem-Solving And Critical Thinking,data visualization,3726,2.52
+Adaptability & Continuous Learning,electrical engineering,3724,2.52
+Communication Skills,aws,3717,2.51
+Problem-Solving And Critical Thinking,automation,3704,2.5
+Time Management And Organizational Skills,documentation,3699,2.5
+Problem-Solving And Critical Thinking,azure,3695,2.5
+Problem-Solving And Critical Thinking,design,3684,2.49
+Time Management And Organizational Skills,software engineering,3664,2.47
+Work Ethic And Professionalism,git,3648,2.46
+Collaboration And Team Dynamics,budgeting,3646,2.46
+Communication Skills,software development,3646,2.46
+Creativity And Inovation,software development,3645,2.46
+Problem-Solving And Critical Thinking,c++,3645,2.46
+Collaboration And Team Dynamics,training,3643,2.46
+Time Management And Organizational Skills,technical writing,3641,2.46
+Adaptability & Continuous Learning,software engineering,3632,2.45
+Problem-Solving And Critical Thinking,presentation skills,3627,2.45
+Work Ethic And Professionalism,kubernetes,3622,2.45
+Creativity And Inovation,time management,3605,2.44
+Work Ethic And Professionalism,data visualization,3585,2.42
+Problem-Solving And Critical Thinking,reporting,3581,2.42
+Time Management And Organizational Skills,customer service,3581,2.42
+Work Ethic And Professionalism,devops,3562,2.41
+Creativity And Inovation,machine learning,3539,2.39
+Adaptability & Continuous Learning,time management,3481,2.35
+Adaptability & Continuous Learning,engineering,3476,2.35
+Time Management And Organizational Skills,machine learning,3438,2.32
+Work Ethic And Professionalism,training,3430,2.32
+Creativity And Inovation,computer science,3420,2.31
+Adaptability & Continuous Learning,autocad,3411,2.3
+Work Ethic And Professionalism,docker,3409,2.3
+Communication Skills,javascript,3403,2.3
+Problem-Solving And Critical Thinking,software engineering,3390,2.29
+Work Ethic And Professionalism,jira,3387,2.29
+Problem-Solving And Critical Thinking,risk management,3384,2.29
+Creativity And Inovation,civil engineering,3373,2.28
+Adaptability & Continuous Learning,kubernetes,3372,2.28
+Collaboration And Team Dynamics,manufacturing,3366,2.27
+Adaptability & Continuous Learning,docker,3357,2.27
+Work Ethic And Professionalism,budgeting,3349,2.26
+Problem-Solving And Critical Thinking,git,3336,2.25
+Communication Skills,customer service,3325,2.25
+Collaboration And Team Dynamics,networking,3306,2.23
+Time Management And Organizational Skills,presentation skills,3291,2.22
+Time Management And Organizational Skills,risk management,3289,2.22
+Time Management And Organizational Skills,design,3278,2.21
+Work Ethic And Professionalism,manufacturing,3256,2.2
+Work Ethic And Professionalism,cloud computing,3253,2.2
+Adaptability & Continuous Learning,computer science,3240,2.19
+Time Management And Organizational Skills,reporting,3234,2.18
+Creativity And Inovation,software engineering,3224,2.18
+Adaptability & Continuous Learning,civil engineering,3222,2.18
+Communication Skills,design,3215,2.17
+Problem-Solving And Critical Thinking,root cause analysis,3207,2.17
+Time Management And Organizational Skills,kubernetes,3197,2.16
+Collaboration And Team Dynamics,security,3160,2.13
+Collaboration And Team Dynamics,c#,3159,2.13
+Work Ethic And Professionalism,networking,3152,2.13
+Time Management And Organizational Skills,linux,3132,2.12
+Collaboration And Team Dynamics,root cause analysis,3114,2.1
+Adaptability & Continuous Learning,linux,3105,2.1
+Time Management And Organizational Skills,docker,3097,2.09
+Work Ethic And Professionalism,root cause analysis,3093,2.09
+Collaboration And Team Dynamics,systems engineering,3071,2.07
+Problem-Solving And Critical Thinking,jira,3068,2.07
+Communication Skills,linux,3060,2.07
+Collaboration And Team Dynamics,data management,3058,2.07
+Collaboration And Team Dynamics,go,3047,2.06
+Adaptability & Continuous Learning,mechanical engineering,3029,2.05
+Work Ethic And Professionalism,security,3021,2.04
+Collaboration And Team Dynamics,travel,3021,2.04
+Collaboration And Team Dynamics,research,3018,2.04
+Time Management And Organizational Skills,azure,3018,2.04
+Time Management And Organizational Skills,budgeting,3012,2.03
+Problem-Solving And Critical Thinking,networking,3001,2.03
+Communication Skills,risk management,2995,2.02
+Adaptability & Continuous Learning,jira,2984,2.02
+Problem-Solving And Critical Thinking,devops,2972,2.01
+Collaboration And Team Dynamics,scheduling,2967,2.0
+Time Management And Organizational Skills,cloud computing,2966,2.0
+Time Management And Organizational Skills,testing,2962,2.0
+Creativity And Inovation,javascript,2960,2.0
+Collaboration And Team Dynamics,revit,2949,1.99
+Communication Skills,machine learning,2948,1.99
+Creativity And Inovation,c++,2929,1.98
+Collaboration And Team Dynamics,master's degree,2928,1.98
+Adaptability & Continuous Learning,git,2915,1.97
+Collaboration And Team Dynamics,business analysis,2909,1.96
+Work Ethic And Professionalism,travel,2908,1.96
+Problem-Solving And Critical Thinking,training,2881,1.95
+Collaboration And Team Dynamics,tableau,2877,1.94
+Adaptability & Continuous Learning,cloud computing,2874,1.94
+Time Management And Organizational Skills,data visualization,2860,1.93
+Problem-Solving And Critical Thinking,kubernetes,2854,1.93
+Problem-Solving And Critical Thinking,cloud computing,2846,1.92
+Problem-Solving And Critical Thinking,manufacturing,2833,1.91
+Problem-Solving And Critical Thinking,business analysis,2829,1.91
+Work Ethic And Professionalism,c#,2826,1.91
+Problem-Solving And Critical Thinking,budgeting,2817,1.9
+Collaboration And Team Dynamics,html,2816,1.9
+Communication Skills,testing,2811,1.9
+Time Management And Organizational Skills,automation,2811,1.9
+Creativity And Inovation,linux,2809,1.9
+Adaptability & Continuous Learning,microsoft office suite,2804,1.89
+Problem-Solving And Critical Thinking,tableau,2799,1.89
+Communication Skills,reporting,2788,1.88
+Communication Skills,c++,2781,1.88
+Creativity And Inovation,microsoft office suite,2768,1.87
+Adaptability & Continuous Learning,devops,2765,1.87
+Collaboration And Team Dynamics,team leadership,2764,1.87
+Collaboration And Team Dynamics,react,2764,1.87
+Work Ethic And Professionalism,research,2758,1.86
+Work Ethic And Professionalism,data management,2749,1.86
+Communication Skills,data visualization,2748,1.86
+Collaboration And Team Dynamics,cad,2738,1.85
+Work Ethic And Professionalism,scheduling,2733,1.85
+Collaboration And Team Dynamics,windows,2732,1.85
+Work Ethic And Professionalism,revit,2730,1.84
+Time Management And Organizational Skills,jira,2725,1.84
+Collaboration And Team Dynamics,scrum,2721,1.84
+Adaptability & Continuous Learning,azure,2676,1.81
+Problem-Solving And Critical Thinking,security,2675,1.81
+Creativity And Inovation,kubernetes,2673,1.81
+Problem-Solving And Critical Thinking,statistical analysis,2665,1.8
+Collaboration And Team Dynamics,process improvement,2662,1.8
+Communication Skills,jira,2653,1.79
+Collaboration And Team Dynamics,continuous improvement,2645,1.79
+Creativity And Inovation,microsoft office,2645,1.79
+Collaboration And Team Dynamics,data analytics,2643,1.79
+Collaboration And Team Dynamics,agile development,2632,1.78
+Work Ethic And Professionalism,tableau,2630,1.78
+Time Management And Organizational Skills,training,2625,1.77
+Time Management And Organizational Skills,devops,2623,1.77
+Problem-Solving And Critical Thinking,docker,2622,1.77
+Collaboration And Team Dynamics,css,2614,1.77
+Problem-Solving And Critical Thinking,data management,2610,1.76
+Time Management And Organizational Skills,c++,2608,1.76
+Communication Skills,budgeting,2605,1.76
+Time Management And Organizational Skills,git,2604,1.76
+Collaboration And Team Dynamics,statistical analysis,2603,1.76
+Work Ethic And Professionalism,cad,2598,1.75
+Adaptability & Continuous Learning,machine learning,2597,1.75
+Collaboration And Team Dynamics,ansible,2590,1.75
+Work Ethic And Professionalism,safety,2582,1.74
+Creativity And Inovation,design,2580,1.74
+Work Ethic And Professionalism,continuous improvement,2577,1.74
+Collaboration And Team Dynamics,unit testing,2569,1.74
+Creativity And Inovation,technical writing,2568,1.73
+Problem-Solving And Critical Thinking,c#,2563,1.73
+Collaboration And Team Dynamics,typescript,2558,1.73
+Communication Skills,git,2557,1.73
+Creativity And Inovation,azure,2555,1.73
+Work Ethic And Professionalism,statistical analysis,2555,1.73
+Collaboration And Team Dynamics,safety,2551,1.72
+Work Ethic And Professionalism,process improvement,2533,1.71
+Collaboration And Team Dynamics,active directory,2524,1.7
+Problem-Solving And Critical Thinking,research,2522,1.7
+Problem-Solving And Critical Thinking,systems engineering,2512,1.7
+Communication Skills,software engineering,2511,1.7
+Creativity And Inovation,docker,2503,1.69
+Creativity And Inovation,problemsolving skills,2489,1.68
+Collaboration And Team Dynamics,structural engineering,2486,1.68
+Adaptability & Continuous Learning,scrum,2485,1.68
+Communication Skills,automation,2483,1.68
+Work Ethic And Professionalism,systems engineering,2468,1.67
+Collaboration And Team Dynamics,powershell,2449,1.65
+Work Ethic And Professionalism,business analysis,2448,1.65
+Communication Skills,training,2448,1.65
+Creativity And Inovation,documentation,2445,1.65
+Communication Skills,azure,2437,1.65
+Work Ethic And Professionalism,react,2425,1.64
+Adaptability & Continuous Learning,c++,2422,1.64
+Work Ethic And Professionalism,master's degree,2421,1.64
+Work Ethic And Professionalism,team leadership,2420,1.63
+Work Ethic And Professionalism,html,2418,1.63
+Problem-Solving And Critical Thinking,windows,2412,1.63
+Adaptability & Continuous Learning,agile development,2406,1.63
+Collaboration And Team Dynamics,microsoft excel,2404,1.62
+Adaptability & Continuous Learning,documentation,2398,1.62
+Adaptability & Continuous Learning,technical writing,2395,1.62
+Work Ethic And Professionalism,windows,2384,1.61
+Creativity And Inovation,organizational skills,2383,1.61
+Collaboration And Team Dynamics,powerpoint,2372,1.6
+Collaboration And Team Dynamics,chemical engineering,2371,1.6
+Collaboration And Team Dynamics,jenkins,2368,1.6
+Adaptability & Continuous Learning,microsoft office,2365,1.6
+Collaboration And Team Dynamics,solidworks,2363,1.6
+Work Ethic And Professionalism,data analytics,2363,1.6
+Communication Skills,travel,2363,1.6
+Work Ethic And Professionalism,scrum,2362,1.6
+Problem-Solving And Critical Thinking,data analytics,2356,1.59
+Problem-Solving And Critical Thinking,process improvement,2352,1.59
+Problem-Solving And Critical Thinking,active directory,2352,1.59
+Collaboration And Team Dynamics,microservices,2339,1.58
+Adaptability & Continuous Learning,customer service,2321,1.57
+Collaboration And Team Dynamics,terraform,2318,1.57
+Creativity And Inovation,presentation skills,2318,1.57
+Collaboration And Team Dynamics,matlab,2313,1.56
+Problem-Solving And Critical Thinking,master's degree,2306,1.56
+Work Ethic And Professionalism,unit testing,2304,1.56
+Time Management And Organizational Skills,manufacturing,2299,1.55
+Collaboration And Team Dynamics,nosql,2298,1.55
+Adaptability & Continuous Learning,problemsolving skills,2293,1.55
+Time Management And Organizational Skills,root cause analysis,2292,1.55
+Time Management And Organizational Skills,scheduling,2289,1.55
+Creativity And Inovation,testing,2284,1.54
+Work Ethic And Professionalism,microsoft excel,2282,1.54
+Adaptability & Continuous Learning,testing,2279,1.54
+Collaboration And Team Dynamics,statistics,2270,1.53
+Collaboration And Team Dynamics,specifications,2268,1.53
+Problem-Solving And Critical Thinking,travel,2268,1.53
+Collaboration And Team Dynamics,programming,2265,1.53
+Creativity And Inovation,devops,2264,1.53
+Work Ethic And Professionalism,chemical engineering,2259,1.53
+Work Ethic And Professionalism,agile development,2258,1.53
+Time Management And Organizational Skills,business analysis,2254,1.52
+Adaptability & Continuous Learning,organizational skills,2253,1.52
+Creativity And Inovation,git,2253,1.52
+Emotional Intelligence (Eq),problem solving,2252,1.52
+Work Ethic And Professionalism,solidworks,2240,1.51
+Work Ethic And Professionalism,powerpoint,2240,1.51
+Work Ethic And Professionalism,css,2238,1.51
+Problem-Solving And Critical Thinking,matlab,2238,1.51
+Problem-Solving And Critical Thinking,continuous improvement,2230,1.51
+Communication Skills,business analysis,2226,1.5
+Time Management And Organizational Skills,tableau,2226,1.5
+Work Ethic And Professionalism,ansible,2225,1.5
+Creativity And Inovation,excel,2223,1.5
+Collaboration And Team Dynamics,data science,2221,1.5
+Time Management And Organizational Skills,travel,2221,1.5
+Time Management And Organizational Skills,master's degree,2220,1.5
+Work Ethic And Professionalism,active directory,2218,1.5
+Work Ethic And Professionalism,powershell,2217,1.5
+Time Management And Organizational Skills,data management,2216,1.5
+Collaboration And Team Dynamics,power bi,2215,1.5
+Creativity And Inovation,multitasking,2211,1.49
+Problem-Solving And Critical Thinking,statistics,2207,1.49
+Time Management And Organizational Skills,research,2205,1.49
+Adaptability & Continuous Learning,design,2191,1.48
+Problem-Solving And Critical Thinking,power bi,2188,1.48
+Communication Skills,manufacturing,2184,1.48
+Collaboration And Team Dynamics,ci/cd,2182,1.47
+Problem-Solving And Critical Thinking,html,2175,1.47
+Communication Skills,research,2174,1.47
+Collaboration And Team Dynamics,product development,2171,1.47
+Communication Skills,tableau,2167,1.46
+Work Ethic And Professionalism,structural engineering,2164,1.46
+Adaptability & Continuous Learning,excel,2149,1.45
+Time Management And Organizational Skills,process improvement,2146,1.45
+Communication Skills,revit,2140,1.45
+Time Management And Organizational Skills,systems engineering,2115,1.43
+Work Ethic And Professionalism,specifications,2105,1.42
+Work Ethic And Professionalism,programming,2102,1.42
+Work Ethic And Professionalism,statistics,2102,1.42
+Problem-Solving And Critical Thinking,scrum,2102,1.42
+Creativity And Inovation,cloud computing,2101,1.42
+Communication Skills,data management,2100,1.42
+Problem-Solving And Critical Thinking,powerpoint,2098,1.42
+Adaptability & Continuous Learning,multitasking,2092,1.41
+Emotional Intelligence (Eq),data analysis,2088,1.41
+Work Ethic And Professionalism,product development,2072,1.4
+Creativity And Inovation,jira,2072,1.4
+Communication Skills,devops,2071,1.4
+Adaptability & Continuous Learning,risk management,2071,1.4
+Emotional Intelligence (Eq),analytical skills,2070,1.4
+Creativity And Inovation,automation,2069,1.4
+Problem-Solving And Critical Thinking,microsoft excel,2069,1.4
+Collaboration And Team Dynamics,maintenance,2067,1.4
+Communication Skills,networking,2063,1.39
+Communication Skills,c#,2058,1.39
+Problem-Solving And Critical Thinking,cad,2055,1.39
+Time Management And Organizational Skills,continuous improvement,2054,1.39
+Work Ethic And Professionalism,matlab,2052,1.39
+Time Management And Organizational Skills,networking,2041,1.38
+Work Ethic And Professionalism,terraform,2039,1.38
+Communication Skills,root cause analysis,2036,1.38
+Problem-Solving And Critical Thinking,solidworks,2027,1.37
+Time Management And Organizational Skills,safety,2012,1.36
+Work Ethic And Professionalism,jenkins,2011,1.36
+Work Ethic And Professionalism,power bi,2010,1.36
+Problem-Solving And Critical Thinking,programming,2010,1.36
+Adaptability & Continuous Learning,html,2006,1.35
+Creativity And Inovation,data visualization,2005,1.35
+Communication Skills,kubernetes,2003,1.35
+Problem-Solving And Critical Thinking,unit testing,2003,1.35
+Communication Skills,cloud computing,1999,1.35
+Problem-Solving And Critical Thinking,ansible,1999,1.35
+Work Ethic And Professionalism,maintenance,1991,1.34
+Adaptability & Continuous Learning,presentation skills,1990,1.34
+Adaptability & Continuous Learning,c#,1990,1.34
+Time Management And Organizational Skills,data analytics,1988,1.34
+Work Ethic And Professionalism,go,1985,1.34
+Problem-Solving And Critical Thinking,safety,1978,1.34
+Work Ethic And Professionalism,ci/cd,1974,1.33
+Communication Skills,powerpoint,1968,1.33
+Communication Skills,scheduling,1968,1.33
+Adaptability & Continuous Learning,css,1967,1.33
+Adaptability & Continuous Learning,unit testing,1959,1.32
+Work Ethic And Professionalism,data science,1957,1.32
+Problem-Solving And Critical Thinking,css,1957,1.32
+Problem-Solving And Critical Thinking,agile development,1957,1.32
+Time Management And Organizational Skills,microsoft excel,1955,1.32
+Communication Skills,microsoft excel,1948,1.32
+Time Management And Organizational Skills,powerpoint,1939,1.31
+Time Management And Organizational Skills,revit,1938,1.31
+Adaptability & Continuous Learning,typescript,1935,1.31
+Communication Skills,statistical analysis,1935,1.31
+Adaptability & Continuous Learning,automation,1927,1.3
+Problem-Solving And Critical Thinking,data science,1927,1.3
+Problem-Solving And Critical Thinking,powershell,1916,1.29
+Creativity And Inovation,risk management,1913,1.29
+Emotional Intelligence (Eq),problemsolving,1910,1.29
+Time Management And Organizational Skills,c#,1909,1.29
+Time Management And Organizational Skills,statistical analysis,1905,1.29
+Problem-Solving And Critical Thinking,chemical engineering,1896,1.28
+Time Management And Organizational Skills,cad,1892,1.28
+Communication Skills,cad,1891,1.28
+Communication Skills,safety,1873,1.27
+Problem-Solving And Critical Thinking,structural engineering,1867,1.26
+Time Management And Organizational Skills,scrum,1865,1.26
+Adaptability & Continuous Learning,react,1861,1.26
+Time Management And Organizational Skills,html,1859,1.26
+Creativity And Inovation,customer service,1851,1.25
+Time Management And Organizational Skills,team leadership,1843,1.24
+Communication Skills,master's degree,1827,1.23
+Problem-Solving And Critical Thinking,scheduling,1825,1.23
+Adaptability & Continuous Learning,jenkins,1825,1.23
+Communication Skills,structural engineering,1817,1.23
+Communication Skills,systems engineering,1817,1.23
+Communication Skills,docker,1810,1.22
+Communication Skills,continuous improvement,1805,1.22
+Problem-Solving And Critical Thinking,team leadership,1794,1.21
+Time Management And Organizational Skills,agile development,1793,1.21
+Time Management And Organizational Skills,windows,1777,1.2
+Time Management And Organizational Skills,power bi,1770,1.2
+Communication Skills,data analytics,1770,1.2
+Communication Skills,html,1768,1.19
+Problem-Solving And Critical Thinking,jenkins,1756,1.19
+Work Ethic And Professionalism,typescript,1755,1.19
+Communication Skills,matlab,1749,1.18
+Communication Skills,windows,1740,1.18
+Communication Skills,process improvement,1736,1.17
+Communication Skills,power bi,1734,1.17
+Adaptability & Continuous Learning,go,1728,1.17
+Communication Skills,team leadership,1726,1.17
+Time Management And Organizational Skills,security,1722,1.16
+Problem-Solving And Critical Thinking,revit,1720,1.16
+Work Ethic And Professionalism,microservices,1718,1.16
+Adaptability & Continuous Learning,data visualization,1717,1.16
+Communication Skills,scrum,1715,1.16
+Adaptability & Continuous Learning,reporting,1711,1.16
+Emotional Intelligence (Eq),attention to detail,1699,1.15
+Problem-Solving And Critical Thinking,product development,1690,1.14
+Time Management And Organizational Skills,css,1686,1.14
+Time Management And Organizational Skills,chemical engineering,1683,1.14
+Time Management And Organizational Skills,unit testing,1680,1.13
+Communication Skills,security,1678,1.13
+Creativity And Inovation,react,1675,1.13
+Adaptability & Continuous Learning,nosql,1673,1.13
+Adaptability & Continuous Learning,business analysis,1664,1.12
+Creativity And Inovation,manufacturing,1664,1.12
+Problem-Solving And Critical Thinking,maintenance,1656,1.12
+Time Management And Organizational Skills,statistics,1650,1.11
+Communication Skills,statistics,1645,1.11
+Creativity And Inovation,research,1639,1.11
+Time Management And Organizational Skills,go,1638,1.11
+Adaptability & Continuous Learning,microservices,1634,1.1
+Creativity And Inovation,master's degree,1628,1.1
+Communication Skills,unit testing,1625,1.1
+Creativity And Inovation,c#,1624,1.1
+Communication Skills,css,1623,1.1
+Problem-Solving And Critical Thinking,react,1623,1.1
+Problem-Solving And Critical Thinking,ci/cd,1621,1.09
+Communication Skills,chemical engineering,1610,1.09
+Adaptability & Continuous Learning,systems engineering,1606,1.08
+Communication Skills,specifications,1599,1.08
+Creativity And Inovation,systems engineering,1599,1.08
+Problem-Solving And Critical Thinking,specifications,1591,1.07
+Creativity And Inovation,budgeting,1573,1.06
+Communication Skills,solidworks,1571,1.06
+Creativity And Inovation,revit,1569,1.06
+Time Management And Organizational Skills,typescript,1566,1.06
+Communication Skills,agile development,1558,1.05
+Adaptability & Continuous Learning,travel,1556,1.05
+Time Management And Organizational Skills,solidworks,1554,1.05
+Creativity And Inovation,reporting,1552,1.05
+Adaptability & Continuous Learning,training,1543,1.04
+Time Management And Organizational Skills,specifications,1542,1.04
+Time Management And Organizational Skills,data science,1523,1.03
+Creativity And Inovation,scrum,1523,1.03
+Time Management And Organizational Skills,jenkins,1519,1.03
+Time Management And Organizational Skills,nosql,1515,1.02
+Adaptability & Continuous Learning,networking,1510,1.02
+Time Management And Organizational Skills,matlab,1509,1.02
+Creativity And Inovation,training,1506,1.02
+Problem-Solving And Critical Thinking,microservices,1506,1.02
+Work Ethic And Professionalism,nosql,1500,1.01
+Time Management And Organizational Skills,react,1500,1.01
+Creativity And Inovation,networking,1495,1.01
+Creativity And Inovation,cad,1493,1.01
+Creativity And Inovation,unit testing,1483,1.0
+Time Management And Organizational Skills,microservices,1483,1.0
+Time Management And Organizational Skills,maintenance,1476,1.0
+Adaptability & Continuous Learning,ci/cd,1476,1.0
+Time Management And Organizational Skills,structural engineering,1470,0.99
+Creativity And Inovation,html,1463,0.99
+Creativity And Inovation,agile development,1460,0.99
+Emotional Intelligence (Eq),python,1446,0.98
+Creativity And Inovation,data science,1427,0.96
+Creativity And Inovation,matlab,1427,0.96
+Adaptability & Continuous Learning,master's degree,1426,0.96
+Communication Skills,programming,1426,0.96
+Problem-Solving And Critical Thinking,terraform,1424,0.96
+Creativity And Inovation,data analytics,1423,0.96
+Adaptability & Continuous Learning,budgeting,1412,0.95
+Creativity And Inovation,team leadership,1399,0.94
+Emotional Intelligence (Eq),time management,1397,0.94
+Creativity And Inovation,travel,1396,0.94
+Communication Skills,product development,1392,0.94
+Communication Skills,react,1389,0.94
+Adaptability & Continuous Learning,security,1384,0.93
+Time Management And Organizational Skills,product development,1377,0.93
+Creativity And Inovation,css,1376,0.93
+Adaptability & Continuous Learning,data analytics,1366,0.92
+Creativity And Inovation,tableau,1366,0.92
+Adaptability & Continuous Learning,data management,1349,0.91
+Communication Skills,data science,1346,0.91
+Creativity And Inovation,solidworks,1321,0.89
+Creativity And Inovation,product development,1319,0.89
+Time Management And Organizational Skills,programming,1314,0.89
+Creativity And Inovation,data management,1313,0.89
+Creativity And Inovation,security,1310,0.88
+Adaptability & Continuous Learning,scheduling,1310,0.88
+Adaptability & Continuous Learning,tableau,1309,0.88
+Adaptability & Continuous Learning,windows,1297,0.88
+Creativity And Inovation,continuous improvement,1294,0.87
+Adaptability & Continuous Learning,root cause analysis,1293,0.87
+Creativity And Inovation,microservices,1284,0.87
+Adaptability & Continuous Learning,revit,1283,0.87
+Communication Skills,jenkins,1281,0.87
+Emotional Intelligence (Eq),sql,1276,0.86
+Communication Skills,maintenance,1276,0.86
+Creativity And Inovation,terraform,1272,0.86
+Creativity And Inovation,root cause analysis,1263,0.85
+Time Management And Organizational Skills,terraform,1263,0.85
+Creativity And Inovation,windows,1255,0.85
+Adaptability & Continuous Learning,team leadership,1245,0.84
+Time Management And Organizational Skills,ci/cd,1235,0.83
+Creativity And Inovation,safety,1233,0.83
+Creativity And Inovation,typescript,1228,0.83
+Creativity And Inovation,business analysis,1226,0.83
+Communication Skills,ansible,1224,0.83
+Problem-Solving And Critical Thinking,typescript,1217,0.82
+Adaptability & Continuous Learning,research,1216,0.82
+Creativity And Inovation,statistics,1215,0.82
+Adaptability & Continuous Learning,terraform,1210,0.82
+Creativity And Inovation,structural engineering,1209,0.82
+Problem-Solving And Critical Thinking,nosql,1205,0.81
+Time Management And Organizational Skills,active directory,1202,0.81
+Adaptability & Continuous Learning,manufacturing,1192,0.81
+Creativity And Inovation,programming,1190,0.8
+Creativity And Inovation,jenkins,1189,0.8
+Creativity And Inovation,statistical analysis,1189,0.8
+Creativity And Inovation,chemical engineering,1167,0.79
+Creativity And Inovation,process improvement,1166,0.79
+Creativity And Inovation,ci/cd,1162,0.78
+Communication Skills,microservices,1146,0.77
+Communication Skills,ci/cd,1122,0.76
+Adaptability & Continuous Learning,data science,1117,0.75
+Adaptability & Continuous Learning,process improvement,1105,0.75
+Creativity And Inovation,scheduling,1097,0.74
+Communication Skills,active directory,1091,0.74
+Adaptability & Continuous Learning,power bi,1085,0.73
+Creativity And Inovation,powerpoint,1082,0.73
+Adaptability & Continuous Learning,matlab,1082,0.73
+Adaptability & Continuous Learning,continuous improvement,1077,0.73
+Adaptability & Continuous Learning,cad,1075,0.73
+Time Management And Organizational Skills,ansible,1073,0.72
+Adaptability & Continuous Learning,safety,1072,0.72
+Communication Skills,powershell,1070,0.72
+Communication Skills,terraform,1067,0.72
+Emotional Intelligence (Eq),organizational skills,1064,0.72
+Adaptability & Continuous Learning,structural engineering,1063,0.72
+Adaptability & Continuous Learning,ansible,1062,0.72
+Creativity And Inovation,nosql,1056,0.71
+Time Management And Organizational Skills,powershell,1053,0.71
+Emotional Intelligence (Eq),electrical engineering,1037,0.7
+Creativity And Inovation,power bi,1023,0.69
+Emotional Intelligence (Eq),microsoft office suite,1017,0.69
+Adaptability & Continuous Learning,powerpoint,1005,0.68
+Emotional Intelligence (Eq),engineering,992,0.67
+Emotional Intelligence (Eq),bachelor's degree,990,0.67
+Emotional Intelligence (Eq),autocad,987,0.67
+Creativity And Inovation,go,983,0.66
+Creativity And Inovation,specifications,981,0.66
+Creativity And Inovation,microsoft excel,959,0.65
+Emotional Intelligence (Eq),mechanical engineering,950,0.64
+Adaptability & Continuous Learning,microsoft excel,948,0.64
+Adaptability & Continuous Learning,statistical analysis,948,0.64
+Problem-Solving And Critical Thinking,go,941,0.64
+Emotional Intelligence (Eq),problemsolving skills,938,0.63
+Emotional Intelligence (Eq),microsoft office,920,0.62
+Communication Skills,typescript,918,0.62
+Emotional Intelligence (Eq),multitasking,870,0.59
+Creativity And Inovation,active directory,861,0.58
+Creativity And Inovation,ansible,859,0.58
+Communication Skills,nosql,855,0.58
+Emotional Intelligence (Eq),excel,834,0.56
+Adaptability & Continuous Learning,statistics,828,0.56
+Creativity And Inovation,maintenance,815,0.55
+Adaptability & Continuous Learning,programming,809,0.55
+Adaptability & Continuous Learning,maintenance,806,0.54
+Emotional Intelligence (Eq),customer service,803,0.54
+Adaptability & Continuous Learning,specifications,797,0.54
+Adaptability & Continuous Learning,solidworks,793,0.54
+Adaptability & Continuous Learning,chemical engineering,789,0.53
+Emotional Intelligence (Eq),presentation skills,778,0.53
+Adaptability & Continuous Learning,product development,769,0.52
+Adaptability & Continuous Learning,powershell,750,0.51
+Emotional Intelligence (Eq),computer science,729,0.49
+Communication Skills,go,718,0.48
+Creativity And Inovation,powershell,699,0.47
+Emotional Intelligence (Eq),documentation,679,0.46
+Adaptability & Continuous Learning,active directory,678,0.46
+Emotional Intelligence (Eq),technical writing,672,0.45
+Emotional Intelligence (Eq),java,660,0.45
+Emotional Intelligence (Eq),risk management,634,0.43
+Emotional Intelligence (Eq),machine learning,632,0.43
+Emotional Intelligence (Eq),aws,630,0.43
+Emotional Intelligence (Eq),civil engineering,606,0.41
+Emotional Intelligence (Eq),software development,565,0.38
+Emotional Intelligence (Eq),reporting,552,0.37
+Emotional Intelligence (Eq),travel,546,0.37
+Emotional Intelligence (Eq),javascript,544,0.37
+Emotional Intelligence (Eq),business analysis,537,0.36
+Emotional Intelligence (Eq),budgeting,527,0.36
+Emotional Intelligence (Eq),design,520,0.35
+Emotional Intelligence (Eq),linux,486,0.33
+Emotional Intelligence (Eq),training,482,0.33
+Emotional Intelligence (Eq),jira,481,0.32
+Emotional Intelligence (Eq),automation,453,0.31
+Emotional Intelligence (Eq),testing,452,0.31
+Emotional Intelligence (Eq),azure,452,0.31
+Emotional Intelligence (Eq),data visualization,452,0.31
+Emotional Intelligence (Eq),continuous improvement,434,0.29
+Emotional Intelligence (Eq),microsoft excel,420,0.28
+Emotional Intelligence (Eq),software engineering,417,0.28
+Emotional Intelligence (Eq),research,416,0.28
+Emotional Intelligence (Eq),c++,415,0.28
+Emotional Intelligence (Eq),git,409,0.28
+Emotional Intelligence (Eq),devops,401,0.27
+Emotional Intelligence (Eq),root cause analysis,400,0.27
+Emotional Intelligence (Eq),manufacturing,396,0.27
+Emotional Intelligence (Eq),networking,396,0.27
+Emotional Intelligence (Eq),powerpoint,389,0.26
+Emotional Intelligence (Eq),data management,379,0.26
+Emotional Intelligence (Eq),tableau,369,0.25
+Emotional Intelligence (Eq),process improvement,367,0.25
+Emotional Intelligence (Eq),data analytics,363,0.25
+Emotional Intelligence (Eq),kubernetes,362,0.24
+Emotional Intelligence (Eq),scheduling,361,0.24
+Emotional Intelligence (Eq),team leadership,352,0.24
+Emotional Intelligence (Eq),safety,351,0.24
+Emotional Intelligence (Eq),scrum,346,0.23
+Emotional Intelligence (Eq),cloud computing,345,0.23
+Emotional Intelligence (Eq),systems engineering,329,0.22
+Emotional Intelligence (Eq),statistical analysis,319,0.22
+Emotional Intelligence (Eq),docker,313,0.21
+Emotional Intelligence (Eq),windows,306,0.21
+Emotional Intelligence (Eq),chemical engineering,305,0.21
+Emotional Intelligence (Eq),html,302,0.2
+Emotional Intelligence (Eq),agile development,298,0.2
+Emotional Intelligence (Eq),c#,279,0.19
+Emotional Intelligence (Eq),statistics,278,0.19
+Emotional Intelligence (Eq),security,276,0.19
+Emotional Intelligence (Eq),master's degree,273,0.18
+Emotional Intelligence (Eq),css,272,0.18
+Emotional Intelligence (Eq),revit,272,0.18
+Emotional Intelligence (Eq),power bi,257,0.17
+Emotional Intelligence (Eq),product development,250,0.17
+Emotional Intelligence (Eq),cad,250,0.17
+Emotional Intelligence (Eq),active directory,240,0.16
+Emotional Intelligence (Eq),solidworks,237,0.16
+Emotional Intelligence (Eq),maintenance,227,0.15
+Emotional Intelligence (Eq),matlab,225,0.15
+Emotional Intelligence (Eq),data science,224,0.15
+Emotional Intelligence (Eq),react,220,0.15
+Emotional Intelligence (Eq),structural engineering,219,0.15
+Emotional Intelligence (Eq),programming,215,0.15
+Emotional Intelligence (Eq),ci/cd,200,0.14
+Emotional Intelligence (Eq),microservices,198,0.13
+Emotional Intelligence (Eq),jenkins,195,0.13
+Emotional Intelligence (Eq),unit testing,182,0.12
+Emotional Intelligence (Eq),go,170,0.11
+Emotional Intelligence (Eq),specifications,169,0.11
+Emotional Intelligence (Eq),typescript,164,0.11
+Emotional Intelligence (Eq),nosql,161,0.11
+Emotional Intelligence (Eq),terraform,160,0.11
+Emotional Intelligence (Eq),ansible,150,0.1
+Emotional Intelligence (Eq),powershell,131,0.09

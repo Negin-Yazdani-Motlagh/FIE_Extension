@@ -1,0 +1,31 @@
+job_family,rank_in_family,soft_domain,technical_skill,cooccurrence_count,family_size,family_percentage
+ML/AI,1,Collaboration And Team Dynamics,project management,27894,2595,1.8
+ML/AI,2,Work Ethic And Professionalism,project management,24929,2595,1.8
+ML/AI,3,Time Management And Organizational Skills,project management,20263,2595,1.8
+ML/AI,4,Problem-Solving And Critical Thinking,project management,20159,2595,1.8
+ML/AI,5,Communication Skills,project management,19961,2595,1.8
+Data Science,1,Collaboration And Team Dynamics,project management,27894,4898,3.3
+Data Science,2,Work Ethic And Professionalism,project management,24929,4898,3.3
+Data Science,3,Time Management And Organizational Skills,project management,20263,4898,3.3
+Data Science,4,Problem-Solving And Critical Thinking,project management,20159,4898,3.3
+Data Science,5,Communication Skills,project management,19961,4898,3.3
+Security,1,Collaboration And Team Dynamics,project management,27894,7312,4.9
+Security,2,Work Ethic And Professionalism,project management,24929,7312,4.9
+Security,3,Time Management And Organizational Skills,project management,20263,7312,4.9
+Security,4,Problem-Solving And Critical Thinking,project management,20159,7312,4.9
+Security,5,Communication Skills,project management,19961,7312,4.9
+SWE,1,Collaboration And Team Dynamics,project management,27894,18782,12.7
+SWE,2,Work Ethic And Professionalism,project management,24929,18782,12.7
+SWE,3,Time Management And Organizational Skills,project management,20263,18782,12.7
+SWE,4,Problem-Solving And Critical Thinking,project management,20159,18782,12.7
+SWE,5,Communication Skills,project management,19961,18782,12.7
+Product,1,Collaboration And Team Dynamics,project management,27894,2015,1.4
+Product,2,Work Ethic And Professionalism,project management,24929,2015,1.4
+Product,3,Time Management And Organizational Skills,project management,20263,2015,1.4
+Product,4,Problem-Solving And Critical Thinking,project management,20159,2015,1.4
+Product,5,Communication Skills,project management,19961,2015,1.4
+Other,1,Collaboration And Team Dynamics,project management,27894,112445,76.0
+Other,2,Work Ethic And Professionalism,project management,24929,112445,76.0
+Other,3,Time Management And Organizational Skills,project management,20263,112445,76.0
+Other,4,Problem-Solving And Critical Thinking,project management,20159,112445,76.0
+Other,5,Communication Skills,project management,19961,112445,76.0

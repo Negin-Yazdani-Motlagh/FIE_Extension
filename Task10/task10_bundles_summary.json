@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-01-07T12:23:50.596893",
+  "total_postings": 148047,
+  "top_bundles_count": 12,
+  "top_bundles": [
+    {
+      "rank": 1,
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "project management",
+      "cooccurrence_count": 27894,
+      "percentage_of_postings": 18.84,
+      "interpretation": "Collaboration And Team Dynamics frequently co-occurs with project management"
+    },
+    {
+      "rank": 2,
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "project management",
+      "cooccurrence_count": 24929,
+      "percentage_of_postings": 16.84,
+      "interpretation": "Work Ethic And Professionalism frequently co-occurs with project management"
+    },
+    {
+      "rank": 3,
+      "soft_domain": "Time Management And Organizational Skills",
+      "technical_skill": "project management",
+      "cooccurrence_count": 20263,
+      "percentage_of_postings": 13.69,
+      "interpretation": "Time Management And Organizational Skills frequently co-occurs with project management"
+    },
+    {
+      "rank": 4,
+      "soft_domain": "Problem-Solving And Critical Thinking",
+      "technical_skill": "project management",
+      "cooccurrence_count": 20159,
+      "percentage_of_postings": 13.62,
+      "interpretation": "Problem-Solving And Critical Thinking frequently co-occurs with project management"
+    },
+    {
+      "rank": 5,
+      "soft_domain": "Communication Skills",
+      "technical_skill": "project management",
+      "cooccurrence_count": 19961,
+      "percentage_of_postings": 13.48,
+      "interpretation": "Communication Skills frequently co-occurs with project management"
+    },
+    {
+      "rank": 6,
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "python",
+      "cooccurrence_count": 17033,
+      "percentage_of_postings": 11.51,
+      "interpretation": "Collaboration And Team Dynamics frequently co-occurs with python"
+    },
+    {
+      "rank": 7,
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "data analysis",
+      "cooccurrence_count": 15448,
+      "percentage_of_postings": 10.43,
+      "interpretation": "Collaboration And Team Dynamics frequently co-occurs with data analysis"
+    },
+    {
+      "rank": 8,
+      "soft_domain": "Problem-Solving And Critical Thinking",
+      "technical_skill": "data analysis",
+      "cooccurrence_count": 14820,
+      "percentage_of_postings": 10.01,
+      "interpretation": "Problem-Solving And Critical Thinking frequently co-occurs with data analysis"
+    },
+    {
+      "rank": 9,
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "data analysis",
+      "cooccurrence_count": 14455,
+      "percentage_of_postings": 9.76,
+      "interpretation": "Work Ethic And Professionalism frequently co-occurs with data analysis"
+    },
+    {
+      "rank": 10,
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "problem solving",
+      "cooccurrence_count": 14344,
+      "percentage_of_postings": 9.69,
+      "interpretation": "Collaboration And Team Dynamics frequently co-occurs with problem solving"
+    },
+    {
+      "rank": 11,
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "python",
+      "cooccurrence_count": 14094,
+      "percentage_of_postings": 9.52,
+      "interpretation": "Work Ethic And Professionalism frequently co-occurs with python"
+    },
+    {
+      "rank": 12,
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "problem solving",
+      "cooccurrence_count": 13527,
+      "percentage_of_postings": 9.14,
+      "interpretation": "Work Ethic And Professionalism frequently co-occurs with problem solving"
+    }
+  ],
+  "job_families": {
+    "ML/AI": {
+      "count": 2595,
+      "percentage": 1.8
+    },
+    "Data Science": {
+      "count": 4898,
+      "percentage": 3.3
+    },
+    "Security": {
+      "count": 7312,
+      "percentage": 4.9
+    },
+    "SWE": {
+      "count": 18782,
+      "percentage": 12.7
+    },
+    "Product": {
+      "count": 2015,
+      "percentage": 1.4
+    },
+    "Other": {
+      "count": 112445,
+      "percentage": 76.0
+    }
+  }
+}

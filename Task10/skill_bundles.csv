@@ -1,0 +1,13 @@
+rank,soft_domain,technical_skill,cooccurrence_count,percentage_of_postings,interpretation
+1,Collaboration And Team Dynamics,project management,27894,18.84,Collaboration And Team Dynamics frequently co-occurs with project management
+2,Work Ethic And Professionalism,project management,24929,16.84,Work Ethic And Professionalism frequently co-occurs with project management
+3,Time Management And Organizational Skills,project management,20263,13.69,Time Management And Organizational Skills frequently co-occurs with project management
+4,Problem-Solving And Critical Thinking,project management,20159,13.62,Problem-Solving And Critical Thinking frequently co-occurs with project management
+5,Communication Skills,project management,19961,13.48,Communication Skills frequently co-occurs with project management
+6,Collaboration And Team Dynamics,python,17033,11.51,Collaboration And Team Dynamics frequently co-occurs with python
+7,Collaboration And Team Dynamics,data analysis,15448,10.43,Collaboration And Team Dynamics frequently co-occurs with data analysis
+8,Problem-Solving And Critical Thinking,data analysis,14820,10.01,Problem-Solving And Critical Thinking frequently co-occurs with data analysis
+9,Work Ethic And Professionalism,data analysis,14455,9.76,Work Ethic And Professionalism frequently co-occurs with data analysis
+10,Collaboration And Team Dynamics,problem solving,14344,9.69,Collaboration And Team Dynamics frequently co-occurs with problem solving
+11,Work Ethic And Professionalism,python,14094,9.52,Work Ethic And Professionalism frequently co-occurs with python
+12,Work Ethic And Professionalism,problem solving,13527,9.14,Work Ethic And Professionalism frequently co-occurs with problem solving

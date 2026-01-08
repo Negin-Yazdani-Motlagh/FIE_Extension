@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-01-07T12:23:20.782061",
+  "total_postings": 148047,
+  "postings_with_cooccurrence": 124962,
+  "unique_cooccurrence_pairs": 800,
+  "top_10_cooccurrences": [
+    {
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "project management",
+      "count": 27894
+    },
+    {
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "project management",
+      "count": 24929
+    },
+    {
+      "soft_domain": "Time Management And Organizational Skills",
+      "technical_skill": "project management",
+      "count": 20263
+    },
+    {
+      "soft_domain": "Problem-Solving And Critical Thinking",
+      "technical_skill": "project management",
+      "count": 20159
+    },
+    {
+      "soft_domain": "Communication Skills",
+      "technical_skill": "project management",
+      "count": 19961
+    },
+    {
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "python",
+      "count": 17033
+    },
+    {
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "data analysis",
+      "count": 15448
+    },
+    {
+      "soft_domain": "Problem-Solving And Critical Thinking",
+      "technical_skill": "data analysis",
+      "count": 14820
+    },
+    {
+      "soft_domain": "Work Ethic And Professionalism",
+      "technical_skill": "data analysis",
+      "count": 14455
+    },
+    {
+      "soft_domain": "Collaboration And Team Dynamics",
+      "technical_skill": "problem solving",
+      "count": 14344
+    }
+  ]
+}
