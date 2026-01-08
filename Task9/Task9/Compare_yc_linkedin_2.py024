@@ -1,0 +1,207 @@
+"""
+Task 9: Compare YC 2024 vs LinkedIn 2024
+Goal: Compare domain rankings and coverage between YC 2024 and LinkedIn 2024
+"""
+
+import pandas as pd
+import json
+from pathlib import Path
+from datetime import datetime
+
+# Configuration
+BASE_DIR = Path(__file__).parent.parent
+TASK8_DIR = BASE_DIR / "task8"
+TASK9_DIR = Path(__file__).parent
+
+# File paths
+YC_V2_RESULTS = TASK8_DIR / "yc_detector_v2_results.parquet"
+LINKEDIN_V2_RESULTS = TASK9_DIR / "linkedin_2024_v2_results.parquet"
+
+OUTPUT_COMPARISON = TASK9_DIR / "yc_vs_linkedin_2024_comparison.csv"
+OUTPUT_RANKING = TASK9_DIR / "yc_vs_linkedin_2024_ranking.csv"
+OUTPUT_SUMMARY = TASK9_DIR / "yc_vs_linkedin_2024_summary.json"
+
+# Domain names
+DOMAIN_NAMES = [
+    'Adaptability & Continuous Learning',
+    'Collaboration And Team Dynamics',
+    'Communication Skills',
+    'Creativity And Inovation',
+    'Emotional Intelligence (Eq)',
+    'Problem-Solving And Critical Thinking',
+    'Time Management And Organizational Skills',
+    'Work Ethic And Professionalism'
+]
+
+def calculate_domain_coverage(df, version='v2'):
+    """Calculate coverage percentage for each domain"""
+    coverage = {}
+    
+    for domain in DOMAIN_NAMES:
+        present_col = f'text_domain_present_{domain}_{version}'
+        if present_col in df.columns:
+            n_present = df[present_col].sum()
+            coverage_pct = 100 * n_present / len(df) if len(df) > 0 else 0
+            coverage[domain] = {
+                'coverage_percent': round(coverage_pct, 1),
+                'postings_with_domain': int(n_present),
+                'total_postings': len(df)
+            }
+        else:
+            coverage[domain] = {
+                'coverage_percent': 0.0,
+                'postings_with_domain': 0,
+                'total_postings': len(df)
+            }
+    
+    return coverage
+
+def main():
+    """Main execution"""
+    start_time = datetime.now()
+    
+    print("=" * 80)
+    print("TASK 9: Compare YC 2024 vs LinkedIn 2024")
+    print("=" * 80)
+    
+    try:
+        # Step 1: Load YC 2024 data
+        print("\n1. Loading YC 2024 data...")
+        print(f"   File: {YC_V2_RESULTS.name}")
+        yc_df = pd.read_parquet(YC_V2_RESULTS)
+        
+        # Filter to 2024
+        if 'year' in yc_df.columns:
+            yc_2024 = yc_df[yc_df['year'] == 2024].copy()
+            print(f"   [OK] Loaded {len(yc_2024):,} YC 2024 postings")
+        else:
+            print("   [WARNING] No year column found, using all YC data")
+            yc_2024 = yc_df.copy()
+        
+        # Step 2: Load LinkedIn 2024 data
+        print("\n2. Loading LinkedIn 2024 data...")
+        print(f"   File: {LINKEDIN_V2_RESULTS.name}")
+        if not LINKEDIN_V2_RESULTS.exists():
+            print(f"   [ERROR] File not found: {LINKEDIN_V2_RESULTS}")
+            print("   [INFO] Please run task9_run_detector_v2_linkedin.py first")
+            return
+        
+        linkedin_df = pd.read_parquet(LINKEDIN_V2_RESULTS)
+        print(f"   [OK] Loaded {len(linkedin_df):,} LinkedIn 2024 postings")
+        
+        # Step 3: Calculate coverage for both datasets
+        print("\n3. Calculating domain coverage...")
+        yc_coverage = calculate_domain_coverage(yc_2024, version='v2')
+        linkedin_coverage = calculate_domain_coverage(linkedin_df, version='v2')
+        
+        print(f"   [OK] Calculated coverage for {len(DOMAIN_NAMES)} domains")
+        
+        # Step 4: Create comparison table
+        print("\n4. Creating comparison table...")
+        comparison_data = []
+        
+        for domain in DOMAIN_NAMES:
+            yc_cov = yc_coverage[domain]['coverage_percent']
+            linkedin_cov = linkedin_coverage[domain]['coverage_percent']
+            difference = linkedin_cov - yc_cov
+            
+            comparison_data.append({
+                'domain': domain,
+                'yc_2024_coverage_percent': yc_cov,
+                'linkedin_2024_coverage_percent': linkedin_cov,
+                'difference_pp': round(difference, 1),
+                'yc_postings': yc_coverage[domain]['postings_with_domain'],
+                'linkedin_postings': linkedin_coverage[domain]['postings_with_domain']
+            })
+        
+        comparison_df = pd.DataFrame(comparison_data)
+        comparison_df = comparison_df.sort_values('yc_2024_coverage_percent', ascending=False)
+        
+        # Step 5: Create ranking comparison
+        print("\n5. Creating ranking comparison...")
+        
+        # Rank by coverage for each dataset
+        yc_ranked = comparison_df.copy()
+        yc_ranked['yc_rank'] = yc_ranked['yc_2024_coverage_percent'].rank(ascending=False, method='min').astype(int)
+        
+        linkedin_ranked = comparison_df.copy()
+        linkedin_ranked['linkedin_rank'] = linkedin_ranked['linkedin_2024_coverage_percent'].rank(ascending=False, method='min').astype(int)
+        
+        ranking_df = pd.DataFrame({
+            'domain': comparison_df['domain'],
+            'yc_2024_coverage_percent': comparison_df['yc_2024_coverage_percent'],
+            'yc_rank': yc_ranked['yc_rank'],
+            'linkedin_2024_coverage_percent': comparison_df['linkedin_2024_coverage_percent'],
+            'linkedin_rank': linkedin_ranked['linkedin_rank'],
+            'rank_difference': (yc_ranked['yc_rank'] - linkedin_ranked['linkedin_rank']).astype(int)
+        })
+        ranking_df = ranking_df.sort_values('yc_rank')
+        
+        # Step 6: Identify top 5 domains for each
+        yc_top5 = ranking_df.nsmallest(5, 'yc_rank')['domain'].tolist()
+        linkedin_top5 = ranking_df.nsmallest(5, 'linkedin_rank')['domain'].tolist()
+        
+        # Calculate overlap
+        top5_overlap = len(set(yc_top5) & set(linkedin_top5))
+        
+        # Step 7: Save results
+        print("\n6. Saving results...")
+        comparison_df.to_csv(OUTPUT_COMPARISON, index=False)
+        print(f"   [OK] Saved comparison to {OUTPUT_COMPARISON.name}")
+        
+        ranking_df.to_csv(OUTPUT_RANKING, index=False)
+        print(f"   [OK] Saved ranking to {OUTPUT_RANKING.name}")
+        
+        summary = {
+            'timestamp': datetime.now().isoformat(),
+            'yc_2024_total_postings': len(yc_2024),
+            'linkedin_2024_total_postings': len(linkedin_df),
+            'yc_top5_domains': yc_top5,
+            'linkedin_top5_domains': linkedin_top5,
+            'top5_overlap': top5_overlap,
+            'domains': {}
+        }
+        
+        for domain in DOMAIN_NAMES:
+            summary['domains'][domain] = {
+                'yc_coverage_percent': yc_coverage[domain]['coverage_percent'],
+                'linkedin_coverage_percent': linkedin_coverage[domain]['coverage_percent'],
+                'difference_pp': round(linkedin_coverage[domain]['coverage_percent'] - yc_coverage[domain]['coverage_percent'], 1)
+            }
+        
+        with open(OUTPUT_SUMMARY, 'w') as f:
+            json.dump(summary, f, indent=2)
+        print(f"   [OK] Saved summary to {OUTPUT_SUMMARY.name}")
+        
+        # Step 8: Print summary
+        end_time = datetime.now()
+        duration = (end_time - start_time).total_seconds()
+        
+        print("\n" + "=" * 80)
+        print("COMPARISON COMPLETED SUCCESSFULLY")
+        print("=" * 80)
+        print(f"\nSummary:")
+        print(f"  YC 2024 postings: {len(yc_2024):,}")
+        print(f"  LinkedIn 2024 postings: {len(linkedin_df):,}")
+        print(f"\nTop 5 Domains:")
+        print(f"  YC 2024: {', '.join(yc_top5)}")
+        print(f"  LinkedIn 2024: {', '.join(linkedin_top5)}")
+        print(f"  Overlap: {top5_overlap}/5 domains")
+        print(f"\nLargest Differences (LinkedIn - YC):")
+        diff_sorted = comparison_df.sort_values('difference_pp', ascending=False)
+        for _, row in diff_sorted.head(3).iterrows():
+            print(f"  {row['domain']}: {row['difference_pp']:+.1f}pp")
+        print(f"\nOutput files:")
+        print(f"  Comparison: {OUTPUT_COMPARISON}")
+        print(f"  Ranking: {OUTPUT_RANKING}")
+        print(f"  Summary: {OUTPUT_SUMMARY}")
+        print(f"\nTotal time: {duration:.1f} seconds")
+        
+    except Exception as e:
+        print(f"\n[ERROR] Comparison failed: {e}")
+        import traceback
+        traceback.print_exc()
+        raise
+
+if __name__ == "__main__":
+    main()
